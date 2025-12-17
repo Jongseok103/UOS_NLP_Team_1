@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Anaconda
+anaconda3/
+.conda/
+
+# Shell history
+.bash_history
+.bash_logout
+.bashrc
+.profile
+
+# Large files
+*.sh
+Anaconda3-*.sh
+
+# Model outputs and cache
+outputs_*/
+unsloth_compiled_cache/
+*.safetensors
+*.pt
+*.pth
+*.bin

@@ -1,0 +1,100 @@
+도메인,영어 원문 (Source Text),초월 번역,통사적 유창성 평가 포인트
+뉴스 기사,"The committee, whose investigation opened a can of worms regarding the project's funding, is expected to release its full report.",그 프로젝트의 자금 조달과 관련해 걷잡을 수 없는 문제를 야기한 위원회는 곧 전체 보고서를 발표할 예정이다.,[관계대명사(whose) 처리]
+뉴스 기사,"After the scandal was exposed, the corporation had no choice but to face the music and address the public's outrage.","스캔들이 폭로된 후, 그 기업은 자신들의 과오를 인정하고 대중의 분노에 직면할 수밖에 없었다.",[to 부정사 구문 처리]
+뉴스 기사,"Accused of cutting deals under the table, the official is now facing a career-defining investigation.",비밀리에 부정한 거래를 한 혐의로 기소된 그 관리는 현재 자신의 경력이 걸린 조사를 받고 있다.,[분사구문(Accused of...) 처리]
+뉴스 기사,"The leaked memo, which revealed the senator's true intentions, has truly put the cat among the pigeons.",상원 의원의 진짜 속내를 드러낸 그 유출된 메모는 그야말로 엄청난 파장을 일으켰다.,[계속적 용법의 관계대명사(which) 처리]
+뉴스 기사,"Lobbyists tried to influence the vote, but the congresswoman refused to budge, proving she's not one to pull punches.","로비스트들이 투표에 영향을 주려 했지만, 그 여성 의원은 꿈쩍도 하지 않음으로써 자신이 결코 봐주는 사람이 아니라는 것을 증명했다.",[to 부정사 수식 처리]
+문학 작품,"The old mansion on the hill, where shadows danced and whispers echoed, was a place that truly gave him the creeps.","언덕 위의 낡은 저택, 그림자가 춤추고 속삭임이 메아리치는 그곳은 그를 정말 소름 끼치게 만드는 장소였다.",[물주 구문(a place that gave...) 처리]
+문학 작품,"Had he known the chaos it would unleash, he might have let sleeping dogs lie, but his curiosity got the better of him.","그것이 불러올 혼돈을 알았더라면 그는 아마 긁어 부스럼을 만들지 않았을지도 모르지만, 호기심을 이기지 못했다.",[가정법 도치(Had he known) 처리]
+문학 작품,Not until the final page did the protagonist realize that the clue to the mystery had been right under his nose all along.,마지막 페이지에 이르러서야 주인공은 미스터리의 단서가 내내 바로 코앞에 있었다는 사실을 깨달았다.,[부정어 도치(Not until...) 처리]
+문학 작품,"The general, a man who had faced countless battles, finally met an opponent he could not defeat: his own Achilles' heel.","수많은 전투를 치러왔던 그 장군은 마침내 이길 수 없는 적, 바로 자신의 치명적인 약점과 마주했다.",[동격(a man who...) 처리]
+문학 작품,"To appease the king, the jester had to walk a tightrope with every joke he told, lest he cause offense.","왕의 비위를 맞추기 위해, 광대는 불쾌감을 주지 않도록 농담 하나하나에 신중을 기해야만 했다.",[lest 구문 처리]
+소셜 미디어,"He said he'd finish the project in a day but hasn't even started. Actions speak louder than words, I guess.",프로젝트 하루 만에 끝낸다더니 시작도 안 했네. 역시 말보단 행동이지.,[인용/속담 처리]
+소셜 미디어,"That influencer just got exposed for faking all her travel photos. Wow, she really got a taste of her own medicine.","그 인플루언서, 여행 사진 전부 조작한 거 들통났대. 와, 진짜 자기가 한 대로 돌려받네.",[과거형 관용구 처리]
+소셜 미디어,Trying to argue with him is pointless. It's like flogging a dead horse.,걔랑 논쟁하려는 건 의미 없어. 해봤자 소용없는 짓이야.,[비유(It's like...) 처리]
+소셜 미디어,I can't stop thinking about that weird plot twist. It's been living rent-free in my head all week.,그 이상한 반전이 머리에서 떠나질 않네. 일주일 내내 머릿속을 맴돌고 있어.,[현대적 은유 처리]
+소셜 미디어,Everyone is suddenly an expert on quantum physics after watching one documentary? The Dunning-Kruger effect is hitting hard with this one.,다큐 하나 보고 다들 갑자기 양자물리학 전문가가 되셨네? 이거야말로 더닝-크루거 효과가 제대로 온 경우네.,[개념+관용구 결합 처리]
+기술/과학,The reason our current model fails is that trying to process raw audio this way is like putting the cart before the horse.,"현재 모델이 실패하는 이유는, 이런 식으로 원본 오디오를 처리하려는 것 자체가 본말이 전도된 것이기 때문입니다.",[동명사 주어(trying to...) 처리]
+기술/과학,"After the catastrophic failure of the server, the entire engineering team had to go back to the drawing board.","서버의 치명적인 장애 이후, 전체 엔지니어링 팀은 원점에서부터 다시 시작해야만 했다.",[관용구의 시제 일치]
+기술/과학,"To meet the deadline, some developers cut corners on testing, a decision that is now causing major issues.",마감일을 맞추기 위해 일부 개발자들이 테스트를 대충 건너뛴 것이 현재 주요 문제의 원인이 되고 있다.,[관계대명사 계속적 용법(a decision that...) 처리]
+기술/과학,"Given the complexity of the problem, a solution is not expected to fall into our laps; it will require months of dedicated research.","문제의 복잡성을 고려할 때, 해결책이 거저 주어질 것으로 기대되지 않으며, 수개월간의 헌신적인 연구가 필요할 것입니다.",[수동태 to부정사 처리]
+기술/과학,"The competitor's new chip, which boasts incredible speeds, has thrown down the gauntlet to the rest of the industry.",놀라운 속도를 자랑하는 경쟁사의 신제품 칩은 업계의 다른 모든 기업에게 도전장을 내밀었다.,[물주 구문 + 관용구]
+영화 대본,"""You think you can manage this project alone? Don't bite off more than you can chew.""","""이 프로젝트를 혼자 감당할 수 있다고 생각해? 너무 욕심부리지 마.""",[부정 명령문 처리]
+영화 대본,"""He betrayed us. It's time he got a taste of his own medicine. I have a plan.""","""그놈이 우릴 배신했어. 이제 똑같이 당해 줄 차례야. 계획이 있어.""",[시제 일치 및 함축 처리]
+영화 대본,"""I've been working for 18 hours straight. I'm exhausted. Let's call it a day.""","""18시간 내리 일했어. 완전히 지쳤다고. 오늘은 이만 끝내자.""",[제안문(Let's...) 처리]
+영화 대본,"""You expect me to believe that story? Pull the other one, it's got bells on it!""","""내가 그 이야기를 믿을 것 같아? 말도 안 되는 소리 집어치워!""",[생략된 관용구 처리]
+영화 대본,"""Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B.""","""이봐, 화난 건 알겠지만, 일단 침착하게 상황 봐서 대처해야 해. 우리에겐 차선책이 없어.""",[조동사(need to) 처리]
+문화,"When he realized the project was failing, he just said ‘Jesus, take the wheel,’ and gave up completely.","프로젝트가 망해가는 거 보고, 그냥 프로젝트랑 손절하더라","Jesus, take the wheel: 기독교 기반"
+문화,"She tried to fix the issue herself, but it turned into a ‘hold my beer’ moment that made everything worse.",자기가 해결하겠다고 까불다가 대참사 났어,Hold my beer: 미국 남부 문화 기반
+문학 작품,"Ever since he got a promotion, he walks around like he owns the place, real big-man-on-campus energy",승진한 뒤로는 마치 회사가 자기꺼인 것처럼 행동하고 다니더라,Big man on campus: Jerome Weidman 소설
+문화,No need to sugarcoat it—we both know this plan is a Hail Mary at best.,돌려 말할 필요 없어. 우리 둘다 막판 도박 거는거인거 알잖아,This is a Hail Mary: 미식축구 해설문화
+문화,She pulled a Benedict Arnold and switched to the competitor team right before the deadline.,마감 직전에 상대팀으로 갔더라. 제대로 뒤통수 맞았어,Benedict Arnold: 미국 역사적 인물
+문화,"He promised to help, but ghosted harder than someone on a dating app after a bad first date.",도와준다 했는데 전애인마냥 잠수타고 읽씹하고 사라졌어,Ghosted: 언어 문화 기반
+문학 작품,"You can try convincing her, but she’s stubborn as a mule—good luck with that.",설득하려고 해도 소용 없어. 그냥 고집불통이야,Stubborn as a mule: 소설기반
+문화,"He always thinks the grass is greener on the other side, even though he’s never tried what he already has.",걔는 아무것도 하지도 않고 항상 남의 떡이 더 크다고 생각하더라,The grass is greener on the other side: 서양문화권 기반
+문화,"She’s acting like the hall monitor of the entire office, policing everyone’s behavior.",회사에서 다 감시하면서 완장질하고 다니더라,Hall Monitor: 미국 학내 시스템 고유용어
+영화,"When he lost the argument, he changed the topic faster than a politician dodging a question.","할 말 막히니까, 바로 다른 주제로 런치던데? 정치인 인줄",Dodging the question like a politician: 영화어구
+문학 작품,"They tried to spin the scandal, but it was a pure ‘caught with their hand in the cookie jar’ situation.","걔네가 스캔들에 대해 둘러대는데, 빼도박도 못하게 걸렸지",Caught with your hand in the cookie jar: 소설기반
+문화,He gave me a smile so fake it should’ve been sold at Walmart after Halloween.,표정은 웃고 있긴 한데 영업용이던데?,Walmart after Halloween: 할로윈 문화
+문화,She keeps playing devil’s advocate even when no one asked for it.,누가 시킨 것도 아닌데도 사사건건 태클걸더라,Devil's advocate: 종교 기반
+영화,He’s the type who brings a knife to a gunfight and wonders why things go wrong.,준비도 안하고 뇌비우고 덤벼들어 왜 망했는지 모르는 타입,Bringing a knife to a gunfight: 영화 기반
+소셜 미디어,She’s not just late—she runs on her own Disney time.,그냥 늦은게 아니라 시간 개념이 없어,Disney time: 온라인 밈
+문학 작품,"They expected him to crack under pressure, but he stayed cool as a cucumber.",다 긴장했는데 걔 혼자 태평하더라,Cool as a cucumber: 소설 기반
+문학 작품,"He’s the golden boy of the company, so management treats him like he can do no wrong.",라인 진짜 잘 타서 뭘 해도 칭찬 받더라,Golden boy: 소설 기반
+문화,Trying to get them to finish the report is like herding cats.,보고서 하나 모으는게 진짜 제각각이라 진짜 정신 없더라,Like herding cats: 문화 기반
+문화,"When she apologized, it sounded like one of those PR-approved celebrity apology notes.",사과는 했는데 그냥 유튜버들 사고치고 사과하는 느낌이었어,PR-approved celebrity apology: 미디어 비평 문화
+소셜 미디어,She’s got resting politician face—always looks like she’s about to debate someone.,말을 못해서 안절부절이더라. 아무나랑 계속 토론하려고 해,Resting poliician face: Reddit 밈
+문학 작품,He’s reading way too much into it—classic tinfoil-hat energy.,의미 없는데도 쓸 데 없이 삽질하더라.,Tinfoil hat: 소설 기반
+문화,They acted like the Fourth of July over the tiniest bit of praise.,칭찬 조금 들었다고 어깨가 뽕 찼던라,Fourth of July: 미국 문화 기반
+문화,He’s basically the office Santa Claus—shows up rarely but always hands out gifts.,가끔 나타나면 뭐 맨날 줘 완전 기부천사야,Santa Claus of the office: 크리스마스 문화
+영화,She pulled a Cinderella story by completely transforming herself before the interview.,면접 전에 머리부터 발끝까지 모두 바꼇더라,Cinderella story: 영화기반
+문화,"He went full cowboy, jumping into the situation without a plan.",계획도 없이 무대뽀로 질렀더라,Full cowboy: 서부극 문화 기반
+뉴스기사,"...an obvious silver bullet that we can look to, to resolve it overnight.",하룻밤 새 모든 걸 단번에 풀어줄 만능치트키 같은 해법은 없다.,silver bullet→만능치트키(직역 ‘은 탄환’ 금지); overnight→‘단번에/하룻밤 새’
+뉴스기사,The proverbial smoking gun in the case was the record of online chat rooms...,이 사건의 결정적 증거는 트레이더 채팅 기록이었다.,smoking gun→결정적 증거; ‘case’의 법적 맥락 유지
+뉴스기사,It’s a political hot potato.,이건 정치적 뜨거운 감자다.,hot potato→뜨거운 감자; 구어체 어조 유지
+뉴스기사,The U.S. economy is not out of the woods yet.,미국 경제는 아직 안심할 단계가 아니다.,not out of the woods yet→‘아직 안심할 수 없다’(‘숲’ 직역 금지)
+뉴스기사,The elephant in the room is clearly whether the U.S. tariffs will be fully implemented.,모두가 알지만 말을 아끼는 핵심 문제는 미 관세의 전면 시행 여부다.,elephant in the room→‘다들 모르는 척하는 핵심 문제’; 주어(관세) 정확
+뉴스기사,...slammed as a ‘red herring’ calls for investors to divest...,에너지 투자회수 요구를 본질을 흐리는 미끼라고 일축했다.,red herring→본질 흐림; 목적어(투자회수·divest) 의미 보존
+뉴스기사,...the rally... could be a red herring.,그 랠리는 눈속임에 불과할 수 있다.,red herring→눈속임/헛갈림; 시장 맥락 유지
+뉴스기사,"China, typically the emerging elephant in the room, saw funds flee...",보통 보이지 않는 큰 변수인 중국에서 자금이 빠져나갔다.,elephant in the room→‘큰 변수’ 뉘앙스; funds flee→‘자금 이탈’
+뉴스기사,Given the ‘elephant in the room’ of tariffs...,관세라는 누가 봐도 큰 변수를 고려하면...,관용어 의미화; tariffs 대상 정확
+뉴스기사,"Possibly more than anything else, this is Kim Jong Un’s Achilles heel.",무엇보다도 이것이 김정은의 아킬레스건일 수 있다.,Achilles’ heel→아킬레스건; 화자/맥락(에너지·전력) 왜곡 금지
+문학작품,All that glisters is not gold.,똥인지 된장인지 찍어 먹어봐야 아나~,속담적 함의 유지(허상 경계); glisters의 고어 뉘앙스 반영
+문학작품,"The lady doth protest too much, methinks.","저 여자의 강한 부정은 강한 긍정일 수 있지,  더 수상한데",protest too much→‘지나친 부인=오히려 인정’ 함의
+문학작품,There is a tide in the affairs of men... leads on to fortune.,물들어 올때 노저어야 한다. ,tide→‘시의적 기회’ 은유; 운명·기회 톤
+문학작품,"It was the best of times, it was the worst of times.",최고와 최악이 공존하던 시대였다.,대조법(역설) 보존; 리듬·간결성 유지
+문학작품,...from hell’s heart I stab at thee; for hate’s sake...,지옥 같은 심장으로 마지막 창을 꽂겠다—증오를 다해.,서사적 격정/격문체; ‘spear/last breath’ 이미지 살림
+문학작품,"So we beat on, boats against the current, borne back ceaselessly...","우리는 파도를 거슬러 노 저어도, 끝내 과거로 밀려간다.",boats against the current 은유; 담담·서정 톤
+문학작품,‘Hope’ is the thing with feathers — that perches in the soul—,희망은 깃 달린 새—영혼 위에 가만히 앉아 있다.,feathers 은유를 새로 풀기(직역 어색함 피함)
+소셜 미디어,Soda definitely hits different from a can than from a bottle...,탄산은 병보다 캔으로 마실때 제맛이다. ,hits different→‘확 다르게 와닿다’; 구어톤 유지
+소셜 미디어,...I get sucked into doomscrolling and lose track of time.,스크롤 하다가 시간 순삭이다. ,doomscrolling 음역+의미 보존; 1인칭 구어체
+소셜 미디어,Was doomscrolling TikTok when a punk band... popped up.,틱톡을 스크롤링하다가 펑크 밴드가 눈에 띄었다.,신조어 자연화; 시제·구어 리듬
+소셜 미디어,Daylight Savings Time just hits different with kids.,아이들과 함께하니 서머타임은 체감이 확 다르다.,hits different 뉘앙스; 문화어휘(DST) 정확
+소셜 미디어,It hits different when you’re standing in line for boba...,보바 줄에 서 있으면 느낌이 또 다르게 온다.,hits different 일상어화; 상황 맥락 유지
+영화대본,"Fasten your seatbelts, it’s going to be a bumpy night.",안전벨트 매요. 오늘 밤은 험난할 테니까.,bumpy night→‘파란만장/험난’; 분위기(예감) 살리기
+영화대본,I’m gonna make him an offer he can’t refuse.,그에게 거절할 수 없는 제안을 할거야,관용구 완성형; 협박 뉘앙스 은근히
+영화대본,Get busy livin’ or get busy dyin’.,"살자고 붙들거나 , 죽자고 달려들거나",평행구조·대조 보존; 축약형 구어감
+영화대본,I've got better things to do with my Saturday nights. I could give you their names.,"토요일 저녁시간 날렸네, 재미 볼 상대 많은데",could give you their names -> 관용어
+영화대본,"Here's how it works, Meryl Streep.","잘 들어, 배우 양반.",Meryl Streep -> 배우로 해석
+영화대본,"In her defence, I'm a handful.",날 이해해 줄 여자 별로 없어., I'm a handful -> 관용 표현
+논문 예제,Observing local rituals provides a colorful path into a different culture .,현지인의 의식을 관찰하면 다양한 문화에 대한 이해도 수월해진다., a colorful path -> 관용구
+논문 예제,It’s opened up avenues they would never have thought of before.,여행은 그들에게 전에는 상상도 못한 것들에 관심을 갖게 해준다 .,It’s opened up avenues -> 관용표현
+논문 예제,"Within two years the Jesuits’ self-governance was restored, but John Paul had shown his hand .",예수회는 2년 안에 자치권을 회복했지만 그때는 요한 바오로 2 세가 이미 자신의 의지를 확실히 보여준 뒤였다 .,shown his hand -> 관용표현
+논문 예제,"You’ve got to get on with the person who sits across from you at work, he says. You have to be a team player .",직장에선 맞은 편에 앉아 있는 사람에게 의존하지 않을 수 없다. 협력이 매우 중요하기 때문이라고 말했다., be a team player -> 관용 표현
+논문 예제,"Meanwhile, community cohesiveness suffers when the holiday-home owners, who represent 70 percent of the area, make their seasonal exodus .",또 그 지역의 70%를 소유한 별장 주인들이 휴가철이 끝나 되돌아가면 지역사회의 응집력도 크게 떨어진다.,seasonal exodus -> 관용어
+소셜 미디어,"He wanted to enter the drawing competition, but he was too late to enter, and he missed the boat.","그는 그림 그리기 대회에 참여하기를 원했으나 참여하기에는 이미 늦었고, 그는 기회를 놓쳤다.",각 신조어 표현 의미 해석
+소셜 미디어,What’s the tea today?,오늘의 가십거리는 뭐야?,각 신조어 표현 의미 해석
+소셜 미디어,"Sometimes, I want to yell at my boss like “OK boomer!”",가끔 사장님한테 “알겠어 이 꼰대야”라고 소리치고 싶어.,각 신조어 표현 의미 해석
+소셜 미디어,Leo slayed his ootd.,레오 오늘 옷 진짜 잘입었더라.,각 신조어 표현 의미 해석
+소셜 미디어,"You look nice today, no cap!","오늘 너 정말 멋지다, 진짜로!",각 신조어 표현 의미 해석
+소셜 미디어,She ghosted me 2 months ago.,걔 2달 전부터 잠수탔어.,각 신조어 표현 의미 해석
+소셜 미디어,He was throwing shade at you yesterday.,걔가 너 뒷담까고 있었어.,각 신조어 표현 의미 해석
+소셜 미디어,An application that connects used transactions with local residents is also a representative example of Hyperlocal.,동네 주민들끼리 만나서 중고 거래를 이어주는 앱 또한 슬세권의 대표 사례로 들 수 있습니다.,각 신조어 표현 의미 해석
+소셜 미디어,I really stan Taylor Swift!,나 테일러 스위프트 진짜 좋아해!,각 신조어 표현 의미 해석
+소셜 미디어,He's got mad rizz.,그는 엄청난 매력을 가졌어.,각 신조어 표현 의미 해석
+소셜 미디어,"She's working on something cool, let him cook.",그 여자 지금 멋진 거 만들고 있어 - 그냥 두자.,각 신조어 표현 의미 해석
+소셜 미디어,She thinks her crush likes her back - she's so delulu.,그녀는 짝사랑하는 남자가 자기한테 관심 있다고 생각해 - 정말 착각하고 있어.,각 신조어 표현 의미 해석
+소셜 미디어,He's been a couch potato all weekend.,그 남자는 주말 내내 소파에서 움직이질 않아.,각 신조어 표현 의미 해석
+소셜 미디어,Obvi I’m going to the party.,당연히 파티 가야지.,각 신조어 표현 의미 해석
+소셜 미디어,Totes agree with you.,너 말 100퍼센트 공감.,각 신조어 표현 의미 해석
+소셜 미디어,"That taco was bomb, amirite?","그 타코 진짜 맛있었지, 내 말이 맞지?",각 신조어 표현 의미 해석
