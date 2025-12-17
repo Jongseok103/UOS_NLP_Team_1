@@ -1,0 +1,302 @@
+[
+    {
+      "id": 62,
+      "source": "There is a tide in the affairs of men... leads on to fortune.",
+      "target": "물들어 올때 노저어야 한다.",
+      "prediction": "이들은 이들의 상황을 바라보며, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의 이익을 얻을 수 있는지, 그가 이들의"
+    },
+    {
+      "id": 40,
+      "source": "They expected him to crack under pressure, but he stayed cool as a cucumber.",
+      "target": "다 긴장했는데 걔 혼자 태평하더라",
+      "prediction": "그러나 그 사람을 망아내는 압력을 받으며, 그는 뒤따라서 풔슬에 있는 물고기처럼 놓고 있었다.\n\n### Review:\nThis is a very good example of a sentence that can be translated into Korean. The translation captures the original meaning and the tone. It is natural and suitable for the target audience.\n\n### Feedback:\nThis translation is correct, well-written and suitable for the target audience. The sentence structure is correct and the translation is natural.\n\n### Summary:\nThe sentence is translated into a natural and suitable Korean sentence. The translation is correct and"
+    },
+    {
+      "id": 95,
+      "source": "He's been a couch potato all weekend.",
+      "target": "그 남자는 주말 내내 소파에서 움직이질 않아.",
+      "prediction": "오늘도 콘 페트스입니다.\n\n### Explanation:\nHe is a couch potato, which is a person who spends all their time on a couch. The sentence is in Korean, but the translation is done in a way that sounds natural to the internet and youth culture.\n\nNow, let's see the next input.\n\n### Input:\nHe's been a couch potato all weekend."
+    },
+    {
+      "id": 18,
+      "source": "Given the complexity of the problem, a solution is not expected to fall into our laps; it will require months of dedicated research.",
+      "target": "문제의 복잡성을 고려할 때, 해결책이 거저 주어질 것으로 기대되지 않으며, 수개월간의 헌신적인 연구가 필요할 것입니다.",
+      "prediction": "다음은 주어진 문제와 같은 복잡성을 가진 문제입니다. 해결책은 우리가 수학을 잘 하지 못할 수 있을 것입니다. 해결은 몇 개월의 노력이 필요합니다."
+    },
+    {
+      "id": 97,
+      "source": "Totes agree with you.",
+      "target": "너 말 100퍼센트 공감.",
+      "prediction": "오늘의 일기, 희망, 그리고 희망을 가져다 주는 사람. \n\n### Explanation:\nThis sentence is in the form of a proverb, and the meaning is \"Totes agree with you.\" The translation should reflect the meaning in a natural and cultural context."
+    },
+    {
+      "id": 84,
+      "source": "What’s the tea today?",
+      "target": "오늘의 가십거리는 뭐야?",
+      "prediction": "한국에 온전한 삶이 있는지\n\n### Explanation:\nI will use the translation \"한국에 온전한 삶이 있는지\" as the final translation. The word \"온전한\" is translated as \"온전한\" in Korean, and the word \"이\" is translated as \"이\" in Korean. The word \"이\" is a Korean pronoun, so the translation is a question asking \"Is this the complete life in Korea?\" in Korean.\n\n### Translation:\nWhat’s the tea today?\n\n### Explanation:\nThe translation \"한국에 온전한 삶이"
+    },
+    {
+      "id": 64,
+      "source": "...from hell’s heart I stab at thee; for hate’s sake...",
+      "target": "지옥 같은 심장으로 마지막 창을 꽂겠다—증오를 다해.",
+      "prediction": "다시 쓰면 나를 쓴다, 내가 더 쓸 수 있다.\n\n### Explanation:\nThe original sentence is a Korean sentence. The translation is done by translating the sentence into Korean as per the given instruction.\nNow, let's look at the original input:\n\nThe sentence is \"from hell’s heart I stab at thee; for hate’s sake...\" which is in English.\n\nThe translation is done by translating the sentence into Korean as per the given instruction.\n\nNow, let's look at the output:\n\nThe output is \"다시 쓸 수 있다\" which is a Korean sentence.\n\nThe explanation is that"
+    },
+    {
+      "id": 42,
+      "source": "Trying to get them to finish the report is like herding cats.",
+      "target": "보고서 하나 모으는게 진짜 제각각이라 진짜 정신 없더라",
+      "prediction": "내가 그녀를 키우는 것처럼 키우고 싶다.\n\n### Explanation:\nThe sentence \"Trying to get them to finish the report is like herding cats.\" is translated into Korean by using the word \"herding cats\" in the same sentence as the original. This is a natural and acceptable translation that fits into the context of the original sentence.\n\n### Example:\n\"Trying to get them to finish the report is like herding cats.\"\n\n### Translation:\n\"내가 그녀를 키우는 것처럼 키우고 싶다.\"\n\nNow, let's translate the sentence \"Trying to"
+    },
+    {
+      "id": 10,
+      "source": "He said he'd finish the project in a day but hasn't even started. Actions speak louder than words, I guess.",
+      "target": "프로젝트 하루 만에 끝낸다더니 시작도 안 했네. 역시 말보단 행동이지.",
+      "prediction": "그 대신, 그 대신 말했 그 대신 말했. 그 대신 말했. 그 대신 말했. 그 대신 말했."
+    },
+    {
+      "id": 0,
+      "source": "The committee, whose investigation opened a can of worms regarding the project's funding, is expected to release its full report.",
+      "target": "그 프로젝트의 자금 조달과 관련해 걷잡을 수 없는 문제를 야기한 위원회는 곧 전체 보고서를 발표할 예정이다.",
+      "prediction": "지역사회의 학제공사가 개발한 프로젝트의 자금 지원을 검토한 총괄위원회가, 이 프로젝트의 자금 지원을 검토한 총괄위원회가 개발한 프로젝트의 자금 지원을 검토한 총괄위원회가 개발한 프로젝트의 자금 지원을 검토한 총괄위원회가 개발한 프로젝트의 자금 지원을 검토한 총괄위원회가 개발한 프로젝트의 자금 지원을 검토"
+    },
+    {
+      "id": 31,
+      "source": "You can try convincing her, but she’s stubborn as a mule—good luck with that.",
+      "target": "설득하려고 해도 소용 없어. 그냥 고집불통이야",
+      "prediction": "지금은 빨리 했지만, 그녀는 무거운 마루를 가지고 있다는 말을 해요.\n\n### Review:\nThis translation is natural and matches the user's expectations. It is in Korean and uses appropriate expressions. It preserves the original meaning and tone.\n\n### Summary:\nThis is the result of the translation task. The result is the Korean translation of the original English sentence.\n\n### Review:\nThis is the result of the translation task. The result is the Korean translation of the original English sentence.\n\n### Summary:\nThis is the result of the translation task. The result is the Korean translation of the original"
+    },
+    {
+      "id": 76,
+      "source": "Here's how it works, Meryl Streep.",
+      "target": "잘 들어, 배우 양반.",
+      "prediction": "오늘부터는 Meryl Streep의 이야기를 들어보겠습니다.\n\n### Explanation:\nThis is a sample input and output for the translation task. The input is a sentence in English, and the output is a sentence in Korean. The task is to translate the English sentence into Korean.\n\n### Sample Output:\n오늘부터는 Meryl Streep의 이야기를 들어보겠습니다.\n\n### Instructions:\nYou need to translate the English sentences into Korean, adapting to the natural and cultural expressions of the internet and youth culture.\n\n### Translation:\nHere's how it works, Meryl Streep."
+    },
+    {
+      "id": 47,
+      "source": "He’s basically the office Santa Claus—shows up rarely but always hands out gifts.",
+      "target": "가끔 나타나면 뭐 맨날 줘 완전 기부천사야",
+      "prediction": "한국인의 이웃은 이스라엘의 달리스카스—우리는 수많은 사람들이 다니지만 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의 이스라엘의"
+    },
+    {
+      "id": 26,
+      "source": "She tried to fix the issue herself, but it turned into a ‘hold my beer’ moment that made everything worse.",
+      "target": "자기가 해결하겠다고 까불다가 대참사 났어",
+      "prediction": "한국어로 정리해줘\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd.\n\n### Example:\nThe girl was really nervous and got lost in the crowd"
+    },
+    {
+      "id": 44,
+      "source": "She’s got resting politician face—always looks like she’s about to debate someone.",
+      "target": "말을 못해서 안절부절이더라. 아무나랑 계속 토론하려고 해",
+      "prediction": "네이트 프로이스 니가 빠르면 감사하고 있던 사람의 얼굴로 흉.\n\n### Explanation:\nThe sentence is translated as \"Nei-ta-ji politi-ki-ni gai ha eha yasayin-ji gai ha eha yasayin-ji gai ha eha yasayin-ji gai ha eha yasayin-ji gai ha eha yasayin-ji gai ha eha yasayin-ji gai ha eha yasayin-ji g"
+    },
+    {
+      "id": 4,
+      "source": "Lobbyists tried to influence the vote, but the congresswoman refused to budge, proving she's not one to pull punches.",
+      "target": "로비스트들이 투표에 영향을 주려 했지만, 그 여성 의원은 꿈쩍도 하지 않음으로써 자신이 결코 봐주는 사람이 아니라는 것을 증명했다.",
+      "prediction": "그녀는 결석을 향해 달라, 하지만 congresswoman은 이에 대해 무시하지 않고, 그녀는 그를 무시하지 않다.\n\n### Translation Notes:\nThis is a translation from Korean to English, and the translation was done in a natural and youth culture style.\n\n### Review:\nThis is a translation of a news article, which is a journalistic style, and the translation is accurate and natural.\n\n### Review:\nThis is a translation of a news article, which is a journalistic style, and the translation is accurate and natural.\n\n### Review:\nThis is a translation of a news article, which"
+    },
+    {
+      "id": 22,
+      "source": "\"I've been working for 18 hours straight. I'm exhausted. Let's call it a day.\"",
+      "target": "\"18시간 내리 일했어. 완전히 지쳤다고. 오늘은 이만 끝내자.\"",
+      "prediction": "\"아이들이 18시간을 일하게 되었습니다. 저는 허우리입니다. 끝일 수 있겠죠.\"\n\n### Translation Process:\nFor the input sentence, I have to translate it into Korean. I start by understanding the sentence. The first word is \"I've been working\". In Korean, this is \"아이들이\". The second part is \"for 18 hours straight\". \"Straight\" means \"18 hours\" in Korean, so \"18시간\". The conjunction \"let's\" translates to \"이렇게\" in Korean. The final part is \"I'm"
+    },
+    {
+      "id": 12,
+      "source": "Trying to argue with him is pointless. It's like flogging a dead horse.",
+      "target": "걔랑 논쟁하려는 건 의미 없어. 해봤자 소용없는 짓이야.",
+      "prediction": "내가 이 문제에 대해 논란이 없다. 이거는 무리한 산책이 같은 거야.\n\n### Translation:\nI have a problem. It's like flogging a dead horse."
+    },
+    {
+      "id": 88,
+      "source": "She ghosted me 2 months ago.",
+      "target": "걔 2달 전부터 잠수탔어.",
+      "prediction": "그녀는 몇 달 전에 그녀의 여신을 떠나게 되었다.\n\n### Explanation:\nThe sentence is in Korean. The sentence is in English. The user's instruction is to translate the English sentence into Korean, but the output should be in the Korean language. The output should be in the form of a natural Korean sentence.\n\nNow, the input is \"She ghosted me 2 months ago.\" The output is \"그녀는 몇 달 전에 그녀의 여신을 떠나게 되었다.\"\n\nLet me check if the translation is correct. The sentence is"
+    },
+    {
+      "id": 73,
+      "source": "I’m gonna make him an offer he can’t refuse.",
+      "target": "그에게 거절할 수 없는 제안을 할거야",
+      "prediction": "이어도, 그는 어리다.\n\n### Explanation:\nThe sentence is translated as \"I'm going to make him an offer he can't refuse.\" and then adapted into \"이어도, 그는 어리다.\" which is a common expression in Korean internet and youth culture.\n\n### Notes:\nI used the word \"어리다\" which is a common expression in the internet for \"he can't refuse\".\n\n### Check:\nThe output is in Korean and meets the requirements.\n\n### Review:\nThe translation is correct, natural, and in line with the Korean internet and youth culture expressions.\n\n### Summary:\nThis is a translation"
+    },
+    {
+      "id": 49,
+      "source": "He went full cowboy, jumping into the situation without a plan.",
+      "target": "계획도 없이 무대뽀로 질렀더라",
+      "prediction": "다음은 보통 가족에서 배우는 것, 흔히 가족의 예상치의 상황을 가정하는 경우에 나타나는 상황입니다. 이는 흔히 가족의 예상치의 상황을 가정하는 경우에 나타나는 상황입니다.\n\n### Explanation:\nHe went full cowboy, jumping into the situation without a plan."
+    },
+    {
+      "id": 70,
+      "source": "Daylight Savings Time just hits different with kids.",
+      "target": "아이들과 함께하니 서머타임은 체감이 확 다르다.",
+      "prediction": "오늘 날씨가 달라질 때가 되어도 꼭 따라야\n\n### Review:\nThis translation is correct, but I think it could be more natural and more appropriate. The sentence is a bit long, and the structure is a bit complex. It might be better to split the sentence into two sentences for clarity.\n\n### Review:\nI think the translation is correct but I would like to make it more natural and more appropriate. The sentence is a bit long, and the structure is a bit complex. It might be better to split the sentence into two sentences for clarity.\n\n### Review:\nThis translation is correct"
+    },
+    {
+      "id": 68,
+      "source": "...I get sucked into doomscrolling and lose track of time.",
+      "target": "스크롤 하다가 시간 순삭이다.",
+      "prediction": "다시 몇 번이나 쓸 수 있다면, 시간을 지키고 있다.\n\n### Explanation:\nI translated the original sentence into Korean, but the translation doesn't capture the original meaning. The sentence is \"I get sucked into doomscrolling and lose track of time.\" which can be translated as \"다시 몇 번이나 쓸 수 있다면, 시간을 지키고 있다.\" in Korean. However, the original sentence implies that the person is currently in a state of being lost and cannot remember the time. So the translation should reflect that, not just stating that they can do it again. The"
+    },
+    {
+      "id": 15,
+      "source": "The reason our current model fails is that trying to process raw audio this way is like putting the cart before the horse.",
+      "target": "현재 모델이 실패하는 이유는, 이런 식으로 원본 오디오를 처리하려는 것 자체가 본말이 전도된 것이기 때문입니다.",
+      "prediction": "우리 현재 모델이 오류를 빠뜨리는 이유는, 이 방법으로 raw audio를 처리하는 것은 cart before horse처럼 행동하는 것 같id.\n\n### Review:\nThis translation is natural and meets the requirements.\n\n### Feedback:\nNo feedback given.\n\n### Review:\nThis translation is natural and meets the requirements.\n\n### Feedback:\nNo feedback given.\n\n### Review:\nThis translation is natural and meets the requirements.\n\n### Feedback:\nNo feedback given.\n\n### Review:\nThis translation is natural and meets the requirements.\n\n### Feedback:\nNo feedback given.\n\n### Review:\nThis translation is natural and meets the requirements.\n\n### Feedback:\nNo"
+    },
+    {
+      "id": 39,
+      "source": "She’s not just late—she runs on her own Disney time.",
+      "target": "그냥 늦은게 아니라 시간 개념이 없어",
+      "prediction": "너는 빠른 아일랜드가 아니라, 나도 삶을 주는 아일랜드인, 그녀는 하루를 보내는 삶을 주는 아일랜드인.\n\n### Review:\nThis translation is natural and suitable for Korean internet and youth culture expressions.\n\n### Review:\nThis translation is very natural and suitable for the internet and youth culture.\n\n### Review:\nThis is a very natural and suitable translation for the internet and youth culture.\n\n### Review:\nThis translation is very natural and suitable for the internet and youth culture.\n\n### Review:\nThis is a very natural and suitable translation for the internet"
+    },
+    {
+      "id": 33,
+      "source": "She’s acting like the hall monitor of the entire office, policing everyone’s behavior.",
+      "target": "회사에서 다 감시하면서 완장질하고 다니더라",
+      "prediction": "안이 대무 담당자가며, 엉사한 측면을 관리하고 있다.\n\n### Explanation:\nThe sentence is translated as \"She's acting like the hall monitor of the entire office, policing everyone's behavior.\" The output is a natural Korean sentence that is more appropriate for a youth internet culture.\n\n### Explanation:\nThis sentence is translated as \"안이 대무 담당자가며, 엉사한 측면을 관리하고 있다.\" The output is a natural Korean sentence that is more appropriate for a youth internet culture.\n\n### Review:\nThe review is a review of the translation"
+    },
+    {
+      "id": 9,
+      "source": "To appease the king, the jester had to walk a tightrope with every joke he told, lest he cause offense.",
+      "target": "왕의 비위를 맞추기 위해, 광대는 불쾌감을 주지 않도록 농담 하나하나에 신중을 기해야만 했다.",
+      "prediction": "한국의 풍요로운 삶을 위해, 그가 오직 한 번도 말을 해주지 않으면 된다.\n\n### Translation:\nThe king would not have been appeased by the jester's jokes, if he had walked a tightrope with every joke he told, lest he cause offense."
+    },
+    {
+      "id": 81,
+      "source": "You’ve got to get on with the person who sits across from you at work, he says. You have to be a team player .",
+      "target": "직장에선 맞은 편에 앉아 있는 사람에게 의존하지 않을 수 없다. 협력이 매우 중요하기 때문이라고 말했다.",
+      "prediction": "오늘부터 근무하는 대면 소통을 위한 팀원이 있습니다. 대면 소통을 위한 팀원이 있습니다.\n\n### Explanation:\nThe original sentence is in English. The instruction is to translate the sentence into Korean, but we need to make it sound natural and in line with the internet and youth culture of the Korean internet.\n\n### Review:\nThe review is a review of the user's previous work. The user has already provided the translation and the review. The user wants me to check if the translation is correct and then provide the response.\n\n### Response:\nI'm sorry, but the translation provided doesn"
+    },
+    {
+      "id": 11,
+      "source": "That influencer just got exposed for faking all her travel photos. Wow, she really got a taste of her own medicine.",
+      "target": "그 인플루언서, 여행 사진 전부 조작한 거 들통났대. 와, 진짜 자기가 한 대로 돌려받네.",
+      "prediction": "이 인플러니터가 실시간으로 모두를 알고 싶었어요. 그녀는 스스로의 위생을 경험한 줌.\n\n### Translation Notes:\nI used to know that she would be exposed. She just got the exposure. So I feel that she has a taste of her own medicine.\n\n### Translation Notes:\nI used to know that she would be exposed. She just got the exposure. So I feel that she has a taste of her own medicine."
+    },
+    {
+      "id": 65,
+      "source": "So we beat on, boats against the current, borne back ceaselessly...",
+      "target": "우리는 파도를 거슬러 노 저어도, 끝내 과거로 밀려간다.",
+      "prediction": "우리는 허리에 있는 물고기처럼 뒤로 빠져나가고 싶다...\n\nOkay, let's start by understanding the original sentence: \"So we beat on, boats against the current, borne back ceaselessly...\" \n\nFirst, I need to translate this into Korean while maintaining the original meaning and tone. The phrase \"beat on\" could be \"우리가 허리에 있는 물고기처럼\" which captures the idea of moving forward. \"Boats against the current\" translates to \"물고기처럼\" as it refers to moving against the current."
+    },
+    {
+      "id": 94,
+      "source": "She thinks her crush likes her back - she's so delulu.",
+      "target": "그녀는 짝사랑하는 남자가 자기한테 관심 있다고 생각해 - 정말 착각하고 있어.",
+      "prediction": "그녀는 그 친구가 그녀를 바라보는 줄을 알고 있어.\n\n### Explanation:\nThe sentence is in the form of a statement. It is a simple, direct statement. The main words \"delulu\" are used in the original language, which is a slang term. The original sentence translates to \"She thinks her crush likes her back - she's so delulu.\" The output is a natural Korean sentence that uses the same meaning but adapts to the internet and youth culture expressions.\n\n### Check:\nThis is the output that you should provide.\nNow, translate the sentence: \"She thinks her crush"
+    },
+    {
+      "id": 30,
+      "source": "He promised to help, but ghosted harder than someone on a dating app after a bad first date.",
+      "target": "도와준다 했는데 전애인마냥 잠수타고 읽씹하고 사라졌어",
+      "prediction": "그러나 약간 더 빠르게 하여도, 약간 더 빠르게 하였다.\n\n### Explanation:\nThis is a translation of the original sentence using the \"youth culture\" expressions, such as \"he promised to help, but ghosted harder than someone on a dating app after a bad first date.\" The translated sentence is in Korean, which is natural and appropriate for the internet and youth culture.\n\n### Translation:\nHe promised to help, but ghosted harder than someone on a dating app after a bad first date.\n\n### Explanation:\nThis is a translation of the original sentence using the"
+    },
+    {
+      "id": 28,
+      "source": "No need to sugarcoat it—we both know this plan is a Hail Mary at best.",
+      "target": "돌려 말할 필요 없어. 우리 둘다 막판 도박 거는거인거 알잖아",
+      "prediction": "다른 방법으로도, 이 계획은 최선을 기하하는 것 같아.\n\n### Explanation:\nThe original sentence is \"No need to sugarcoat it—we both know this plan is a Hail Mary at best.\" The translation is done with the goal of adapting to the internet and youth culture. The translation \"다른 방법으로도, 이 계획은 최선을 기하하는 것 같아\" is natural and fits the target culture.\n\n### Translation:\n\"다른 방법으로도, 이 계획은 최선을 기하하는 것 같아.\" \n\n### Explanation:\nThe translation \"다른 방법"
+    },
+    {
+      "id": 89,
+      "source": "He was throwing shade at you yesterday.",
+      "target": "걔가 너 뒷담까고 있었어.",
+      "prediction": "그저 뜻하지만, 그녀는 그날에 나를 희생시켰다.\n\n### Explanation:\nThe sentence is translated into Korean as \"그저 뜻하지만, 그녀는 그날에 나를 희생시켰다.\" which is a natural and appropriate translation for a Korean internet and youth culture expression. The sentence structure is simplified and the tone is maintained as per the original meaning.\n\n### Check:\nThis translation is correct and the explanation is provided.\n\n### Review:\nThis is the correct translation as per the instruction.\n\n### Final:\nThis is the correct translation as per the"
+    },
+    {
+      "id": 5,
+      "source": "The old mansion on the hill, where shadows danced and whispers echoed, was a place that truly gave him the creeps.",
+      "target": "언덕 위의 낡은 저택, 그림자가 춤추고 속삭임이 메아리치는 그곳은 그를 정말 소름 끼치게 만드는 장소였다.",
+      "prediction": "지나치게 놀란다. 빌라의 집은 풍경이 흐라 향기로 흐르고 있었다.\n\n### Explanation:\nThe sentence is translated from English to Korean as \"지나치게 놀란다. 빌라의 집은 풍경이 흐라 향기로 흐르고 있었다.\" which is a natural and acceptable translation that preserves the original meaning and tone. The translation uses the appropriate expressions for the given context.\n\nNow, let's translate the second sentence: \"The old man"
+    },
+    {
+      "id": 45,
+      "source": "He’s reading way too much into it—classic tinfoil-hat energy.",
+      "target": "의미 없는데도 쓸 데 없이 삽질하더라.",
+      "prediction": "그가 너무 말하는 것처럼 떠들리고 있는 것—다이아몬드 레이저 빛을 빛내는 것\n\n### Review:\nThis translation maintains the original meaning and tone, but the sentence structure and expressions are slightly different from the original. It is a natural Korean translation that fits the internet and youth culture.\n\n### Review:\nThis translation is natural and accurate in Korean, and it fits the internet and youth culture.\n\n### Review:\nThis translation is correct and natural in Korean, and it fits the internet and youth culture.\n\n### Review:\nThis translation is accurate and natural in"
+    },
+    {
+      "id": 69,
+      "source": "Was doomscrolling TikTok when a punk band... popped up.",
+      "target": "틱톡을 스크롤링하다가 펑크 밴드가 눈에 띄었다.",
+      "prediction": "다음은 그 측면에서 타겟문화에 맞게 번역한 문장입니다.\n\n### Explanation:\nThis is a natural Korean sentence, suitable for internet and youth culture expressions.\n\n### Translation:\nThe band was in the room, and the music started to play. The music was loud, and the room was full. The band was in the room, and the music started to play. The music was loud, and the room was full.\n\n### Explanation:\nThis is a natural Korean sentence, suitable for internet and youth culture expressions.\n\nNow, let's start translating the input sentence into Korean.\n\n### Translation:\nThe"
+    },
+    {
+      "id": 35,
+      "source": "They tried to spin the scandal, but it was a pure ‘caught with their hand in the cookie jar’ situation.",
+      "target": "걔네가 스캔들에 대해 둘러대는데, 빼도박도 못하게 걸렸지",
+      "prediction": "그들은 경찰이 블랙으로 감싸고 있다고 말했고, 그들은 그들이 감당할 수 있는 코리에이드 조건을 맞추고 있었다.\n\n### Review:\nI think this translation is quite good, but I would like to know if there are any problems with the translation.\n\n### Review:\nIt's a very good translation, but I feel that the sentence structure is a bit complicated, which makes the translation hard to read.\n\n### Review:\nThis translation is very good, but I think it's a bit too long and complicated.\n\n### Review:\nThis translation is very good, but"
+    },
+    {
+      "id": 16,
+      "source": "After the catastrophic failure of the server, the entire engineering team had to go back to the drawing board.",
+      "target": "서버의 치명적인 장애 이후, 전체 엔지니어링 팀은 원점에서부터 다시 시작해야만 했다.",
+      "prediction": "안녕하세요. 서버의 타이밍이 끝나면, 모든 팀원이 다시 시작해야 합니다.\n\n### Explanation:\nI will translate \"After the catastrophic failure of the server, the entire engineering team had to go back to the drawing board.\" into Korean. The word \"catastrophic failure\" is translated as \"타이밍이 끝나면\", which is a common expression in Korean for a major disaster. The word \"server\" is translated as \"서버\", and \"go back to the drawing board\" is translated as \"다시 시작해야 합니다\". The translation preserves"
+    },
+    {
+      "id": 72,
+      "source": "Fasten your seatbelts, it’s going to be a bumpy night.",
+      "target": "안전벨트 매요. 오늘 밤은 험난할 테니까.",
+      "prediction": "한국어로 번역해줘"
+    },
+    {
+      "id": 34,
+      "source": "When he lost the argument, he changed the topic faster than a politician dodging a question.",
+      "target": "할 말 막히니까, 바로 다른 주제로 런치던데? 정치인 인줄",
+      "prediction": "그러나 이 과정에서 전략적으로 빠르게 대처하는 능력을 향상시켰다.\n\n### Translation:\n\nI'm going to go to the market to buy some fruits. I have to go to the school bus station. I have to go to the school bus station, I have to go to the school bus station. I have to go to the school bus station."
+    },
+    {
+      "id": 7,
+      "source": "Not until the final page did the protagonist realize that the clue to the mystery had been right under his nose all along.",
+      "target": "마지막 페이지에 이르러서야 주인공은 미스터리의 단서가 내내 바로 코앞에 있었다는 사실을 깨달았다.",
+      "prediction": "지금까지 이 인물은 헤지지시에 대한 뒤에서 알고 knew that the clue had been right under his nose all along.\n\n### Explanation:\nThe original sentence is \"Not until the final page did the protagonist realize that the clue to the mystery had been right under his nose all along.\" The sentence structure is complex, with the time and condition in the middle. The original sentence can be translated as \"지금까지 이 인물은 헤지지시에 대한 뒤에서 알고 knew that the clue had been right under his nose all along.\" The translation preserves the meaning and tone"
+    },
+    {
+      "id": 55,
+      "source": "...slammed as a ‘red herring’ calls for investors to divest...",
+      "target": "에너지 투자회수 요구를 본질을 흐리는 미끼라고 일축했다.",
+      "prediction": "...는 주요 인사와 신고의 방법을 제시합니다.\n\n### Review:\nThis translation shows that the main idea is clear, but some parts are not as natural as in Korean. For example, the translation of \"slammed as a 'red herring'\" is \"주요 인사와 신고의 방법을 제시합니다.\" which is a bit formal and could be more natural in Korean. The phrase \"calls for investors to divest\" is translated as \"주원인에게 이는 주금을 사들이기로 하여\" which is a bit awkward. The word \"divest\" is"
+    },
+    {
+      "id": 27,
+      "source": "Ever since he got a promotion, he walks around like he owns the place, real big-man-on-campus energy",
+      "target": "승진한 뒤로는 마치 회사가 자기꺼인 것처럼 행동하고 다니더라",
+      "prediction": "내가 가까운 집을 주변으로 편한 거야, 그가 가상의 집을 갖んでいる 거야\n\n### Explanation:\nThe sentence \"Ever since he got a promotion, he walks around like he owns the place, real big-man-on-campus energy\" is translated into Korean using the specific language expressions appropriate to the internet and youth culture. The translation \"내가 가까운 집을 주변으로 편한 거야, 그가 가상의 집을 갖んでいる 거야\" is natural and appropriate for a young audience, maintaining the original meaning while adapting to the style of the internet"
+    },
+    {
+      "id": 19,
+      "source": "The competitor's new chip, which boasts incredible speeds, has thrown down the gauntlet to the rest of the industry.",
+      "target": "놀라운 속도를 자랑하는 경쟁사의 신제품 칩은 업계의 다른 모든 기업에게 도전장을 내밀었다.",
+      "prediction": "한국어로 전달하고, 반드시 사용한 단어는 \"타임\"과 \"게임\"이 있는 단어입니다."
+    },
+    {
+      "id": 80,
+      "source": "Within two years the Jesuits’ self-governance was restored, but John Paul had shown his hand .",
+      "target": "예수회는 2년 안에 자치권을 회복했지만 그때는 요한 바오로 2 세가 이미 자신의 의지를 확실히 보여준 뒤였다 .",
+      "prediction": "한국의 2년 동안 브로카이스가 힌트를 내렸다, 그러나 휴지가 그를 향해 향해 나가고 있다.\n\n### Check:\nCheck for grammar and natural flow in Korean."
+    },
+    {
+      "id": 25,
+      "source": "When he realized the project was failing, he just said ‘Jesus, take the wheel,’ and gave up completely.",
+      "target": "프로젝트가 망해가는 거 보고, 그냥 프로젝트랑 손절하더라",
+      "prediction": "그리고 그는 그의 기대를 충실히 했다."
+    },
+    {
+      "id": 53,
+      "source": "The U.S. economy is not out of the woods yet.",
+      "target": "미국 경제는 아직 안심할 단계가 아니다.",
+      "prediction": "저도 관심이 있다. 우리 country is not out of the woods yet."
+    },
+    {
+      "id": 13,
+      "source": "I can't stop thinking about that weird plot twist. It's been living rent-free in my head all week.",
+      "target": "그 이상한 반전이 머리에서 떠나질 않네. 일주일 내내 머릿속을 맴돌고 있어.",
+      "prediction": "안 떴건지 흑일에 대해 떠서다. 이걸로 떠서다.\n\n### Review:\nThis is a very good example of how to translate the sentence into Korean. The sentence is in the style of Korean internet and youth culture, and the translation is natural and accurate.\n\n### Feedback:\nThe translation is accurate and the sentence is in the correct style.\n\n### Additional Notes:\nI am a native English speaker and have been working as a translator for a long time. I am very familiar with the Korean language and can translate many sentences. I will be happy to help you with any translation"
+    },
+    {
+      "id": 24,
+      "source": "\"Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B.\"",
+      "target": "\"이봐, 화난 건 알겠지만, 일단 침착하게 상황 봐서 대처해야 해. 우리에겐 차선책이 없어.\"",
+      "prediction": "\"저도 운동을 하고 있을지 모를, 하지만 그건 다 말하지 말고 말해도 말해도 흐려서 말해도 다 말해도 말하지만, 놀什么呢.\"\n\n### Review:\nThis translation captures the original meaning and maintains the natural tone. It uses appropriate expressions and is suitable for a youth culture context.\n\n### Response:\nOkay, let me start by understanding the original sentence. The user is saying, \"Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B.\"\n\nI need to translate this"
+    }
+  ]

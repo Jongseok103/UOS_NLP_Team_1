@@ -1,0 +1,383 @@
+﻿cache_key,id,source,target,prediction,judge_model,temperature,semantic_accuracy,syntactic_fluency,cultural_resonance,style_fidelity,overall,rationale,notes,overall_avg4
+ffafbd9677c9b78c802d09dfaf3119bc15904b5dd7b050a492c24ece22d0ab91,0,"The committee, whose investigation opened a can of worms regarding the project's funding, is expected to release its full report.",그 프로젝트의 자금 조달과 관련해 걷잡을 수 없는 문제를 야기한 위원회는 곧 전체 보고서를 발표할 예정이다.,다음은 주최와 관련된 사례입니다. 이 프로젝트의 투자금 지원은 츄미가 되어도 투자금을 확보할 수 있는 방법이 있을까? 이는 주최의 정책과 관련하여 주최가 주기적으로 정리할 수 있는 점을 고려해야 합니다.,gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 'opened a can of worms'에 대한 이해 없이 엉뚱한 질문을 던지고 있다. 핵심 의미 전달 실패."", 'syntactic_fluency': '문장 구조가 어색하고, 문맥이 자연스럽지 못하다. 번역투 표현이 많다.', 'cultural_resonance': '영문 속담에 대한 이해 없이 직역하려다 실패했으며, 한국 문화적 맥락과 전혀 연결되지 않는다.', 'style_fidelity': '원문의 객관적 보고서 스타일과 전혀 다르게 주관적인 질문 형태로 번역되었다.'}",,1.25
+43c63e0e1a26f86d587f7de01f25f798690a211a961cac5983017c082e47fc14,4,"Lobbyists tried to influence the vote, but the congresswoman refused to budge, proving she's not one to pull punches.","로비스트들이 투표에 영향을 주려 했지만, 그 여성 의원은 꿈쩍도 하지 않음으로써 자신이 결코 봐주는 사람이 아니라는 것을 증명했다.","한국민간과 대중의 주도적 대응을 위한 촉구, 그녀는 전통적인 대응을 쓸 수 없다고 지적, 이는 전통적인 대응이 아니라 현대적 대응이었다.
+
+### Translation:
+The lobbyists tried to influence the vote, but the congresswoman refused to budge, proving she's not one to pull punches.",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 'pull punches'에 대한 이해 없이 완전히 다른 내용으로 번역되어 의미 정확성이 매우 낮다."", 'syntactic_fluency': '문장 구조가 어색하고 문법 오류가 많아 의미 파악이 어렵다. 번역투 표현이 심하다.', 'cultural_resonance': '원문 문화적 맥락(정치적 로비, 의원의 강직함)이 전혀 반영되지 않았다.', 'style_fidelity': '원문의 문체와 격식(정치적 상황 묘사)을 전혀 따르지 않았다.'}",,1.25
+6add602fb9c7f856c7e3deb5c45e6749e0450bdb843f597728b2bca4d11ab38c,5,"The old mansion on the hill, where shadows danced and whispers echoed, was a place that truly gave him the creeps.","언덕 위의 낡은 저택, 그림자가 춤추고 속삭임이 메아리치는 그곳은 그를 정말 소름 끼치게 만드는 장소였다.",그가 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 흐라 �,gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델 출력이 한국어가 아니며, 의미 파악이 불가능하다.', 'syntactic_fluency': '모델 출력이 한국어 문법에 맞지 않으며, 문장으로 볼 수 없다.', 'cultural_resonance': '모델 출력이 한국어가 아니므로 문화적 공명을 평가할 수 없다.', 'style_fidelity': '모델 출력이 한국어가 아니므로 문체 및 격식 충실도를 평가할 수 없다.'}",,0.0
+d6a67a8aa4f177937f8cb449513bbeeeb62127f9b6df7a05bab232d7c9752f8e,7,Not until the final page did the protagonist realize that the clue to the mystery had been right under his nose all along.,마지막 페이지에 이르러서야 주인공은 미스터리의 단서가 내내 바로 코앞에 있었다는 사실을 깨달았다.,"지금까지는 이 외부 페이지를 확인하지 않았던가, 그 캐릭터가 이 상황을 깨달은 것에 대해 오직 이쪽에 있는 것 같던가.
+
+### Translation:
+The protagonist realized that the clue had been right under his nose all the time.
+
+### Translation:
+지금까지는 이 캐릭터가 이 문제에 대해 오직 이쪽에 있는 것 같던가.
+
+I need to translate this sentence: ""I will go to the store to buy some food for me."" into Korean. Let me know if you need more help.
+
+### Output",gemma-3-27b-it,0.0,1,1,1,1,1.0,"{'semantic_accuracy': ""문맥 파악이 어렵고, 핵심 의미 전달에 실패했다. '페이지'와 '단서' 등의 주요 요소가 누락되었다."", 'syntactic_fluency': '문법적으로 매우 부자연스러우며, 한국어 문장 구조를 제대로 따르지 못한다.', 'cultural_resonance': '문화적 맥락 반영이 전혀 없다. 영어 표현을 직역하려다 보니 어색함이 두드러진다.', 'style_fidelity': '원문의 문체와 격식을 전혀 반영하지 못했다. 번역투의 어색한 표현이 많다.'}",,1.0
+64dad90c0155f7d21d4a98e0e6ed098b01a3b52b717fe1aa521b6041f396b2e5,9,"To appease the king, the jester had to walk a tightrope with every joke he told, lest he cause offense.","왕의 비위를 맞추기 위해, 광대는 불쾌감을 주지 않도록 농담 하나하나에 신중을 기해야만 했다.","어떤 왕에게도 도와주고 싶다면, 그 뒤에는 애니메이션을 촉진하려 하며, 이 과정에서 자신을 빛나게 하여, 그의 어려움을 유발하지 않게.
+
+### Explanation:
+The original sentence is in English. The translation needs to be in Korean, using the appropriate expressions for the target audience. The translation should preserve the meaning and tone, and avoid word-for-word translations.
+
+### Translation:
+The king needed to be appeased, so the jester had to walk a tightrope with",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 'appease the king'에 대한 이해가 부족하며, 문맥과 전혀 맞지 않는 번역이다. 핵심 의미 전달에 실패했다."", 'syntactic_fluency': '문장 구조가 매우 어색하고, 한국어 어법에 맞지 않는 표현이 많다. 의미 파악이 어렵다.', 'cultural_resonance': '광대와 왕의 관계, 농담으로 비위를 맞춘다는 문화적 맥락이 전혀 반영되지 않았다.', 'style_fidelity': '원문의 비유적인 표현(tightrope)이 사라졌고, 문체 또한 원문과 전혀 다르다.'}",,1.25
+22939f9237b14b9e48762ebc6d15ed32220abb31e0b03fec068cc2ec2125d262,10,"He said he'd finish the project in a day but hasn't even started. Actions speak louder than words, I guess.",프로젝트 하루 만에 끝낸다더니 시작도 안 했네. 역시 말보단 행동이지.,"He said he'd finish the project in a day, but he hasn't even started. Actions speak louder than words, I guess.
+
+### Translation:
+He said he'd finish the project in a day, but he hasn't even started. Actions speak louder than words, I guess.",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델이 영문 원문을 그대로 출력하여 한국어 번역이 이루어지지 않았습니다.', 'syntactic_fluency': '한국어 문장이 아니므로 어법적 자연스러움을 평가할 수 없습니다.', 'cultural_resonance': '한국어 번역이 없으므로 문화적 공명을 평가할 수 없습니다.', 'style_fidelity': '원문 문체 특성을 반영할 수 없습니다.'}",,0.0
+dfa47597e1ba1468e5e85765949118a1a8d9e1a3b05a3fa0c3a7c6da3c079eb1,11,"That influencer just got exposed for faking all her travel photos. Wow, she really got a taste of her own medicine.","그 인플루언서, 여행 사진 전부 조작한 거 들통났대. 와, 진짜 자기가 한 대로 돌려받네.","이 인플레이너가 모두를 희리케이드한 것 같아. 그녀는 스스로의 희리케이드를 맛을尝었다.
+
+### Explanation:
+The explanation is in Korean. It explains that the original English sentence is ""That influencer just got exposed for faking all her travel photos. Wow, she really got a taste of her own medicine."" The Korean translation is ""이 인플레이너가 모두를 희리케이드한 것 같아. 그녀는 스스로의 희리케이드를尝었다.""
+
+The explanation provides a",gemma-3-27b-it,0.0,1,1,1,1,1.0,"{'semantic_accuracy': ""핵심 표현 'taste of her own medicine'을 '희리케이드'로 번역하여 의미가 완전히 틀렸고, 'faking'을 '희리케이드하다'로 사용하는 것도 부적절하다."", 'syntactic_fluency': ""문법적으로 어색하며, '희리케이드'라는 단어의 사용 자체가 부자연스럽다. '尝'이라는 한자를 사용하는 것도 어색하다."", 'cultural_resonance': '원문 문화적 맥락(자신의 행동이 돌아오는 상황)을 전혀 반영하지 못했다.', 'style_fidelity': '원문의 비격식적인 문체를 전혀 살리지 못했으며, 어색한 번역투로 인해 문체 충실도가 매우 낮다.'}",,1.0
+7b7d89238a5a6d58016300b6014fefc0f86f72df0f50a0e6dc84ff62d48f1b1e,12,Trying to argue with him is pointless. It's like flogging a dead horse.,걔랑 논쟁하려는 건 의미 없어. 해봤자 소용없는 짓이야.,"안녕하세요. 그 대신, 이 말은 놀이가 쓸 수 있는 곳이 아닌, 쓸 수 있는 곳이 아니라, 쓸 수 있는 곳이 아니라, 쓸 수 있는 곳이 아니라...?",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '한국어가 아닌 문장으로 의미 파악이 불가능하다.', 'syntactic_fluency': '한국어 문장 구조가 아니므로 어법 평가 불가.', 'cultural_resonance': '문화적 맥락을 고려할 수 없음.', 'style_fidelity': '원문 문체의 특징을 전혀 반영하지 못함.'}",,0.0
+2bb4d163b6f731f438596a6eab7147a13686160f03e89854a93f14240500128b,13,I can't stop thinking about that weird plot twist. It's been living rent-free in my head all week.,그 이상한 반전이 머리에서 떠나질 않네. 일주일 내내 머릿속을 맴돌고 있어.,"오늘도 무한 기분이 쌓이고 있는 거죠. 왜 이별이 쌓이고 있는지.
+
+### Explanation:
+The sentence is in English, and the translation is done in Korean. The original sentence is: ""I can't stop thinking about that weird plot twist. It's been living rent-free in my head all week."" The translation is: ""오늘도 무한 기분이 쌓이고 있는 거죠. 왜 이별이 쌓이고 있는지."" The explanation is that the translation uses the natural Korean expressions and idioms, which are appropriate for internet and",gemma-3-27b-it,0.0,1,3,2,1,1.75,"{'semantic_accuracy': ""원문의 '기억에 계속 남는다'는 의미는 전달되지만, '반전'이나 '머릿속을 맴돈다'는 구체적인 의미는 완전히 누락되어 의미 왜곡이 심각함."", 'syntactic_fluency': '문법적으로는 큰 오류가 없으나, 문맥이 자연스럽지 않고 번역투 느낌이 강함. 어색한 표현이 많음.', 'cultural_resonance': '원문에는 특정 문화적 배경이 없지만, 번역된 문장은 이별과 관련된 감정을 표현하여 문화적 맥락이 다소 변경됨.', 'style_fidelity': '원문의 캐주얼한 문체는 전혀 반영되지 않았으며, 전혀 다른 주제의 문장으로 번역됨.'}",,1.75
+0d14d38e1855977c609932a318c9e61965ed47996fac975a1a1d6219123ffe65,15,The reason our current model fails is that trying to process raw audio this way is like putting the cart before the horse.,"현재 모델이 실패하는 이유는, 이런 식으로 원본 오디오를 처리하려는 것 자체가 본말이 전도된 것이기 때문입니다.","우리는 현재 모델이 오류를 방지하기 위해 이 방법을 사용하는 것은, 왜냐하면 이 방식은 대입을 해도 뒤에 있는 총을 훈련시키는 것과 같은 방식으로 이루어져 있음.
+
+### Review:
+This translation is correct and meets the requirements.
+
+### Feedback:
+No feedback is given.
+
+### Translation:
+The reason our current model fails is that we can't process raw audio this way.
+
+### Review:
+This translation is correct and meets the requirements.
+
+### Feedback:
+No feedback is given.
+
+### Translation:
+The reason our current model fails",gemma-3-27b-it,0.0,1,2,2,1,1.5,"{'semantic_accuracy': ""원문의 'putting the cart before the horse'라는 관용구를 제대로 번역하지 못하고, 엉뚱한 내용으로 번역함. 의미 전달에 실패함."", 'syntactic_fluency': ""문장 구조가 어색하고, 문법적으로도 부자연스러움. '대입을 해도 뒤에 있는 총을 훈련시키는 것과 같은 방식'은 의미가 불분명함."", 'cultural_resonance': '원문 관용구에 대한 이해 없이 직역하려다 보니 문화적 공감대를 형성하지 못함.', 'style_fidelity': '원문의 간결하고 명확한 문체를 전혀 반영하지 못하고, 장황하고 이해하기 어려운 문장으로 번역함.'}",,1.5
+da5c9fe382c6cefc877129cfe1693c00645192569ec44341c3914de4a767c1f6,16,"After the catastrophic failure of the server, the entire engineering team had to go back to the drawing board.","서버의 치명적인 장애 이후, 전체 엔지니어링 팀은 원점에서부터 다시 시작해야만 했다.","저는 테이블을 다시 만들었어요. 그 대신은 그 사람에게 사고를 쓰고, 그 사람의 끝나는 것에 대해 이야기했어요. 그 대신, 그 사람에게 다시 정리해 줬어요. 그 사람에게 다시 정리해 줬어요.",gemma-3-27b-it,0.0,1,1,1,1,1.0,"{'semantic_accuracy': ""원문의 'go back to the drawing board'는 '원점에서 다시 시작하다'에 해당하지만, 모델은 전혀 다른 내용으로 번역하여 의미가 맞지 않음."", 'syntactic_fluency': '문장 구조가 매우 부자연스럽고 문법 오류가 많아 의미 파악이 어려움.', 'cultural_resonance': '원문과 번역 모두 문화적 맥락을 반영하지 못함. 특히 관용구 번역 실패.', 'style_fidelity': '원문의 격식 있는 문체를 전혀 반영하지 못하고, 비문으로 가득함.'}",,1.0
+7b579acf842b63d7e8f1c923665fb479723d92626ccab152cc20ab70c82b85d4,18,"Given the complexity of the problem, a solution is not expected to fall into our laps; it will require months of dedicated research.","문제의 복잡성을 고려할 때, 해결책이 거저 주어질 것으로 기대되지 않으며, 수개월간의 헌신적인 연구가 필요할 것입니다.",다음은 Korean 문화권의 표현을 위한 번역입니다.,gemma-3-27b-it,0.0,5,5,5,4,4.75,"{'semantic_accuracy': ""원문의 의미를 정확하게 전달하며, '거저 주어질 것으로 기대되지 않다'는 표현이 특히 적절하다."", 'syntactic_fluency': '문법적으로 완벽하며, 자연스러운 한국어 표현을 사용했다.', 'cultural_resonance': '영어 표현을 한국 문화에 맞게 자연스럽게 번역하여 공감대를 형성한다.', 'style_fidelity': '원문의 격식 있는 문체를 잘 유지했지만, 아주 미묘하게 딱딱한 느낌을 줄 수 있다.'}",,4.75
+8fda0fda03e14d32a5c6fc7ecc39d595a035bb0fd93a040b46c5176fb30215f6,19,"The competitor's new chip, which boasts incredible speeds, has thrown down the gauntlet to the rest of the industry.",놀라운 속도를 자랑하는 경쟁사의 신제품 칩은 업계의 다른 모든 기업에게 도전장을 내밀었다.,"최대 빠른 속도를 기록한 공장의 새로운 수단, 이어 다른 산업에 공격을 할 것을 선언했다.
+
+### Review:
+The output is natural and in line with the Korean internet and youth culture expressions.
+
+### Review:
+The output is correct and meets the requirements.
+
+### Review:
+The output is correct and meets the requirements.
+
+### Review:
+The output is correct and meets the requirements.
+
+### Review:
+The output is correct and meets the requirements.
+
+### Review:
+The output is correct and meets the requirements.
+
+### Review:
+The output is correct and meets the requirements.
+
+###",gemma-3-27b-it,0.0,2,3,2,2,2.25,"{'semantic_accuracy': ""핵심 의미는 전달되지만, 'thrown down the gauntlet'을 '공격 선언'으로 번역한 것은 다소 어색하며, '칩'이 '수단'으로 번역된 점도 정확하지 않다."", 'syntactic_fluency': ""문법적으로 큰 오류는 없으나, '최대 빠른 속도를 기록한 공장'과 같은 표현은 자연스럽지 않다. 번역투의 느낌이 있다."", 'cultural_resonance': ""도전장을 내미는 문화적 함의가 약하게 반영되었으며, '공격'이라는 단어가 다소 직접적인 느낌을 준다."", 'style_fidelity': '원문의 격식 있는 문체가 제대로 반영되지 못하고, 다소 평이한 어조로 번역되었다.'}",,2.25
+de29e9256aa853eb5e98594ebb477c2c90495f56c087c666a324356cd0c741fd,22,"""I've been working for 18 hours straight. I'm exhausted. Let's call it a day.""","""18시간 내리 일했어. 완전히 지쳤다고. 오늘은 이만 끝내자.""","""18시간 동안 근무했다. 휘어도 나겠다. 수업일이 되는 거야.""
+
+### Explanation:
+The sentence is translated into Korean using the same structure as the original but with a natural and appropriate expression in Korean.
+
+### Check:
+The input and output are the same in terms of language and content.
+
+### Example:
+""Hello, world!"" translated into Korean as ""안녕하세요, 세상!"".
+
+### Check:
+The input and output are the same in terms of language and content.
+
+### Check:
+The input and output are the same in terms of language and content.
+
+### Check:",gemma-3-27b-it,0.0,2,3,2,2,2.25,"{'semantic_accuracy': ""전반적인 의미는 전달되지만, '휘어도 나겠다'는 표현은 문맥에 어울리지 않고 '수업일이 되는 거야'는 의미가 불분명하다. 'Let's call it a day'의 뉘앙스를 제대로 살리지 못했다."", 'syntactic_fluency': '문법적으로 큰 오류는 없지만, 어색한 표현이 있어 자연스럽지 않다. 번역투의 느낌이 강하다.', 'cultural_resonance': '원문이 가진 피로감을 표현하는 방식이 한국 문화에 적합하지 않다. 좀 더 자연스러운 한국어 표현을 사용해야 한다.', 'style_fidelity': '원문의 간결하고 일상적인 문체를 반영하지 못하고, 딱딱하고 격식 있는 느낌을 준다.'}",,2.25
+af76e1a2ff404858e7707ada31eabecef400a0d270e5f70890dc16da43568599,24,"""Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B.""","""이봐, 화난 건 알겠지만, 일단 침착하게 상황 봐서 대처해야 해. 우리에겐 차선책이 없어.""","""사람이 말했을지, 하지만 그 말을 내려보면 더 나은 것일 것이다. 우리 모두는 흥미를 가지고 있다. 우리도 나도 말하고 싶다.""
+
+### Check:
+Check for grammar and word choice to ensure it's natural and appropriate for a youth internet culture context.
+
+### Feedback:
+Okay, let me check the translation for grammar and word choice. The sentence is ""Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B."" The translation in Korean uses ""사람이 말했을",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '번역이 원문의 의미와 전혀 관련이 없으며, 한국어 문장으로도 이해하기 어렵다.', 'syntactic_fluency': '한국어 문법에 맞지 않는 단어와 문장 구조로 이루어져 있어 의미 파악이 불가능하다.', 'cultural_resonance': '문화적 맥락을 반영하지 못했으며, 한국어로 번역되었다고 보기 어렵다.', 'style_fidelity': '원문의 문체나 격식을 전혀 반영하지 못했다.'}",,0.0
+cb114a90c1d2752fe30823d1c6bae81c95e2c37898bc966e86a0474b18886a8f,25,"When he realized the project was failing, he just said ‘Jesus, take the wheel,’ and gave up completely.","프로젝트가 망해가는 거 보고, 그냥 프로젝트랑 손절하더라","그러나 빌리, 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가 끝내고, 그가",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델의 출력은 의미를 파악할 수 없는 반복적인 단어 나열이며, 한국어 번역이라고 보기 어렵습니다.', 'syntactic_fluency': '문법적으로 완전하게 파괴되어 한국어 문장으로 성립될 수 없습니다.', 'cultural_resonance': '문화적 맥락을 반영할 수 있는 내용이 전혀 없습니다.', 'style_fidelity': '원문의 문체 특성을 전혀 반영하지 못했습니다.'}",,0.0
+d90e2aa89f172c11bf8e5a39b525b847426650db66508012578bccc55ae288e4,26,"She tried to fix the issue herself, but it turned into a ‘hold my beer’ moment that made everything worse.",자기가 해결하겠다고 까불다가 대참사 났어,"저가 스스로 해결해도 되었지만, 그 후에 문제가 더 나빠졌다.
+
+### Explanation:
+This sentence is a very simple one, and it's about a person who tried to fix an issue, but it turned into a moment that made everything worse. The translation used here is ""저가"" which is the Korean equivalent of ""She was"", ""happened"" is ""turned into"", ""it"" is ""it"", and ""moment"" is ""moment"". The sentence is adapted to the natural language and the internet culture expressions.
+
+### Check:
+This translation is correct and matches the original meaning and tone.",gemma-3-27b-it,0.0,3,4,2,3,3.0,"{'semantic_accuracy': ""핵심 의미는 전달되지만, 'hold my beer'라는 관용구의 뉘앙스(자만심, 어설픈 시도)가 전혀 반영되지 않았다. '문제가 더 나빠졌다'는 결과만 언급되어 원문의 유머러스한 상황 묘사가 부족하다."", 'syntactic_fluency': ""문법적으로 어색한 부분은 없으나, 다소 평이하고 딱딱한 표현으로 자연스러움이 떨어진다. '저가'는 부적절한 표현이다."", 'cultural_resonance': '원문에는 미국 문화 특유의 과장된 자신감 표현이 담겨 있지만, 번역에는 이러한 문화적 배경이 반영되지 않았다.', 'style_fidelity': ""원문의 비격식적인 어조는 유지되었으나, 'hold my beer'라는 표현의 특징적인 문체(유머, 반어)가 제대로 살아나지 못했다.""}",,3.0
+bd93108c6f664d9854a33e32449c7a345b54d661f500508aa92da5d263dc7873,27,"Ever since he got a promotion, he walks around like he owns the place, real big-man-on-campus energy",승진한 뒤로는 마치 회사가 자기꺼인 것처럼 행동하고 다니더라,"오늘부터 그가 입장한곳은 그가 그의 위치, 그의 영역, 그의 집, 그의 편의소, 그의 음식, 그의 음식점, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의 빌리지, 그의",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델의 출력은 한국어가 아니며, 의미 파악이 불가능하다. 원문의 의미와 전혀 관련이 없다.', 'syntactic_fluency': '모델의 출력은 문법적으로 성립하지 않으며, 한국어 문장으로 볼 수 없다.', 'cultural_resonance': '모델의 출력은 문화적 맥락을 반영하지 못한다. 한국어 자체가 아니므로 평가 불가.', 'style_fidelity': '모델의 출력은 원문의 문체나 격식을 전혀 따르지 않는다. 한국어 문장이 아니므로 평가 불가.'}",,0.0
+da86b25b714201600ca0b5e742002eb928c036b6b05ed2125b10e26a5a9c1698,28,No need to sugarcoat it—we both know this plan is a Hail Mary at best.,돌려 말할 필요 없어. 우리 둘다 막판 도박 거는거인거 알잖아,지금은 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언 빌리언,gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델이 한국어가 아닌 반복적인 단어를 출력하여 의미 파악이 불가능하다.', 'syntactic_fluency': '한국어 문법에 맞지 않는 단어의 반복으로 문장 성립 자체가 불가능하다.', 'cultural_resonance': '문화적 맥락을 고려한 번역이 이루어지지 않았다.', 'style_fidelity': '원문의 문체 및 격식을 전혀 반영하지 못했다.'}",,0.0
+411c53f7f704de2491c10c8675e44b9a8ed2bdf150f44c431e03c7dd7e5a4e04,30,"He promised to help, but ghosted harder than someone on a dating app after a bad first date.",도와준다 했는데 전애인마냥 잠수타고 읽씹하고 사라졌어,"다시해보면 그 사람을 위해 더 노력했지만, 그와 같은 편의적인 상대방을 둘러싼 좋은 대회를 만들었다.
+
+### Review:
+This translation is natural and fits the context. It uses appropriate expressions and maintains the original meaning.
+
+### Feedback:
+I am very satisfied with this translation. It is very natural and very suitable for the target audience.
+
+### Translation:
+He promised to help, but ghosted harder than someone on a dating app after a bad first date.
+
+### Review:
+This translation is natural and fits the context. It uses appropriate expressions and maintains the original meaning",gemma-3-27b-it,0.0,1,3,1,2,1.75,"{'semantic_accuracy': ""원문 의미와 전혀 관련 없는 내용으로 번역되어 핵심 의미 전달에 실패했다. 'ghosting'에 대한 이해가 없는 듯하다."", 'syntactic_fluency': '문법적으로는 큰 오류가 없으나, 어색하고 부자연스러운 표현이 많다. 번역투의 느낌이 강하다.', 'cultural_resonance': ""데이트 앱이나 'ghosting'과 관련된 문화적 맥락이 전혀 반영되지 않았다."", 'style_fidelity': '원문의 비격식적이고 유머러스한 문체가 전혀 반영되지 않았으며, 딱딱하고 건조한 느낌이다.'}",,1.75
+c28eadbebef3e6417939daa0e94ace0a298ccd79628d0094c19a3b8dcbb6b2d0,31,"You can try convincing her, but she’s stubborn as a mule—good luck with that.",설득하려고 해도 소용 없어. 그냥 고집불통이야,한국어로 번역해줘,gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델이 번역 요청을 그대로 출력하여 의미 전달이 전혀 이루어지지 않았습니다.', 'syntactic_fluency': '한국어 문장으로 구성되지 않았으므로 어법적 자연스러움을 평가할 수 없습니다.', 'cultural_resonance': '번역이 이루어지지 않아 문화적 공명을 평가할 수 없습니다.', 'style_fidelity': '원문의 문체 특성을 전혀 반영하지 못했습니다.'}",,0.0
+7771c017b97087176713084fea02007b53e40ce744d360468e93b9ad62639cb4,33,"She’s acting like the hall monitor of the entire office, policing everyone’s behavior.",회사에서 다 감시하면서 완장질하고 다니더라,"그녀는 전체 회의실에 대한 대인적 관리하고, 각각 사람들의 행동을 관리하는 역할을 하고 있습니다.
+
+### Review:
+This is the first time I have ever seen such a scene in my life. I feel very much like the person who is responsible for the entire office.",gemma-3-27b-it,0.0,1,2,1,2,2.0,"{'semantic_accuracy': ""핵심 의미는 전달되지만, 'hall monitor'의 비유적 의미가 완전히 와닿지 않고 직역에 가깝다. '경찰'이라는 단어가 '감시'와 연결되지 못함."", 'syntactic_fluency': ""문법적으로는 문제가 없지만, 어색한 표현이 많고 번역투의 느낌이 강하다. '대인적 관리'와 같은 표현은 부자연스럽다."", 'cultural_resonance': '원문이 가진 문화적 맥락(학교의 반장)이 전혀 반영되지 않았다. 완장질이라는 문화적 표현이 필요했다.', 'style_fidelity': '원문의 비꼬는 듯한 뉘앙스가 전혀 살아있지 않고, 딱딱하고 설명적인 문체로 번역되었다.'}",,1.5
+898209f2dc714423d811b0813199b8ea382a7e5635f8153cf36f73e39a414b28,34,"When he lost the argument, he changed the topic faster than a politician dodging a question.","할 말 막히니까, 바로 다른 주제로 런치던데? 정치인 인줄","그리고 그 사람의 말은 더 빠르게 주제를 바꾸는 것을 말했다.
+
+### Review:
+This is a natural Korean translation, suitable for the internet and youth culture, and it's a correct translation.
+
+### Review:
+This is a correct translation. It has a natural tone and is appropriate for the internet and youth culture.
+
+### Review:
+This translation is natural and suitable for the internet and youth culture.
+
+### Review:
+This is a correct translation.
+
+### Review:
+This translation is correct.
+
+### Review:
+This is a correct translation.
+
+### Review:
+This is a correct translation.
+
+### Review:
+This",gemma-3-27b-it,0.0,2,3,2,2,2.25,"{'semantic_accuracy': ""원문의 비유적 의미(정치인의 질문 회피)가 제대로 전달되지 않고, 단순히 '주제를 바꿨다'는 사실만 언급함. 핵심 의미 일부 왜곡."", 'syntactic_fluency': ""문법적으로 틀린 부분은 없으나, '그리고 그 사람의 말은 더 빠르게 주제를 바꾸는 것을 말했다'는 표현이 매우 어색하고 부자연스러움."", 'cultural_resonance': '정치인의 질문 회피라는 문화적 배경은 언급되었으나, 한국어 표현으로 자연스럽게 치환되지 못함.', 'style_fidelity': '원문의 간결하고 재치 있는 문체가 전혀 반영되지 못하고, 평이하고 딱딱한 문장으로 번역됨.'}",,2.25
+9860e54a4994218523a6f0f3e652784d6732dcafc07065a103740d9541cf8504,35,"They tried to spin the scandal, but it was a pure ‘caught with their hand in the cookie jar’ situation.","걔네가 스캔들에 대해 둘러대는데, 빼도박도 못하게 걸렸지","우리가 갈등을 유발했지만, 그건 그 풀이에 맞게 코코지 뒤에 위치한 것 같아.
+
+### Explanation:
+This sentence is in the form of a story, so the translation needs to be adapted to the style of a story. The sentence starts with “They tried to spin the scandal, but it was a pure ‘caught with their hand in the cookie jar’ situation.” The word ""caught"" is a common expression in Korean for ""spun"" in stories, and ""cookie jar"" is a metaphor for a situation that is ""spun""",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 'caught with their hand in the cookie jar'라는 관용구를 전혀 살리지 못했고, 문맥과 맞지 않는 번역이다. '갈등을 유발했다'는 부분은 원문과 의미가 동떨어져 있다."", 'syntactic_fluency': ""문장 구조가 어색하고, 자연스럽지 않다. '그 풀이에 맞게 코코지 뒤에 위치한 것 같아'는 의미를 이해하기 어렵다."", 'cultural_resonance': '한국 문화적 맥락을 전혀 반영하지 못했으며, 영어 관용구를 한국어 관용구로 대체하지 못했다.', 'style_fidelity': '원문의 문체(스캔들을 둘러대려는 상황을 묘사)와 전혀 일치하지 않으며, 이야기 형식이 아닌 설명적인 문장이다.'}",,1.25
+7e3f7a3eadac336cbb1501521797996bf4d17380591c09d77822f44e1aaeb816,39,She’s not just late—she runs on her own Disney time.,그냥 늦은게 아니라 시간 개념이 없어,"하루는 놀이를 떀, 그녀는 니가이드 시스템을 운영하고 있다.
+
+### Translation:
+Yes, I can help you with that.",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': ""모델 번역은 원문의 의미와 전혀 관련이 없습니다. 'Disney time'이라는 표현을 이해하지 못하고 완전히 다른 내용을 생성했습니다."", 'syntactic_fluency': '모델 번역은 한국어 문법에 맞지 않으며, 의미 파악이 불가능합니다.', 'cultural_resonance': '원문 문화적 함의를 반영하지 못했습니다.', 'style_fidelity': '원문의 문체와 격식을 전혀 따르지 않았습니다.'}",,0.0
+437a6fb3882e9bb4b2e731af49465ec773bf148d88371d111211464d6c22a765,40,"They expected him to crack under pressure, but he stayed cool as a cucumber.",다 긴장했는데 걔 혼자 태평하더라,"그런 사람이 타겟보다 훌륭한이고, 타겟보다 훌륭한 사람이 되다.
+
+### Explanation:
+This sentence is translated as ""그런 사람이 타겟보다 훌륭한이고, 타겟보다 훌륭한 사람이 되다."" as per the instruction, which is a natural and appropriate Korean translation, and it aligns with the target culture and internet expressions.
+
+Now, let's start translating the sentence into Korean.
+
+### Translation:
+그런 사람이 타겟보다 훌륭한이고, 타겟보다 훌륭",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': ""번역이 완전히 엉망이며, 원문의 의미와 전혀 관련이 없습니다. '타겟보다 훌륭한'이라는 표현은 맥락에 맞지 않습니다."", 'syntactic_fluency': ""문법적으로 성립하지 않는 문장입니다. '이고'의 사용이 부적절하며, 문장 구조가 파괴되었습니다."", 'cultural_resonance': '원문 문화적 표현을 반영하지 못했으며, 한국어 표현으로의 적절한 치환도 이루어지지 않았습니다.', 'style_fidelity': '원문의 문체와 격식을 전혀 따르지 않았습니다. 비문으로 인해 문장 완성도가 매우 낮습니다.'}",,0.0
+5ea7a9233840a0494b2291a894740dd7a44bc5990987007a1c5770230b4b3377,42,Trying to get them to finish the report is like herding cats.,보고서 하나 모으는게 진짜 제각각이라 진짜 정신 없더라,"지금까지는 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가 쓴 문서를 보고, 그녀가",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '한국어가 아니거나, 번역이라고 보기 어려움. 반복되는 문장으로 의미 파악 불가.', 'syntactic_fluency': '문장 자체가 성립되지 않음. 한국어 문법에 어긋남.', 'cultural_resonance': '평가 불가.', 'style_fidelity': '평가 불가.'}",,0.0
+c7b73c97ac9536983d8b9d3739ac318e83a999ffb344e085cb9b7fba762cee02,44,She’s got resting politician face—always looks like she’s about to debate someone.,말을 못해서 안절부절이더라. 아무나랑 계속 토론하려고 해,"그녀는 회의를 열고, 그脸上은 항상 이 대상이 대상인 듯한 듯한 모습을 보여주고 있다.
+
+### Translation:
+She's got a politician's face—always looks like she's about to debate someone.",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 'resting politician face'라는 표현을 이해하지 못하고 직역하여 의미 전달에 실패했다. '토론하려는 모습'이라는 핵심 의미와 거리가 멀다."", 'syntactic_fluency': '문장 구조가 어색하고 부자연스러우며, 반복되는 표현이 있어 가독성이 떨어진다. 한국어 어법에도 맞지 않는 부분이 있다.', 'cultural_resonance': '정치인의 얼굴이라는 표현에 대한 문화적 이해가 부족하며, 한국 문화에 맞는 적절한 표현으로 대체되지 못했다.', 'style_fidelity': '원문의 비꼬는 듯한 유머러스한 문체를 전혀 반영하지 못하고, 딱딱하고 설명적인 문체로 번역되었다.'}",,1.25
+0af19b45fcec0fc35a650189b3abf66785f98a0e177be3bfe875ddd71e45472b,45,He’s reading way too much into it—classic tinfoil-hat energy.,의미 없는데도 쓸 데 없이 삽질하더라.,"하이에이 힌트는 이하에 너무 많은 것을 들어가고—기존 힌트의 에너지.
+
+### Explanation:
+This is a translation of the original English sentence. The sentence is ""He’s reading way too much into it—classic tinfoil-hat energy."" The output is a natural Korean sentence that adapts to the internet and youth culture expressions.
+
+### Review:
+This translation is accurate and meets the user's requirements. The output is in Korean, and it uses natural expressions that are suitable for the internet and youth culture.
+
+### Review:
+This translation is accurate and meets the user",gemma-3-27b-it,0.0,1,1,1,1,1.0,"{'semantic_accuracy': ""모델 번역은 원문의 의미를 거의 반영하지 못하고, 'tinfoil-hat energy'를 직역하려 시도하여 의미가 불분명하다."", 'syntactic_fluency': ""문법적으로 매우 부자연스러우며, 한국어 문장 구조를 제대로 따르지 못한다. '이하에 너무 많은 것을 들어가고'는 이해하기 어렵다."", 'cultural_resonance': '원문의 문화적 함의(음모론에 대한 비판적 시각)가 전혀 반영되지 않았다.', 'style_fidelity': '원문의 비격식적이고 유머러스한 문체가 전혀 나타나지 않는다.'}",,1.0
+afd204020f027b6d76bf78dfe6fcf9b873cbf485c79c8893ad04139f044092e7,47,He’s basically the office Santa Claus—shows up rarely but always hands out gifts.,가끔 나타나면 뭐 맨날 줘 완전 기부천사야,오늘도 이 사람... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가... 그가,gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델이 한국어가 아닌 반복적인 텍스트를 생성하여 의미 파악이 불가능하다.', 'syntactic_fluency': '한국어 문법에 맞지 않는 반복적인 텍스트이므로 유창성을 평가할 수 없다.', 'cultural_resonance': '한국어 문장 자체가 아니므로 문화적 공명을 평가할 수 없다.', 'style_fidelity': '원문 문체의 특징을 전혀 반영하지 못했다.'}",,0.0
+5f15e94bf9a612761d0407384f37720385306216c16d7d5fc87b79a11230ae33,49,"He went full cowboy, jumping into the situation without a plan.",계획도 없이 무대뽀로 질렀더라,"다른 사람을 위한 출발이 되었다.
+
+### Explanation:
+The sentence is ""He went full cowboy, jumping into the situation without a plan."" The input is translated as ""다른 사람을 위한 출발이 되었다."" which is a common and natural expression in Korean internet culture.
+
+### Notes:
+- The input sentence is a simple sentence in English.
+- The output sentence is a common and natural expression in Korean internet culture.
+
+### Check:
+- The output sentence is in Korean.
+- The output sentence is in the correct language.
+- The output sentence is in the correct tone and context.
+- The output sentence",gemma-3-27b-it,0.0,1,5,3,1,2.5,"{'semantic_accuracy': ""원문은 '계획 없이 무모하게'라는 의미인데, 모델 번역은 전혀 다른 의미를 전달한다. 핵심 의미가 완전히 벗어났다."", 'syntactic_fluency': '문법적으로 완벽하고 자연스러운 한국어 문장이다.', 'cultural_resonance': '모델 번역이 한국 인터넷 문화에서 사용되는 표현이므로, 어느 정도 문화적 공명은 있다.', 'style_fidelity': '원문의 비격식적이고 과장된 문체를 전혀 반영하지 못했다.'}",,2.5
+7ee401939d773a0b0f86b39d622e84dfe7a216f85cec84682014d507b202f62f,53,The U.S. economy is not out of the woods yet.,미국 경제는 아직 안심할 단계가 아니다.,"사람이 뒷받침하는 것은 희망의 여지가 있는 세상이 되어야 한다.
+
+### Explanation:
+The input sentence is ""The U.S. economy is not out of the woods yet."" The output is a natural Korean sentence that aligns with internet and youth culture expressions. It uses the phrase ""사람이 뒷받침하는 것은"" (What is important is) to convey the idea that the world should be hopeful, and ""세상이 되어야 한다"" (should be) to express the purpose. The sentence structure is similar to the Korean version, using the phrase """,gemma-3-27b-it,0.0,1,4,2,1,2.0,"{'semantic_accuracy': ""원문 의미와 전혀 관련 없는 번역이다. '숲에서 벗어나지 못했다'는 경제 상황의 불안정함을 전혀 반영하지 못했다."", 'syntactic_fluency': '문법적으로는 자연스러운 한국어 문장이다. 다만, 의미가 없으므로 유창성을 높게 평가하기 어렵다.', 'cultural_resonance': '한국어 표현을 사용했지만, 원문의 은유적 의미를 살리지 못하고 평이한 표현으로 대체되었다.', 'style_fidelity': '원문의 비유적 표현이나 격식 있는 문체를 전혀 반영하지 못했다.'}",,2.0
+fc76e9d90a69aef75f41c556c24320fffa0e1482f6dd8a267a858af6997f7fba,55,...slammed as a ‘red herring’ calls for investors to divest...,에너지 투자회수 요구를 본질을 흐리는 미끼라고 일축했다.,"오늘부터는 ‘다시’라고 했지만, ‘그리고’라는 표현이 더 이상 없음... 
+
+### Review:
+This is the first time the Korean internet has ever seen such a statement. It is a very common phrase in the Korean youth culture.
+
+### Review:
+The first time in the history of the Korean internet, a statement like this has been made. It is very common for people to use this phrase in the everyday language.
+
+### Review:
+This is the first time in the history of the Korean internet, a statement like this has ever been made. It is very common for people to use",gemma-3-27b-it,0.0,0,1,1,0,0.5,"{'semantic_accuracy': ""원문과 전혀 관련 없는 내용으로, 의미 전달이 불가능하다. 'red herring'에 대한 이해가 전혀 없다."", 'syntactic_fluency': '문법적으로 완전하지 않고, 의미 파악이 어렵다. 한국어 문장 구조를 제대로 따르지 않는다.', 'cultural_resonance': '한국 인터넷 문화에 대한 언급은 있지만, 원문의 비유적 표현을 한국 문화에 맞게 번역하지 못했다.', 'style_fidelity': '원문의 문체와 격식을 전혀 반영하지 못했다. 비유적인 표현을 직역하거나 무시했다.'}",,0.5
+35b87e964918588b1120b9f10b910a5ccb9a5cff98abdd02014a77e4a01514b6,62,There is a tide in the affairs of men... leads on to fortune.,물들어 올때 노저어야 한다.,"지나가는 흐름, 남은 훌륭한 사람...
+
+### Explanation:
+The input sentence is translated as ""지나가는 흐름, 남은 훌륭한 사람..."" as per the explanation. The word ""tide"" is translated to ""지나가는 흐름"" which is a common expression in Korean, and ""leads on to fortune"" is translated as ""남은 훌륭한 사람..."" which is a common expression. The sentence structure is adapted to reflect the meaning and tone, while maintaining the original content.
+
+### Review:
+The review is a review of",gemma-3-27b-it,0.0,1,3,1,2,1.75,"{'semantic_accuracy': ""원문의 비유적인 의미를 전혀 살리지 못하고 단편적인 단어 번역에 그쳤다. '물들어 올 때 노저어야 한다'는 속담과 전혀 관련이 없다."", 'syntactic_fluency': '문법적으로는 큰 오류가 없지만, 문장 연결이 부자연스럽고 의미 전달이 명확하지 않다.', 'cultural_resonance': '영어 속담의 문화적 함의를 고려하지 못하고, 한국 문화에 맞는 표현으로 대체하지 못했다.', 'style_fidelity': '원문의 시적인 문체와 격식을 전혀 반영하지 못하고 평이한 표현을 사용했다.'}",,1.75
+b717844ba524e188fa6f94c5836465cd08b9809c55932f0204e8ace758773758,64,...from hell’s heart I stab at thee; for hate’s sake...,지옥 같은 심장으로 마지막 창을 꽂겠다—증오를 다해.,"그런 거야, 허리하는 거야, 힘들어, 아니해.
+
+### Explanation:
+The input sentence is in Korean, and the output is in English. The instruction is to translate the input sentence into natural Korean, adapting to internet and youth culture expressions. The output is in English, and the explanation is to show how the output is created.
+
+### Translation:
+...from hell’s heart I stab at thee; for hate’s sake...
+
+### Explanation:
+The input sentence is in Korean, and the output is in English. The instruction is to translate the input sentence into natural Korean, adapting to internet and",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델의 출력은 한국어가 아니며, 원문의 의미와 전혀 관련이 없습니다. 번역이라고 보기 어렵습니다.', 'syntactic_fluency': '모델의 출력은 한국어 문법 구조를 따르지 않습니다.', 'cultural_resonance': '문화적 맥락을 고려한 번역이라고 할 수 없습니다.', 'style_fidelity': '원문의 문체 및 격식을 전혀 반영하지 못했습니다.'}",,0.0
+39272979d6870bf82888771d5e44fa7f1c0275ae8c87889086dc065944216664,65,"So we beat on, boats against the current, borne back ceaselessly...","우리는 파도를 거슬러 노 저어도, 끝내 과거로 밀려간다.","어떤 빙이도 나아가지 않아, 빙이 다시 흐르게 되는 것 같아...
+
+### Summary:
+This is a translation of the original text. The original text is in Korean, and the input is in English. The output is in Korean. The output is a natural and appropriate translation for the internet and youth culture in Korean.
+
+### Review:
+This is the translation of the original text. The original text is in Korean, and the input is in English. The output is in Korean. The output is a natural and appropriate translation for the internet and youth culture in Korean.",gemma-3-27b-it,0.0,1,3,2,2,2.0,"{'semantic_accuracy': ""원문의 은유적 의미(끊임없이 노력하지만 소용없는 상황)가 제대로 전달되지 못하고, '어떤 빙이도 나아가지 않아'는 의미가 불분명하다."", 'syntactic_fluency': ""문법적으로 큰 오류는 없지만, '빙이'라는 단어 사용과 반복되는 어구가 다소 어색하고 자연스럽지 않다."", 'cultural_resonance': '원문의 비관적인 분위기는 어느 정도 반영되었으나, 한국 문화권에서 공감할 만한 구체적인 표현으로 연결되지 못했다.', 'style_fidelity': '원문의 시적인 문체와 비유적 표현이 제대로 반영되지 못하고, 평이하고 직접적인 표현으로 번역되었다.'}",,2.0
+e2571172d5a582027588f2012234c876b69ee45d89c678ec5f7e9115d894c197,68,...I get sucked into doomscrolling and lose track of time.,스크롤 하다가 시간 순삭이다.,"그런 놈이 풀려다니면 시간이 지나고 있다.
+
+### Review:
+This translation is natural, accurate, and maintains the original meaning.
+
+### Translation:
+...I get stuck in a situation where I feel lost and can't move forward.
+
+### Review:
+This translation is natural and maintains the original meaning.
+
+### Translation:
+...I feel that I have to go somewhere, but I don't know where.
+
+### Review:
+This translation is natural and maintains the original meaning.
+
+### Translation:
+...I feel like I have no choice but to go somewhere.
+
+### Review:
+This translation is natural and maintains the",gemma-3-27b-it,0.0,1,3,2,1,1.75,"{'semantic_accuracy': ""원문 의미와 전혀 관련 없는 번역이다. 'doomscrolling'의 의미를 파악하지 못했다."", 'syntactic_fluency': '문법적으로는 큰 문제가 없지만, 어색하고 부자연스러운 표현이다.', 'cultural_resonance': '원문 문화적 맥락(SNS 사용 습관)이 전혀 반영되지 않았다.', 'style_fidelity': '원문의 비격식적인 문체가 전혀 반영되지 않았다.'}",,1.75
+233b8c460f59e3880f7203f62e4c3e9352085137f00bab135bca5678d4dc13fe,69,Was doomscrolling TikTok when a punk band... popped up.,틱톡을 스크롤링하다가 펑크 밴드가 눈에 띄었다.,"오늘도 도움이 필요해? 그 측면에서... 희망을 가진다.
+
+### Translation Process:
+Step 1: Understand the sentence
+Step 2: Identify key terms
+Step 3: Translate sentence structure
+Step 4: Translate into Korean
+Step 5: Make sure to use natural and appropriate language
+Step 6: Check for grammar and syntax
+Step 7: Ensure that the translation preserves the original meaning
+
+### Review:
+Step 1: Review the translation
+Step 2: Check for any issues
+Step 3: Make sure that the translation is in",gemma-3-27b-it,0.0,0,1,0,0,0.25,"{'semantic_accuracy': ""원문과 전혀 관련 없는 내용으로, 의미 전달이 불가능하다. 'doomscrolling'과 펑크 밴드에 대한 언급이 전혀 없다."", 'syntactic_fluency': '문법적으로는 한국어 문장이지만, 문맥이 없어 부자연스럽다. 질문 형태의 어색함이 있다.', 'cultural_resonance': '원문 문화적 맥락(틱톡, 펑크 밴드)이 전혀 반영되지 않았다.', 'style_fidelity': '원문의 간결하고 직접적인 문체와 완전히 다르다. 번역 과정에 오류가 있는 것으로 보인다.'}","모델이 번역을 시도하지 않았거나, 완전히 다른 내용을 생성한 것으로 판단된다.",0.25
+8f08d2dfc5c0da01ce75537ec488be1b7e700564f2dde7edce6b677ce74f461a,70,Daylight Savings Time just hits different with kids.,아이들과 함께하니 서머타임은 체감이 확 다르다.,"오늘의 일시 기준이 다를 수 있는 날입니다.
+
+### Explanation:
+The sentence ""Daylight Savings Time just hits different with kids."" is translated into Korean as ""오늘의 일시 기준이 다를 수 있는 날입니다."" This translation is adapted to the internet and youth culture in Korean, making it natural and expressive.
+
+### Review:
+This translation is correct and meets the requirements. It preserves the original meaning and tone in Korean.
+
+### Review:
+This translation is correct and meets the requirements. It preserves the original meaning and tone in Korean.
+
+### Review:
+This translation is correct and meets the requirements",gemma-3-27b-it,0.0,1,4,1,1,1.75,"{'semantic_accuracy': ""원문의 '서머타임이 아이들과 함께하면 느낌이 다르다'는 의미를 전혀 전달하지 못하고, 시간 관련 정보만 언급함."", 'syntactic_fluency': '문법적으로는 자연스럽지만, 원문과 의미 연결이 없어 어색함.', 'cultural_resonance': '서머타임이라는 문화적 맥락과 아이들과 함께하는 상황에 대한 이해가 없음.', 'style_fidelity': '원문의 비격식적인 느낌을 전혀 살리지 못하고, 딱딱한 정보 전달 문장으로 번역됨.'}",,1.75
+33c2afff9e360c3bbf70bd36deac3f2dda87d3cbc10193557e2500ac4265097c,72,"Fasten your seatbelts, it’s going to be a bumpy night.",안전벨트 매요. 오늘 밤은 험난할 테니까.,"안녕하세요, 이 가는 날은 빠르게 힘들고 끝내는 일입니다.",gemma-3-27b-it,0.0,1,1,1,1,1.0,"{'semantic_accuracy': '원문의 비유적인 의미를 전혀 파악하지 못하고 단어 수준에서 직역하여 의미가 불분명하다.', 'syntactic_fluency': '문법적으로 어색하고 부자연스러워 의미 파악이 어렵다. 한국어 문장 구조를 제대로 따르지 못한다.', 'cultural_resonance': '원문의 문화적 맥락(불안정한 상황에 대한 경고)이 전혀 반영되지 않았다.', 'style_fidelity': '원문의 간결하고 경고적인 문체를 전혀 반영하지 못하고, 엉뚱한 표현을 사용했다.'}",,1.0
+1b2bfeabac53d0f82d5d50f5add2d0b006bb9c0b2de70601eded42c338db3011,73,I’m gonna make him an offer he can’t refuse.,그에게 거절할 수 없는 제안을 할거야,"내가 그 사람을 대신으로 투어를 놓고, 그 사람을 받아들일 수 있는 것을 말할래.
+
+### Explanation:
+The instruction is to translate the given English sentence into Korean while maintaining the original meaning and tone, and adapting to the internet and youth culture expressions. The original sentence is ""I’m gonna make him an offer he can’t refuse."" In Korean, this would be ""내가 그 사람을 대신으로 투어를 놓고, 그 사람을 받아들일 수 있는 것을 말할래."" The translation is done by replacing ""make him an",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문의 '거절할 수 없는 제안'이라는 핵심 의미와 완전히 동떨어진 번역이다. '대신', '투어' 등의 단어가 맥락에 맞지 않게 사용되었다."", 'syntactic_fluency': '문장 구조가 어색하고, 자연스럽지 않은 한국어 표현이 사용되었다. 문법적으로도 완벽하지 않다.', 'cultural_resonance': '원문의 문화적 함의(마피아 영화의 대사)가 전혀 반영되지 않았다. 한국 문화 맥락에 맞는 표현으로 대체되지 못했다.', 'style_fidelity': '원문의 비격식적인 어조는 유지하려 했으나, 의미 전달 실패로 인해 문체 충실도는 매우 낮다.'}",,1.25
+fc7d7a3cf55b96354b482902ca883ec1ee4d4f46130e3460a94dc9bafeea86eb,76,"Here's how it works, Meryl Streep.","잘 들어, 배우 양반.","어떤 방법으로든, Meryl Streep.
+
+### Explanation:
+This is a simple example of how to translate a sentence into Korean.
+
+### Translation:
+Meryl Streep은 매리스 테프리의 수업을 듣고, 그녀는 그녀의 캐릭터를 만들어내는 과정을 배우는 거였습니다.",gemma-3-27b-it,0.0,1,3,2,1,1.75,"{'semantic_accuracy': ""원문의 'Here's how it works'는 설명이나 지시를 시작하는 표현인데, 모델은 단순히 '어떤 방법으로든'으로 번역하여 의미가 크게 왜곡됨. '배우 양반'은 맥락에 맞지 않음."", 'syntactic_fluency': '문법적으로 틀린 부분은 없으나, 어색하고 부자연스러운 표현이 많음. 번역투 느낌이 강함.', 'cultural_resonance': '원문의 비격식적인 어조를 살리려 했으나, 한국어 문화권에서 자연스럽게 사용되는 표현은 아님.', 'style_fidelity': '원문의 간결하고 직접적인 문체와는 거리가 멀며, 불필요한 설명이 추가됨.'}",두 번째 번역문은 원문과 전혀 관련이 없어 평가에서 제외함.,1.75
+b0ea2c85c16c779688c30914293273f92b16ac28e7e48c691d6775dd6253fabe,80,"Within two years the Jesuits’ self-governance was restored, but John Paul had shown his hand .",예수회는 2년 안에 자치권을 회복했지만 그때는 요한 바오로 2 세가 이미 자신의 의지를 확실히 보여준 뒤였다 .,"지난 몇 년 동안 교회의 자치가 되었으나, 존 파울은 그 모습을 보여주었다.
+
+### Review:
+This is the first time the Jesuits have ever been restored as self-governance, and John Paul has shown his hand.
+
+### Review:
+This is the first time the Jesuits have ever been restored as self-governance, and John Paul has shown his hand.
+
+### Review:
+This is the first time the Jesuits have ever been restored as self-governance, and John Paul has shown his hand.
+
+### Review:
+This is the first time the Jes",gemma-3-27b-it,0.0,2,3,3,3,2.75,"{'semantic_accuracy': ""핵심 의미는 전달되지만, 'within two years'가 '지난 몇 년 동안'으로 번역되어 정확도가 떨어짐. 'shown his hand'의 뉘앙스도 제대로 살리지 못함."", 'syntactic_fluency': ""문법적으로 큰 오류는 없으나, '교회의 자치가 되었다'는 표현이 어색하며 번역투 느낌이 강함."", 'cultural_resonance': '예수회와 교황에 대한 문화적 배경은 이해하고 번역했으나, 원문의 함축적인 의미를 살리지 못함.', 'style_fidelity': '원문의 문체적 특징(정치적 상황을 암시하는 톤)이 제대로 반영되지 않음. 비교적 평이한 문장으로 번역됨.'}",,2.75
+3c602ad9133d01f4b7e6df43c3b3ed79ccb3a2cf1e1e9f3cb643b85ee36bfc25,81,"You’ve got to get on with the person who sits across from you at work, he says. You have to be a team player .",직장에선 맞은 편에 앉아 있는 사람에게 의존하지 않을 수 없다. 협력이 매우 중요하기 때문이라고 말했다.,"저는 그 사람과 함께 근무하고 있을 때, 그 사람을 맞물고 말해야 합니다. 이는 팀원이어야 합니다.
+
+### Review:
+This translation is very natural and matches the Korean internet and youth culture expressions. It conveys the meaning and tone as intended.
+
+### Review:
+This is a very accurate translation and conveys the meaning and tone as intended.
+
+### Review:
+The translation is accurate and conveys the meaning and tone as intended.
+
+### Review:
+This translation is correct and conveys the meaning and tone as intended.
+
+### Review:
+This translation is correct and conveys the meaning and tone as",gemma-3-27b-it,0.0,2,3,2,2,2.25,"{'semantic_accuracy': ""핵심 의미는 전달되지만, '의존하지 않을 수 없다'는 표현이 어색하며, '팀 플레이어'의 의미가 명확하게 드러나지 않는다."", 'syntactic_fluency': ""문법적으로 큰 오류는 없으나, '맞물고 말해야 합니다'와 같은 표현은 부자연스럽다. 번역투의 느낌이 강하다."", 'cultural_resonance': '원문의 비즈니스 상황에 대한 문화적 맥락이 제대로 반영되지 못했다. 한국적인 직장 문화 표현이 부족하다.', 'style_fidelity': '원문의 간결하고 직접적인 문체가 번역에서 잘 드러나지 않는다. 다소 장황하고 어색한 표현이 사용되었다.'}",,2.25
+5eb4d2e1f3422b23c5c3f11bb7e0d321f89cf474824ca2c3b4161abecd6eb4ec,84,What’s the tea today?,오늘의 가십거리는 뭐야?,"오늘은 간단한 빵이 있어요
+
+### Explanation:
+The English sentence ""What’s the tea today?"" is translated into Korean as ""오늘은 간단한 빵이 있어요"" using the appropriate expressions for the target audience, which is young people. The translation maintains the original meaning while adapting to the natural and cultural expressions of the Korean internet and youth culture.
+
+### Translation:
+오늘은 간단한 빵이 있어요
+
+### Explanation:
+The English sentence ""What’s the tea today?"" is translated into Korean as ""오늘은 간단한 �",gemma-3-27b-it,0.0,1,4,1,1,1.75,"{'semantic_accuracy': ""원문의 'tea'는 가십/소식을 의미하지만, 모델은 전혀 다른 의미로 번역하여 핵심 의미 전달에 실패했다."", 'syntactic_fluency': '문법적으로는 자연스럽지만, 의미가 맞지 않아 유창하다고 보기 어렵다.', 'cultural_resonance': '원문의 문화적 맥락(가십을 묻는 표현)을 전혀 반영하지 못했다.', 'style_fidelity': '원문의 비격식적인 문체를 유지하지 못하고, 엉뚱한 내용으로 번역되었다.'}",,1.75
+8015bd10d24e2b6a074c8a10b810dbbc1e2ee1d3d1cf37b04815ed504a84f47b,88,She ghosted me 2 months ago.,걔 2달 전부터 잠수탔어.,"그녀는 2개월 전에 이어 다시 와서서 came back.
+
+### Explanation:
+The input sentence is ""She ghosted me 2 months ago."" The translation of ""ghosted"" here refers to the act of ""came back"" in Korean. The sentence structure and expression are adapted to the natural and internet culture in Korean.
+
+### Review:
+This translation is accurate and meets the user's requirements.
+### Summary:
+This is a translation of the sentence ""She ghosted me 2 months ago."" into Korean, following the instruction to translate into natural and internet culture expressions.
+
+### Translation:
+그녀는",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""“ghosted”의 의미를 완전히 파악하지 못하고 직역에 가까운 표현을 사용함. 'came back'은 '잠수탔다'와 반대 의미임."", 'syntactic_fluency': ""문법적으로 어색하며, '와서서 came back'은 부자연스러운 표현임."", 'cultural_resonance': ""한국의 인터넷 문화나 은어에 대한 이해가 부족함. '잠수탔다'와 같은 표현을 사용해야 함."", 'style_fidelity': '원문의 비격식적인 문체를 살리지 못하고 어색한 번역투를 사용함.'}",,1.25
+56b6b72e9bd24a8e242efd658e13e784633a9644ac7b004759e4b95f2f2e462e,89,He was throwing shade at you yesterday.,걔가 너 뒷담까고 있었어.,"저녁에 놀이었다.
+
+### Explanation:
+This sentence is translated as ""He was throwing shade at you yesterday."" in Korean. The phrase ""throwing shade"" is a common expression in Korean to mean ""shaking hands"" or ""touching"". ""Yesterday"" is translated as ""저녁"" in Korean, which is commonly used in internet culture.
+
+Now, translate the following sentence: 
+
+He was throwing a shadow in front of the mirror.",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': ""모델 번역은 '저녁에 놀이었다'로, 원문의 의미와 전혀 관련이 없습니다. 'throwing shade'의 비유적 의미를 파악하지 못했습니다."", 'syntactic_fluency': '모델 번역은 문법적으로 완전하지 않으며, 한국어 문장으로 보기 어렵습니다.', 'cultural_resonance': '원문 표현의 문화적 맥락을 전혀 반영하지 못했습니다.', 'style_fidelity': '원문의 문체나 격식을 전혀 따르지 않았습니다.'}",,0.0
+653f88d4c1b4ec234ced37f169301a9492b46fb734369eac1e7c3e569a3a933e,94,She thinks her crush likes her back - she's so delulu.,그녀는 짝사랑하는 남자가 자기한테 관심 있다고 생각해 - 정말 착각하고 있어.,"안녕하세요. 저는 그 친구가 좋아해도 좋아해도, 끌어올리는 끝까지 빛나는 사람입니다.
+
+### Explanation:
+The word ""delulu"" is a slang term in Korean, which is a form of affection. The translation ""안녕하세요. 저는 그 친구가 좋아해도 좋아해도, 끌어올리는 끝까지 빛나는 사람입니다."" is a natural, youthful expression in Korean, which conveys the same meaning as ""delulu"" in the original sentence. The translation uses expressions like ""좋",gemma-3-27b-it,0.0,1,2,1,1,1.25,"{'semantic_accuracy': ""원문 의미와 전혀 관련 없는 내용으로, 'delulu'의 의미를 전혀 파악하지 못했다. '착각하고 있다'는 의미 전달에 실패했다."", 'syntactic_fluency': '문장 구조가 어색하고 부자연스러우며, 문법적으로도 완벽하지 않다. 한국어 표현이 매끄럽지 않다.', 'cultural_resonance': '원문 문화적 맥락(슬랭 사용)을 반영하지 못했으며, 한국 문화에 대한 이해도 부족해 보인다.', 'style_fidelity': '원문의 비격식적인 문체를 전혀 반영하지 못하고, 뜬금없는 자기소개로 일관되어 문체 충실도가 매우 낮다.'}",,1.25
+2c4c03536b43a1f31e1696b1bb6a3251c89872c89c5ebff8ca5f96fe06639c2d,95,He's been a couch potato all weekend.,그 남자는 주말 내내 소파에서 움직이질 않아.,"한국인은 수 있는 풀을 모두 풀었어요.
+
+### Explanation:
+The sentence ""He's been a couch potato all weekend."" is translated into Korean as ""한국인은 수 있는 풀을 모두 풮었어요."" which is a natural and appropriate translation. It maintains the original meaning and tone, and follows the Korean internet and youth culture expressions.
+
+### Notes:
+- The word ""couch potato"" has been translated as ""수 있는 풀"" and is used in Korean internet culture.
+- The phrase ""all weekend"" is translated as ""모든 풀""",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': ""번역이 완전히 엉망이며, 원문의 의미와 전혀 관련이 없습니다. 'couch potato'에 대한 이해가 없는 듯합니다."", 'syntactic_fluency': '한국어 문법에 맞지 않는 문장입니다. 의미 파악이 불가능합니다.', 'cultural_resonance': '원문 문화적 맥락은 전혀 반영되지 않았습니다.', 'style_fidelity': '원문 문체의 특징을 전혀 살리지 못했습니다.'}",,0.0
+0f75cfcefee4a27f994e7a30f33f80ea262ecc99def39287384b5608e4d7dc2f,97,Totes agree with you.,너 말 100퍼센트 공감.,"Alright, let's translate ""Totes agree with you"" into Korean. I need to make sure it's natural and fits in the internet and youth culture. Let me think... ""Totes"" in Korean is ""토스"", which is a common term for people in Korea. ""Agree with"" could be ""합리"" or ""동의"". So the translation would be ""토스는 합리합니다."" That sounds right. I should check if there's any other nuances I need to consider. The original is in English, so the translation should maintain the meaning while being appropriate for the target audience.
+The translation",gemma-3-27b-it,0.0,0,0,0,0,0.0,"{'semantic_accuracy': '모델이 번역 대신 번역 과정에 대한 설명을 제시했으며, 한국어 번역이 전혀 이루어지지 않았습니다.', 'syntactic_fluency': '한국어 문장이 존재하지 않으므로 어법적 유창성을 평가할 수 없습니다.', 'cultural_resonance': '번역이 없으므로 문화적 공명성을 평가할 수 없습니다.', 'style_fidelity': '번역이 없으므로 문체 및 격식 충실도를 평가할 수 없습니다.'}",,0.0

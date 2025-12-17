@@ -1,0 +1,596 @@
+[
+    {
+        "id": 0,
+        "input": "The committee, whose investigation opened a can of worms regarding the project's funding, is expected to release its full report.",
+        "reference": "그 프로젝트의 자금 조달과 관련해 걷잡을 수 없는 문제를 야기한 위원회는 곧 전체 보고서를 발표할 예정이다.",
+        "prediction": "<think>\n저 회의가 예산 문제에 대해 개별 조사를 진행했고, 그 논의가 개별 사건에 대해 보고해야 한다."
+    },
+    {
+        "id": 1,
+        "input": "After the scandal was exposed, the corporation had no choice but to face the music and address the public's outrage.",
+        "reference": "스캔들이 폭로된 후, 그 기업은 자신들의 과오를 인정하고 대중의 분노에 직면할 수밖에 없었다.",
+        "prediction": "<think>\n어떤 사건이 빼내어 나서, 회사가 상황이 빨리 해결하지 못해 대응해야 했다."
+    },
+    {
+        "id": 2,
+        "input": "Accused of cutting deals under the table, the official is now facing a career-defining investigation.",
+        "reference": "비밀리에 부정한 거래를 한 혐의로 기소된 그 관리는 현재 자신의 경력이 걸린 조사를 받고 있다.",
+        "prediction": "<think>\n어쨌든 총정지 않아, 진짜 떨어지지 않아. 관찰자 입장이 담긴 진정한 블라인드 타임이 촉진 않았다."
+    },
+    {
+        "id": 3,
+        "input": "The leaked memo, which revealed the senator's true intentions, has truly put the cat among the pigeons.",
+        "reference": "상원 의원의 진짜 속내를 드러낸 그 유출된 메모는 그야말로 엄청난 파장을 일으켰다.",
+        "prediction": "<think>\n네, Korean 문화에 적응한 번역. 원문을대로 번역해 Korean internet 표현에 적응.\n</think>\n\n개선하지 못해 Korean 문화에 맞춘 번역."
+    },
+    {
+        "id": 4,
+        "input": "Lobbyists tried to influence the vote, but the congresswoman refused to budge, proving she's not one to pull punches.",
+        "reference": "로비스트들이 투표에 영향을 주려 했지만, 그 여성 의원은 꿈쩍도 하지 않음으로써 자신이 결코 봐주는 사람이 아니라는 것을 증명했다.",
+        "prediction": "<think>\n절대 말하지 말고 Korean culture에서 어기네(어디러운 말을 해야 할 거야? 말해보지 않아(해보지 않아야)) 이건 그녀가 켜켜이 풀었지, 굳이 편해도 그녀는 빼내리지 않아."
+    },
+    {
+        "id": 5,
+        "input": "The old mansion on the hill, where shadows danced and whispers echoed, was a place that truly gave him the creeps.",
+        "reference": "언덕 위의 낡은 저택, 그림자가 춤추고 속삭임이 메아리치는 그곳은 그를 정말 소름 끼치게 만드는 장소였다.",
+        "prediction": "<think>\n이 카페가 뒤따라 있었는데, 그건 막상 끝까지 끝났다. 이 곳은 허프리더가 진짜 괴지럽게 흘러 있었던 거야.\n</think>\n\n길이 길고 그가 괴지럽게 흘러 있었던 곳이었네(이래도 쓰러지지 않고)."
+    },
+    {
+        "id": 6,
+        "input": "Had he known the chaos it would unleash, he might have let sleeping dogs lie, but his curiosity got the better of him.",
+        "reference": "그것이 불러올 혼돈을 알았더라면 그는 아마 긁어 부스럼을 만들지 않았을지도 모르지만, 호기심을 이기지 못했다.",
+        "prediction": "<think>\n이건 하자고 봐, 그가 떠들리 몸에 뛰어 봐서 뒤엔 죽기로 봐, 하지만 그 완전히 신경 쓸 필요가 없어, 그 뒤에서 죽는다.\n</think>\n\n이건 하자, 그가 진짜 막아 풀어 봐서 뒤에서 죽는다."
+    },
+    {
+        "id": 7,
+        "input": "Not until the final page did the protagonist realize that the clue to the mystery had been right under his nose all along.",
+        "reference": "마지막 페이지에 이르러서야 주인공은 미스터리의 단서가 내내 바로 코앞에 있었다는 사실을 깨달았다.",
+        "prediction": "<think>\n네, 말을 해야 하지, Korean culture에 맞게 해줘. 이 문장은 Korean internet 문맥에서 자연스럽게 전달되어야 해."
+    },
+    {
+        "id": 8,
+        "input": "The general, a man who had faced countless battles, finally met an opponent he could not defeat: his own Achilles' heel.",
+        "reference": "수많은 전투를 치러왔던 그 장군은 마침내 이길 수 없는 적, 바로 자신의 치명적인 약점과 마주했다.",
+        "prediction": "<think>\n어차피 죽은 그 남자가 끝내는 상대가 자신을 죽이려 했는데, 그의 손이 아니라면 그의 죽음이 될 것 같네.\n</think>\n\n그 남자는 자신의 끝내는 상대가 자신을 죽이려 했는데, 그의 죽음이 될 거야."
+    },
+    {
+        "id": 9,
+        "input": "To appease the king, the jester had to walk a tightrope with every joke he told, lest he cause offense.",
+        "reference": "왕의 비위를 맞추기 위해, 광대는 불쾌감을 주지 않도록 농담 하나하나에 신중을 기해야만 했다.",
+        "prediction": "<think>\n안 되지 않으면 나랑 갈만이야. 뜨는 한 번, 오해를 당하다가 다 봤으니까."
+    },
+    {
+        "id": 10,
+        "input": "He said he'd finish the project in a day but hasn't even started. Actions speak louder than words, I guess.",
+        "reference": "프로젝트 하루 만에 끝낸다더니 시작도 안 했네. 역시 말보단 행동이지.",
+        "prediction": "<think>\n어서 말하면 그는 일지를 찍지 않았지만, 완성도 꼭 완성했을 것 같네. 뜻하지 않으면 행동은 말할 수 있어."
+    },
+    {
+        "id": 11,
+        "input": "That influencer just got exposed for faking all her travel photos. Wow, she really got a taste of her own medicine.",
+        "reference": "그 인플루언서, 여행 사진 전부 조작한 거 들통났대. 와, 진짜 자기가 한 대로 돌려받네.",
+        "prediction": "<think>\n네이지먼트가 실수한 사진을 공개한 뒤, 그녀는 스스로 완전히 끝났어. 배우는 거 진짜 감정이 너무 흐렸어."
+    },
+    {
+        "id": 12,
+        "input": "Trying to argue with him is pointless. It's like flogging a dead horse.",
+        "reference": "걔랑 논쟁하려는 건 의미 없어. 해봤자 소용없는 짓이야.",
+        "prediction": "<think>\n네, 그와의 대화는 무리한 말이야. 그와의 대화가 무리한 말이야."
+    },
+    {
+        "id": 13,
+        "input": "I can't stop thinking about that weird plot twist. It's been living rent-free in my head all week.",
+        "reference": "그 이상한 반전이 머리에서 떠나질 않네. 일주일 내내 머릿속을 맴돌고 있어.",
+        "prediction": "<think>\n이 막은 허리 땅이 너무 빛나고(지난 터치나 흘러내는 채식이야). 이 땐 꼬박 꼭 다시 쓰레기 땅이야."
+    },
+    {
+        "id": 14,
+        "input": "Everyone is suddenly an expert on quantum physics after watching one documentary? The Dunning-Kruger effect is hitting hard with this one.",
+        "reference": "다큐 하나 보고 다들 갑자기 양자물리학 전문가가 되셨네? 이거야말로 더닝-크루거 효과가 제대로 온 경우네.",
+        "prediction": "<think>\n네, Korean culture에 맞게 해야댐. 이 문장은 빌딩킹 효과(더러운 사람의 훈련)이 강한 듯한데, 뭔가 빠져나가고 싶어 하는데, 뭔가 진짜 훈련하고 싶어 하는데, 이건 빼리지 않으면 잘 해야 하네."
+    },
+    {
+        "id": 15,
+        "input": "The reason our current model fails is that trying to process raw audio this way is like putting the cart before the horse.",
+        "reference": "현재 모델이 실패하는 이유는, 이런 식으로 원본 오디오를 처리하려는 것 자체가 본말이 전도된 것이기 때문입니다.",
+        "prediction": "<think>\n절단하고, Korean 문화에 맞춘 표현하기\n그런 이유가 우리 현재 모델이 작동하지 못하려는 건, 어짜리 이걸 다 봐서는 체크하고 나가는 게 빵한 거야."
+    },
+    {
+        "id": 16,
+        "input": "After the catastrophic failure of the server, the entire engineering team had to go back to the drawing board.",
+        "reference": "서버의 치명적인 장애 이후, 전체 엔지니어링 팀은 원점에서부터 다시 시작해야만 했다.",
+        "prediction": "<think>\n네, 이 문장 뜻을 Korean culture에 맞게 해줘. Korean culture에 적응한 표현으로 해."
+    },
+    {
+        "id": 17,
+        "input": "To meet the deadline, some developers cut corners on testing, a decision that is now causing major issues.",
+        "reference": "마감일을 맞추기 위해 일부 개발자들이 테스트를 대충 건너뛴 것이 현재 주요 문제의 원인이 되고 있다.",
+        "prediction": "<think>\n네, Korean culture에서 말하면 해서 해보자. 일정 준수 못 하면 개발자들이 애들 놓여서 문제야. 현실이야."
+    },
+    {
+        "id": 18,
+        "input": "Given the complexity of the problem, a solution is not expected to fall into our laps; it will require months of dedicated research.",
+        "reference": "문제의 복잡성을 고려할 때, 해결책이 거저 주어질 것으로 기대되지 않으며, 수개월간의 헌신적인 연구가 필요할 것입니다.",
+        "prediction": "<think>\n어떤 문제에 대해 해결하려고 하지 않으므로, 단순히 해결책이 아니라면(아무도 풀이할 수 없을 때) 우리는 이 문제에 대한 시간을 풀어내야 한다.\n</think>\n\n문제가 복잡하다니, 풀이할 수 없을지 몰라도(지난달간도 집중해서 해야 하지), 나도 봐야 한다."
+    },
+    {
+        "id": 19,
+        "input": "The competitor's new chip, which boasts incredible speeds, has thrown down the gauntlet to the rest of the industry.",
+        "reference": "놀라운 속도를 자랑하는 경쟁사의 신제품 칩은 업계의 다른 모든 기업에게 도전장을 내밀었다.",
+        "prediction": "<think>\n어떤 팀의 새로운 앱이 빠르게 빼내려고 했어, 그게 나머지 나더럽게 빼내려고 했어.\n</think>\n\n이 팀의 새로운 앱이 빨리 빼내려고 했어, 나머지 나더럽게 빼내려고 했어."
+    },
+    {
+        "id": 20,
+        "input": "\"You think you can manage this project alone? Don't bite off more than you can chew.\"",
+        "reference": "\"이 프로젝트를 혼자 감당할 수 있다고 생각해? 너무 욕심부리지 마.\"",
+        "prediction": "<think>\n네, Korean culture에 맞춰 표현해야 해. \"이 프로젝트 끝내기 전에 흠뻑 뛰어 버렸어? 왜? 너 끝내는 거 다 맡겨버렸어.\""
+    },
+    {
+        "id": 21,
+        "input": "\"He betrayed us. It's time he got a taste of his own medicine. I have a plan.\"",
+        "reference": "\"그놈이 우릴 배신했어. 이제 똑같이 당해 줄 차례야. 계획이 있어.\"",
+        "prediction": "<think>\n어리게 해보지 마. 내가 죽고 싶을 때 해야 해. 그게 내가 할 거야."
+    },
+    {
+        "id": 22,
+        "input": "\"I've been working for 18 hours straight. I'm exhausted. Let's call it a day.\"",
+        "reference": "\"18시간 내리 일했어. 완전히 지쳤다고. 오늘은 이만 끝내자.\"",
+        "prediction": "<think>\n저 18시간 지나고 다녀서 다 힘들어(너 끼고 다 힘들어(너 끼고 다 힘들어)) 봐(너 끼고 다 힘들어 봐) 봐. 오늘 끝내기."
+    },
+    {
+        "id": 23,
+        "input": "\"You expect me to believe that story? Pull the other one, it's got bells on it!\"",
+        "reference": "\"내가 그 이야기를 믿을 것 같아? 말도 안 되는 소리 집어치워!\"",
+        "prediction": "<think>\n어제 왜 그런 말을 해주고 나니 걔도 떡 놓고, 네 말은 떡 놓겠지? 걔는 떡 놓고, 네 말이 떡 놓지 말까?"
+    },
+    {
+        "id": 24,
+        "input": "\"Look, I know you're upset, but we need to stay calm and play it by ear. We don't have a plan B.\"",
+        "reference": "\"이봐, 화난 건 알겠지만, 일단 침착하게 상황 봐서 대처해야 해. 우리에겐 차선책이 없어.\"",
+        "prediction": "<think>\n네, Korean culture에 맞춰서 해야 함. \"아하, 네가 걔가 떨어졌어. 하지만 지금은 야기하고, 총이 없다고. 게임하고 말이야.\""
+    },
+    {
+        "id": 25,
+        "input": "When he realized the project was failing, he just said ‘Jesus, take the wheel,’ and gave up completely.",
+        "reference": "프로젝트가 망해가는 거 보고, 그냥 프로젝트랑 손절하더라",
+        "prediction": "<think>\n이게 왜 힘들었냐? 그만 끌어버리니 희생했어."
+    },
+    {
+        "id": 26,
+        "input": "She tried to fix the issue herself, but it turned into a ‘hold my beer’ moment that made everything worse.",
+        "reference": "자기가 해결하겠다고 까불다가 대참사 났어",
+        "prediction": "<think>\n이 대상이 스스로 해결을 했지만, 나름대로 해결했을 뿐 진짜 악순위가 났다."
+    },
+    {
+        "id": 27,
+        "input": "Ever since he got a promotion, he walks around like he owns the place, real big-man-on-campus energy",
+        "reference": "승진한 뒤로는 마치 회사가 자기꺼인 것처럼 행동하고 다니더라",
+        "prediction": "<think>\n어제 완전히 업급에 성공했다니, 그는 거대한 대표(내 헌터)가 되어 버렸다. 멍에 캐릭터의 뒤서 놓여서 힘들어하고 있는 것 같아."
+    },
+    {
+        "id": 28,
+        "input": "No need to sugarcoat it—we both know this plan is a Hail Mary at best.",
+        "reference": "돌려 말할 필요 없어. 우리 둘다 막판 도박 거는거인거 알잖아",
+        "prediction": "<think>\n네, 한국문화에 맞춰 표현해야 해. \"우리가 완전히 애매하지만, 이 계획은 완전 진짜 진짜 진짜 진짜 터울려 해!\" 말이야."
+    },
+    {
+        "id": 29,
+        "input": "She pulled a Benedict Arnold and switched to the competitor team right before the deadline.",
+        "reference": "마감 직전에 상대팀으로 갔더라. 제대로 뒤통수 맞았어",
+        "prediction": "<think>\n어리석한 건네서 (기중 투입해 봤어) 진짜 팀 진짜 채널하고 싶어했네."
+    },
+    {
+        "id": 30,
+        "input": "He promised to help, but ghosted harder than someone on a dating app after a bad first date.",
+        "reference": "도와준다 했는데 전애인마냥 잠수타고 읽씹하고 사라졌어",
+        "prediction": "<think>\n그가 약속을 품었지만, 그저 대가 훈련을 하지 않아서 진짜 친구가 아닌 사람이라고 생각해.\n</think>\n\n결국 약속해도 훈련을 더 못 했어. 완전 떠오니 진짜 애매한 난이도한 결말이야."
+    },
+    {
+        "id": 31,
+        "input": "You can try convincing her, but she’s stubborn as a mule—good luck with that.",
+        "reference": "설득하려고 해도 소용 없어. 그냥 고집불통이야",
+        "prediction": "<think>\n다이아몬드 투어하고, 하지만 그녀는 빨간머리 손에 풀까봐, 허용할까 했어. 네가 이건 훼쳐서 해.\n</think>\n\n다이아몬드 투어하고, 하지만 그녀는 빨간머리 손에 풀까봐, 이건 훼쳐서 해."
+    },
+    {
+        "id": 32,
+        "input": "He always thinks the grass is greener on the other side, even though he’s never tried what he already has.",
+        "reference": "걔는 아무것도 하지도 않고 항상 남의 떡이 더 크다고 생각하더라",
+        "prediction": "<think>\n그건 그 뒤에 쇼크를 괜찮게 살해하는 거다(그가 막상 해도 안 보여) 하지만 그 뒤에 빛나는 곳은 진짜 멈 아니다."
+    },
+    {
+        "id": 33,
+        "input": "She’s acting like the hall monitor of the entire office, policing everyone’s behavior.",
+        "reference": "회사에서 다 감시하면서 완장질하고 다니더라",
+        "prediction": "<think>\n네, Korean 문맥에 맞게 해야 함.\n그녀는 그룹의 업무 인터럽트를 지키고, 사무실 사람들의 행동을 관리하고 있다는 뜻이야."
+    },
+    {
+        "id": 34,
+        "input": "When he lost the argument, he changed the topic faster than a politician dodging a question.",
+        "reference": "할 말 막히니까, 바로 다른 주제로 런치던데? 정치인 인줄",
+        "prediction": "<think>\n이게 끼고 말고 말고 말하고, 그 이야기는 정치인보다 빠르게 끝내야."
+    },
+    {
+        "id": 35,
+        "input": "They tried to spin the scandal, but it was a pure ‘caught with their hand in the cookie jar’ situation.",
+        "reference": "걔네가 스캔들에 대해 둘러대는데, 빼도박도 못하게 걸렸지",
+        "prediction": "<think>\n그러나 조우리(사진이 끼고 있는 상황)이 진짜 나쁜데 그걸 못 벌어면 말이야."
+    },
+    {
+        "id": 36,
+        "input": "He gave me a smile so fake it should’ve been sold at Walmart after Halloween.",
+        "reference": "표정은 웃고 있긴 한데 영업용이던데?",
+        "prediction": "<think>\n안들어 봤다. 챘리(안녕하세요) 털렸다. 빌리스(워머스)를 맞추는 게 맞다."
+    },
+    {
+        "id": 37,
+        "input": "She keeps playing devil’s advocate even when no one asked for it.",
+        "reference": "누가 시킨 것도 아닌데도 사사건건 태클걸더라",
+        "prediction": "<think>\n네, 빌 게 왜 진짜 거래하는 거지? 아니야. 어쨌든 말하면, 완전 진짜 자기 말을 했어도 하루도 봐."
+    },
+    {
+        "id": 38,
+        "input": "He’s the type who brings a knife to a gunfight and wonders why things go wrong.",
+        "reference": "준비도 안하고 뇌비우고 덤벼들어 왜 망했는지 모르는 타입",
+        "prediction": "<think>\n어서 왜 그가 친구가 아니었지? 이 guy는 전투에서 끝내고 뭔가 문제가 있어(내일이 뭔지) 생각하고(왜 터져?)\n</think>\n\n그가 쇼어 빼고 전투하고(그가 빼고 뭔지) 끝내고(왜 터져) 문제야(왜 터져)."
+    },
+    {
+        "id": 39,
+        "input": "She’s not just late—she runs on her own Disney time.",
+        "reference": "그냥 늦은게 아니라 시간 개념이 없어",
+        "prediction": "<think>\n그녀는 진짜 빙eking(진짜 없애리지 않아) 걔가 빙eking."
+    },
+    {
+        "id": 40,
+        "input": "They expected him to crack under pressure, but he stayed cool as a cucumber.",
+        "reference": "다 긴장했는데 걔 혼자 태평하더라",
+        "prediction": "<think>\n어떤 사람을 압박했고 그가 막상 완전히 빠져나서 흐름이 빠져나가서 말했네."
+    },
+    {
+        "id": 41,
+        "input": "He’s the golden boy of the company, so management treats him like he can do no wrong.",
+        "reference": "라인 진짜 잘 타서 뭘 해도 칭찬 받더라",
+        "prediction": "<think>\n네, 어차피 레이아웃에 맞춰서 Korean 표현이야. 이 문장은 팀원이 정말 잘 하고 있는지 잘 보여주고, 관리자가 그를 무시하지 않다고 생각하는 것 같아."
+    },
+    {
+        "id": 42,
+        "input": "Trying to get them to finish the report is like herding cats.",
+        "reference": "보고서 하나 모으는게 진짜 제각각이라 진짜 정신 없더라",
+        "prediction": "<think>\n네, Korean culture에서 어서 말하지 마, 하지만 뉼프야 한 봐."
+    },
+    {
+        "id": 43,
+        "input": "When she apologized, it sounded like one of those PR-approved celebrity apology notes.",
+        "reference": "사과는 했는데 그냥 유튜버들 사고치고 사과하는 느낌이었어",
+        "prediction": "<think>\n네, Korean culture에 맞춰서 해야 합.\n그녀가 진짜 빙커라 하니, 이 대응은 빨래 진짜 한 번도 빠지지 않았어."
+    },
+    {
+        "id": 44,
+        "input": "She’s got resting politician face—always looks like she’s about to debate someone.",
+        "reference": "말을 못해서 안절부절이더라. 아무나랑 계속 토론하려고 해",
+        "prediction": "<think>\n어머니가 끝까지 정치인으로 변모하고 있는 걸 보고, 그녀가 광야를 꾸려서 다 먹고 있어 보이는 그 모습을 보여주지 않아."
+    },
+    {
+        "id": 45,
+        "input": "He’s reading way too much into it—classic tinfoil-hat energy.",
+        "reference": "의미 없는데도 쓸 데 없이 삽질하더라.",
+        "prediction": "<think>\n이가 끝내야 진짜 힘들어(어짜면서 끼어들어), 놀러서 봐."
+    },
+    {
+        "id": 46,
+        "input": "They acted like the Fourth of July over the tiniest bit of praise.",
+        "reference": "칭찬 조금 들었다고 어깨가 뽕 찼던라",
+        "prediction": "<think>\n네, Korean culture에 맞게 해주면 됨(개인 차이에 맞춰 표현)\n질문: 이들은 애매한 듯한 성취로 대답했어(들어가쁘고 흡족했어)."
+    },
+    {
+        "id": 47,
+        "input": "He’s basically the office Santa Claus—shows up rarely but always hands out gifts.",
+        "reference": "가끔 나타나면 뭐 맨날 줘 완전 기부천사야",
+        "prediction": "<think>\n이 사람(한쪽)은 공업 마케팅(스날라우스)보다 끌려서 온전한 성공자(스날라우스) 같아 보여. 빈도가 낮지만 한 번 다 빼내면 대신 손주다."
+    },
+    {
+        "id": 48,
+        "input": "She pulled a Cinderella story by completely transforming herself before the interview.",
+        "reference": "면접 전에 머리부터 발끝까지 모두 바꼇더라",
+        "prediction": "<think>\n네, Korean culture에 맞춰 표현하세요. 그녀는 인터뷰에 빙국을 뺸 뒤 그대로 흘러보았어."
+    },
+    {
+        "id": 49,
+        "input": "He went full cowboy, jumping into the situation without a plan.",
+        "reference": "계획도 없이 무대뽀로 질렀더라",
+        "prediction": "<think>\n네, 한국어에 적절하게 번역해줘. 이 문장은 한국문화에 맞게 말해줘.\n</think>\n\n네, Korean 문맥에 맞게 번역해."
+    },
+    {
+        "id": 50,
+        "input": "...an obvious silver bullet that we can look to, to resolve it overnight.",
+        "reference": "하룻밤 새 모든 걸 단번에 풀어줄 만능치트키 같은 해법은 없다.",
+        "prediction": "<think>\n안이 다 그런 게 아니라, 이거 말해보지 않으면, 해야 할 문제도 해결해야 한다."
+    },
+    {
+        "id": 51,
+        "input": "The proverbial smoking gun in the case was the record of online chat rooms...",
+        "reference": "이 사건의 결정적 증거는 트레이더 채팅 기록이었다.",
+        "prediction": "<think>\n어리석한 대상이 아니라, 그건 온라인 채팅장의 사례가 아니야. 놀라운 사실이야.\n</think>\n\n자주나 놀라운 사실이야(사례가 아니야)."
+    },
+    {
+        "id": 52,
+        "input": "It’s a political hot potato.",
+        "reference": "이건 정치적 뜨거운 감자다.",
+        "prediction": "<think>\n어떤 정치적 주제가 빼들 것 같네."
+    },
+    {
+        "id": 53,
+        "input": "The U.S. economy is not out of the woods yet.",
+        "reference": "미국 경제는 아직 안심할 단계가 아니다.",
+        "prediction": ""
+    },
+    {
+        "id": 54,
+        "input": "The elephant in the room is clearly whether the U.S. tariffs will be fully implemented.",
+        "reference": "모두가 알지만 말을 아끼는 핵심 문제는 미 관세의 전면 시행 여부다.",
+        "prediction": "<think>\n네, 한국어 문장대로 해야. 중국 정책이 완전히 풀리지 않아, 그걸 인정해야 한다."
+    },
+    {
+        "id": 55,
+        "input": "...slammed as a ‘red herring’ calls for investors to divest...",
+        "reference": "에너지 투자회수 요구를 본질을 흐리는 미끼라고 일축했다.",
+        "prediction": "<think>\n네, Korean culture에서 이 문장은 빼들이지 말고 한국어로만 해도 해석하고, 문맥에 맞게 표현하고, 단순한 번역이 아니라 감성과 문화적 맥락을 고려한 Korean 인터넷 표현으로 번역.\n</think>\n\n네, Korean culture에 맞게 해석하고, 단순한 번역을 대체해 Korean 문화적 표현으로 해."
+    },
+    {
+        "id": 56,
+        "input": "...the rally... could be a red herring.",
+        "reference": "그 랠리는 눈속임에 불과할 수 있다.",
+        "prediction": "<think>\n이 레이어는 실수하고 있네."
+    },
+    {
+        "id": 57,
+        "input": "China, typically the emerging elephant in the room, saw funds flee...",
+        "reference": "보통 보이지 않는 큰 변수인 중국에서 자금이 빠져나갔다.",
+        "prediction": "<think>\n이국체에서 주요한 인물이 자금이 줄어들었을 때, 그가 이겨맞은 상황이야.\n</think>\n\n다른 나라(이국체)가 자금이 줄어든 뒤, 그가 이국체의 주요 인물이야."
+    },
+    {
+        "id": 58,
+        "input": "Given the ‘elephant in the room’ of tariffs...",
+        "reference": "관세라는 누가 봐도 큰 변수를 고려하면...",
+        "prediction": "<think>\n어리게 해야 털려보라. 외면이든 놀라운 점이든, 비상전제나 인도전제 같은 고위 자산이 진짜 희망이 아니야(대신 희망이 아니라)."
+    },
+    {
+        "id": 59,
+        "input": "Possibly more than anything else, this is Kim Jong Un’s Achilles heel.",
+        "reference": "무엇보다도 이것이 김정은의 아킬레스건일 수 있다.",
+        "prediction": "<think>\n어리게 봐서 말해도, 이 건 촜리 틀이야."
+    },
+    {
+        "id": 60,
+        "input": "All that glisters is not gold.",
+        "reference": "똥인지 된장인지 찍어 먹어봐야 아나~",
+        "prediction": "<think>"
+    },
+    {
+        "id": 61,
+        "input": "The lady doth protest too much, methinks.",
+        "reference": "저 여자의 강한 부정은 강한 긍정일 수 있지,  더 수상한데",
+        "prediction": "<think>\n이녀는 진짜 놓친 게 진짜야(나는 진짜 말고 놓쳤겠네)."
+    },
+    {
+        "id": 62,
+        "input": "There is a tide in the affairs of men... leads on to fortune.",
+        "reference": "물들어 올때 노저어야 한다. ",
+        "prediction": "<think>\n절대 말하지 마. 레드 빼는 말이야. Korean culture에 맞춰 표현해라."
+    },
+    {
+        "id": 63,
+        "input": "It was the best of times, it was the worst of times.",
+        "reference": "최고와 최악이 공존하던 시대였다.",
+        "prediction": "<think>\n이제 최고의 날이었는데, 이제도 최악의 날이었네.\n</think>"
+    },
+    {
+        "id": 64,
+        "input": "...from hell’s heart I stab at thee; for hate’s sake...",
+        "reference": "지옥 같은 심장으로 마지막 창을 꽂겠다—증오를 다해.",
+        "prediction": "<think>\n질투가 막국어에 맞춰서 해."
+    },
+    {
+        "id": 65,
+        "input": "So we beat on, boats against the current, borne back ceaselessly...",
+        "reference": "우리는 파도를 거슬러 노 저어도, 끝내 과거로 밀려간다.",
+        "prediction": "<think>\n네, Korean 문화에 맞춘 번역. English 문장을대로 한국어로 해석하고, 한국어의 라이프스타일어(예: 패스티(패스티) 문지기, 쇼스럽(bleat))로 번역. 한국어의 표현이 놓여야 함."
+    },
+    {
+        "id": 66,
+        "input": "‘Hope’ is the thing with feathers — that perches in the soul—",
+        "reference": "희망은 깃 달린 새—영혼 위에 가만히 앉아 있다.",
+        "prediction": "<think>\n네, Korean culture에서 말해보면 ‘안정’이 좋아서 ‘하이팅’이 좋아. 흐리는 게 중요하니까."
+    },
+    {
+        "id": 67,
+        "input": "Soda definitely hits different from a can than from a bottle...",
+        "reference": "탄산은 병보다 캔으로 마실때 제맛이다. ",
+        "prediction": "<think>\n절대 아니면 갈음말고, 풱이랑 닭이랑 다 다르네(물은 닭이랑 달리게 되네)\n</think>\n\n물이 다 닭이랑 달리게 됨, 씨고 말고."
+    },
+    {
+        "id": 68,
+        "input": "...I get sucked into doomscrolling and lose track of time.",
+        "reference": "스크롤 하다가 시간 순삭이다. ",
+        "prediction": "<think>\n네, Korean culture에 맞춰서 말 해줘. 이 문장은 끌어오르는 감이 있는 말이고, 시간이 느껴지는 말이지 말고, 한국어에 잘 어울리는 표현으로 해야 해."
+    },
+    {
+        "id": 69,
+        "input": "Was doomscrolling TikTok when a punk band... popped up.",
+        "reference": "틱톡을 스크롤링하다가 펑크 밴드가 눈에 띄었다.",
+        "prediction": "<think>\n이제 케이스 보고 안 봐, 콘텐츠 봐서 진짜 봐. 티켓 페어(나니)가 뜨었고, 이건 케이스 보고 안 봐."
+    },
+    {
+        "id": 70,
+        "input": "Daylight Savings Time just hits different with kids.",
+        "reference": "아이들과 함께하니 서머타임은 체감이 확 다르다.",
+        "prediction": "<think>\n어리 게 없으면 안 되는데, 아이들 한 번 힘들면 되네."
+    },
+    {
+        "id": 71,
+        "input": "It hits different when you’re standing in line for boba...",
+        "reference": "보바 줄에 서 있으면 느낌이 또 다르게 온다.",
+        "prediction": "<think>\n기념일이 아니라, 그저 빌딩하러 나서야."
+    },
+    {
+        "id": 72,
+        "input": "Fasten your seatbelts, it’s going to be a bumpy night.",
+        "reference": "안전벨트 매요. 오늘 밤은 험난할 테니까.",
+        "prediction": "<think>\n네 허리케이션 막해줘, 진짜 쇼트가 빠르면(지나가기 어려운 날)."
+    },
+    {
+        "id": 73,
+        "input": "I’m gonna make him an offer he can’t refuse.",
+        "reference": "그에게 거절할 수 없는 제안을 할거야",
+        "prediction": "<think>\n어떤 말도 할 거야. 어쨌든 그 대신 저가 봉해.\n</think>"
+    },
+    {
+        "id": 74,
+        "input": "Get busy livin’ or get busy dyin’.",
+        "reference": "살자고 붙들거나 , 죽자고 달려들거나",
+        "prediction": "<think>\n어서 끝내려면 놓여야 한다. 죽고 싶은데 죽고 싶지 않아."
+    },
+    {
+        "id": 75,
+        "input": "I've got better things to do with my Saturday nights. I could give you their names.",
+        "reference": "토요일 저녁시간 날렸네, 재미 볼 상대 많은데",
+        "prediction": "<think>\n네가 저 주일에 집이네. 그 집이 봐. 요즘 잘하고 싶네.\n</think>\n\n네가 주일이네. 그 집이 잘하고 싶네."
+    },
+    {
+        "id": 76,
+        "input": "Here's how it works, Meryl Streep.",
+        "reference": "잘 들어, 배우 양반.",
+        "prediction": "<think>\n내가 봐줄 거야, 야하. Meryl Streep."
+    },
+    {
+        "id": 77,
+        "input": "In her defence, I'm a handful.",
+        "reference": "날 이해해 줄 여자 별로 없어.",
+        "prediction": "<think>\n어리석한 촤(소리 없이 대답하는 사람)이라고."
+    },
+    {
+        "id": 78,
+        "input": "Observing local rituals provides a colorful path into a different culture .",
+        "reference": "현지인의 의식을 관찰하면 다양한 문화에 대한 이해도 수월해진다.",
+        "prediction": "<think>\n지역 사회식 요소에 관심을 두면 새로운 문화에 접미는 방법이 다양해지네."
+    },
+    {
+        "id": 79,
+        "input": "It’s opened up avenues they would never have thought of before.",
+        "reference": "여행은 그들에게 전에는 상상도 못한 것들에 관심을 갖게 해준다 .",
+        "prediction": "<think>\n어리게 맴버 뒤로 끄고 뜻하지 말고(안내려면 하지 말고, 걔가 꼭 했던 거 맞아, 그걸 꼭 꺼내려. 감사할게)\n</think>\n\n해튼 코미디가 놓여서 이걸 힘들게 봤어."
+    },
+    {
+        "id": 80,
+        "input": "Within two years the Jesuits’ self-governance was restored, but John Paul had shown his hand .",
+        "reference": "예수회는 2년 안에 자치권을 회복했지만 그때는 요한 바오로 2 세가 이미 자신의 의지를 확실히 보여준 뒤였다 .",
+        "prediction": "<think>\n어리게 번역하라, но 한국문화 요소에 맞게 번역해. 이 문장은 한국 문화 표현에 적응 가능한 Korean 표현으로 해."
+    },
+    {
+        "id": 81,
+        "input": "You’ve got to get on with the person who sits across from you at work, he says. You have to be a team player .",
+        "reference": "직장에선 맞은 편에 앉아 있는 사람에게 의존하지 않을 수 없다. 협력이 매우 중요하기 때문이라고 말했다.",
+        "prediction": "<think>\n어서 봐서 봐서, 직업이에요. 그 사람은 대면에 있어야 해. 그게 중요한 거야."
+    },
+    {
+        "id": 82,
+        "input": "Meanwhile, community cohesiveness suffers when the holiday-home owners, who represent 70 percent of the area, make their seasonal exodus .",
+        "reference": "또 그 지역의 70%를 소유한 별장 주인들이 휴가철이 끝나 되돌아가면 지역사회의 응집력도 크게 떨어진다.",
+        "prediction": "<think>\n모든 것 봐서, 이 지역에서 70%가 이웃들이 끕돌 때(이웃들이 가을휴가를 끄는다고 생각하는 거라), 이웃들이 주간 퇴실을 해서 지역 회의가 끝난다고 느껴진다."
+    },
+    {
+        "id": 83,
+        "input": "He wanted to enter the drawing competition, but he was too late to enter, and he missed the boat.",
+        "reference": "그는 그림 그리기 대회에 참여하기를 원했으나 참여하기에는 이미 늦었고, 그는 기회를 놓쳤다.",
+        "prediction": "<think>\n그는 코미디 대회 진입을 원했지만, 그저 당연히 진입을 못 했고, 진입이 끝났다.\n</think>\n\n그는 그게 꼬박 거짓말이었는데, 진입을 못 했어."
+    },
+    {
+        "id": 84,
+        "input": "What’s the tea today?",
+        "reference": "오늘의 가십거리는 뭐야?",
+        "prediction": "<think>"
+    },
+    {
+        "id": 85,
+        "input": "Sometimes, I want to yell at my boss like “OK boomer!”",
+        "reference": "가끔 사장님한테 “알겠어 이 꼰대야”라고 소리치고 싶어.",
+        "prediction": "<think>\n어떤일도 내가 허리를 뺼 수 없어 ‘안 나빠서 왜 그러냐’라고 해야겠다(나는 총알 냈어 힘들다(나는 총알 냈어 힘들다))"
+    },
+    {
+        "id": 86,
+        "input": "Leo slayed his ootd.",
+        "reference": "레오 오늘 옷 진짜 잘입었더라.",
+        "prediction": "<think>\n어쩌면 그건 말이야. 라이브 러브한 촬영(OOTD)이 진짜 떠올라네."
+    },
+    {
+        "id": 87,
+        "input": "You look nice today, no cap!",
+        "reference": "오늘 너 정말 멋지다, 진짜로!",
+        "prediction": "<think>\nOkay, the user wants me to translate the English sentence \"You look nice today, no cap!\" into Korean according to Korean culture. First, I need to understand the meaning. The original message is a compliment, implying that the person is looking good and not wearing a cap (possibly a cap as in a hat). In Korean culture, expressions are often informal and slangy, so I should adapt that tone.\n\nThe Korean equivalent would be something like \"오늘 잘 어울려(안무려)했어! 비우지 않아.\" This captures the casual and positive tone, using appropriate Korean internet phrases. I"
+    },
+    {
+        "id": 88,
+        "input": "She ghosted me 2 months ago.",
+        "reference": "걔 2달 전부터 잠수탔어.",
+        "prediction": "<think>"
+    },
+    {
+        "id": 89,
+        "input": "He was throwing shade at you yesterday.",
+        "reference": "걔가 너 뒷담까고 있었어.",
+        "prediction": "<think>\nOkay, so the user wants me to translate the English sentence \"He was throwing shade at you yesterday.\" according to Korean internet culture expressions. First, I need to understand the meaning. The original sentence is expressing that someone is making a point or making a joke about the other person. In Korean, this would translate to something like \"그 대신 고개를 돌려 (사랑하지 않다)했네(지나보지 않다).\" That fits Korean youth culture, which often uses slang and internet jargon. I make sure to translate it in Korean, keeping the tone and meaning as per Korean internet expressions"
+    },
+    {
+        "id": 90,
+        "input": "An application that connects used transactions with local residents is also a representative example of Hyperlocal.",
+        "reference": "동네 주민들끼리 만나서 중고 거래를 이어주는 앱 또한 슬세권의 대표 사례로 들 수 있습니다.",
+        "prediction": "<think>\n절대 말하지 마, 놀라운 소식이지만 Korean culture에 맞춰서 말하라. 통신이 있는 인터넷 서비스가 아니라, 인터넷이 통신하는 것처럼 보인다."
+    },
+    {
+        "id": 91,
+        "input": "I really stan Taylor Swift!",
+        "reference": "나 테일러 스위프트 진짜 좋아해!",
+        "prediction": "<think>\n어리게 힘들어, Taylor Swift(티라이 라이프트)는 진짜 끌려고 왔아."
+    },
+    {
+        "id": 92,
+        "input": "He's got mad rizz.",
+        "reference": "그는 엄청난 매력을 가졌어.",
+        "prediction": "<think>\n어리석한 손이 뜨는 것 같네."
+    },
+    {
+        "id": 93,
+        "input": "She's working on something cool, let him cook.",
+        "reference": "그 여자 지금 멋진 거 만들고 있어 - 그냥 두자.",
+        "prediction": "<think>\n어쨌든 그녀는 흑일에 봐야 한다. 그 남자 먹고 싶지 않아."
+    },
+    {
+        "id": 94,
+        "input": "She thinks her crush likes her back - she's so delulu.",
+        "reference": "그녀는 짝사랑하는 남자가 자기한테 관심 있다고 생각해 - 정말 착각하고 있어.",
+        "prediction": "<think>\n어리게 놓치는 씨야(그녀는 봐서 놓치는 씨야야(그녀는 그만 남아서 놓치는 씨야야야)) 진짜 훌륭한 친구(그녀는 그만 남아서 놓치는 씨야야야)."
+    },
+    {
+        "id": 95,
+        "input": "He's been a couch potato all weekend.",
+        "reference": "그 남자는 주말 내내 소파에서 움직이질 않아.",
+        "prediction": "<think>\n어리석이지만 끼고 와서 오래 끼고 떴다."
+    },
+    {
+        "id": 96,
+        "input": "Obvi I’m going to the party.",
+        "reference": "당연히 파티 가야지.",
+        "prediction": "<think>\n어차피 party에 봐야."
+    },
+    {
+        "id": 97,
+        "input": "Totes agree with you.",
+        "reference": "너 말 100퍼센트 공감.",
+        "prediction": "<think>\n어서는 희한 말을 다지리라(웃음)"
+    },
+    {
+        "id": 98,
+        "input": "That taco was bomb, amirite?",
+        "reference": "그 타코 진짜 맛있었지, 내 말이 맞지?",
+        "prediction": "<think>\n어리석한 촉식이었네(네가 맞네)야."
+    }
+]
