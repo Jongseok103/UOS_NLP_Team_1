@@ -44,7 +44,9 @@ anaconda3/
 Anaconda3-*.sh
 
 # Model outputs and cache
+outputs*/
 outputs_*/
+Qwen_compare/outputs*/
 unsloth_compiled_cache/
 *.safetensors
 *.pt
