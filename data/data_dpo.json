@@ -1,0 +1,3600 @@
+[    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I actually saw him at the mall yesterday, no cap.",
+      "chosen": "나 어제 쇼핑몰에서 걔 진짜로 봤다니까, 구라 아님.",
+      "rejected": "나 사실 어제 쇼핑몰에서 그를 봤어, 모자 없음."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That restaurant is the best in town, no cap.",
+      "chosen": "그 식당 동네에서 제일 맛집이야, 찐으로.",
+      "rejected": "그 식당은 마을에서 최고야, 모자 없음."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm going to finish this project tonight, no cap.",
+      "chosen": "나 오늘 밤에 이 프로젝트 끝낸다, 빈말 아님.",
+      "rejected": "나는 오늘 밤 이 프로젝트를 끝낼 거야, 모자 없음."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He’s not even that good-looking, but his unspoken rizz is off the charts.",
+      "chosen": "걔가 딱히 잘생긴 건 아닌데, 매력이 장난이 아니야.",
+      "rejected": "그는 그렇게 잘생기지도 않았지만, 그의 말하지 않은 리즈는 차트를 벗어났어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He has zero rizz, he can't talk to girls at all.",
+      "chosen": "걘 매력이 1도 없어, 여자 앞에서 말도 못 꺼내.",
+      "rejected": "그는 0의 리즈를 가지고 있어, 여자들에게 말을 전혀 못 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That guy has unnatural rizz, everyone falls for him.",
+      "chosen": "저 남자 끼 부리는 거 미쳤어, 다 넘어오잖아.",
+      "rejected": "저 남자는 부자연스러운 리즈를 가지고 있어, 모두가 그에게 넘어져."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Did you see her performance? She ate and left no crumbs.",
+      "chosen": "걔 무대 봤어? 아주 씹어먹다 못해 무대를 찢어놨더라.",
+      "rejected": "그녀의 공연을 봤니? 그녀는 먹었고 부스러기를 남기지 않았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Her outfit today? She ate that.",
+      "chosen": "오늘 걔 옷 입은 거 봤어? 착장 완전 찢었어.",
+      "rejected": "그녀의 오늘 복장? 그녀는 그것을 먹었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You absolutely ate that presentation.",
+      "chosen": "너 발표 진짜 기가 막히게 잘했다(캐리했다).",
+      "rejected": "너는 그 프레젠테이션을 절대적으로 먹었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That awkward moment from 5 years ago is still living rent-free in my head.",
+      "chosen": "5년 전 그 쪽팔렸던 순간이 아직도 생각만 해도 이불킥 감이야.",
+      "rejected": "5년 전 그 어색한 순간이 여전히 내 머릿속에 임대료 없이 살고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why does he live rent-free in your mind?",
+      "chosen": "너 왜 하루 종일 걔 생각만 하고 있어?",
+      "rejected": "왜 그는 네 마음속에 임대료 없이 살고 있어?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This catchy song is living rent-free in my brain.",
+      "chosen": "이 노래 너무 중독성 있어서 수능 금지곡 수준이야.",
+      "rejected": "이 귀에 쏙 들어오는 노래는 내 뇌 속에 임대료 없이 살고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You've been arguing in this comment section for 4 hours, go touch grass.",
+      "chosen": "댓글창에서 4시간째 싸우고 있냐, 제발 현생 좀 살아.",
+      "rejected": "이 댓글란에서 4시간 동안 논쟁하고 있네, 가서 풀을 만져."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If you're level 500 already, you need to touch grass.",
+      "chosen": "벌써 레벨 500이면, 밖에 좀 나가서 햇빛 좀 봐라.",
+      "rejected": "벌써 레벨 500이라면, 너는 풀을 만져야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop worrying about internet drama and touch grass.",
+      "chosen": "인터넷 싸움질 그만하고 현실을 좀 살아.",
+      "rejected": "인터넷 드라마 걱정은 그만하고 풀을 만져."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Walking through the city with headphones on, giving absolute main character energy.",
+      "chosen": "헤드폰 끼고 도시 걸어 다니는 폼이 완전 주인공 제대로 걸렸네.",
+      "rejected": "헤드폰을 끼고 도시를 걸으며 절대적인 주요 등장인물 에너지를 주고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop acting like you have main character energy.",
+      "chosen": "네가 뭐라도 되는 줄 아나 본데, 주인공 병 좀 고쳐.",
+      "rejected": "주요 등장인물 에너지가 있는 것처럼 행동하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm embracing my main character energy today.",
+      "chosen": "나 오늘만큼은 내가 이 구역의 주인공이야.",
+      "rejected": "나는 오늘 나의 주요 등장인물 에너지를 포용하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He texted her 15 times in a row? Man is down bad.",
+      "chosen": "문자를 15통이나 연속으로 보냈다고? 얘 진짜 제대로 미쳤네(상사병 걸렸네).",
+      "rejected": "그가 그녀에게 15번 연속으로 문자했어? 남자는 나쁘게 아래야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Buying her designer bags when they aren't dating? He's down bad.",
+      "chosen": "사귀지도 않는데 명품 백을 사줘? 완전 호구 잡혔네(푹 빠졌네).",
+      "rejected": "데이트도 안 하는데 디자이너 가방을 사줘? 그는 나쁘게 아래야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm down bad for that fictional character.",
+      "chosen": "나 저 캐릭터한테 완전 과몰입해서 현생 불가야.",
+      "rejected": "나는 저 가상 캐릭터를 위해 나쁘게 아래로 갔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Everyone hyped up that burger place, but honestly, it was mid.",
+      "chosen": "다들 그 버거집 쩐다고 난리던데, 솔직히 거품이더라.",
+      "rejected": "모두가 그 버거 가게를 과대광고했지만, 솔직히 그건 중간이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The new movie was just mid, nothing special.",
+      "chosen": "새로 나온 영화 그냥저냥이더라, 딱히 볼 건 없음.",
+      "rejected": "새 영화는 그냥 중간이었어, 특별한 건 없었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His rapping skills are mid at best.",
+      "chosen": "솔직히 걔 랩 실력 그저 그렇잖아.",
+      "rejected": "그의 랩 실력은 기껏해야 중간이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I don't know, the way he keeps looking at his phone is kinda sus.",
+      "chosen": "글쎄, 걔 계속 폰 쳐다보는 게 뭔가 좀 쎄해.",
+      "rejected": "모르겠어, 그가 계속 폰을 보는 방식은 꽤 의심스러워."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That link looks sus, don't click it.",
+      "chosen": "그 링크 좀 수상한데? 누르지 마.",
+      "rejected": "그 링크는 의심스러워 보여, 클릭하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why are you acting so sus lately?",
+      "chosen": "너 요새 왜 이렇게 수상하게(수상쩍게) 굴어?",
+      "rejected": "너 왜 요즘 그렇게 의심스럽게 행동해?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Turn the volume up! This new track absolutely slaps.",
+      "chosen": "볼륨 좀 키워봐! 이 신곡 진짜 때려 박네(완전 띵곡이야).",
+      "rejected": "볼륨 높여! 이 새 트랙은 절대적으로 찰싹 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My grandma's cooking slaps every time.",
+      "chosen": "우리 할머니 음식은 먹을 때마다 감동 그 자체야(존맛탱이야).",
+      "rejected": "우리 할머니 요리는 매번 찰싹 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This beat slaps so hard.",
+      "chosen": "이 비트 진짜 미쳤다(죽여준다).",
+      "rejected": "이 비트는 너무 세게 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Grab your popcorn, I'm about to spill the tea on what happened at the party.",
+      "chosen": "팝콘 가져와, 파티에서 무슨 일 있었는지 썰 푼다.",
+      "rejected": "팝콘 챙겨, 파티에서 무슨 일이 있었는지 내가 차를 쏟을 거니까."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Come on, spill the tea! Who is she dating?",
+      "chosen": "아 빨리 불어봐(썰 좀 풀어봐)! 걔 누구랑 사귀는데?",
+      "rejected": "어서, 차를 쏟아! 그녀는 누구랑 데이트해?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I shouldn't spill the tea, but I can't keep a secret.",
+      "chosen": "뒷담화하면 안 되는데, 입이 근질거려서 못 참겠어.",
+      "rejected": "차를 쏟으면 안 되는데, 비밀을 지킬 수가 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She didn't mention names, but she was definitely throwing shade at her ex.",
+      "chosen": "이름은 말 안 했지만, 누가 봐도 전 남친 돌려 까는(저격하는) 거였어.",
+      "rejected": "그녀는 이름을 언급하지 않았지만, 전 애인에게 확실히 그늘을 던지고 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't throw shade if you can't handle the truth.",
+      "chosen": "감당도 못 할 거면 비꼬지 좀 마.",
+      "rejected": "진실을 감당할 수 없다면 그늘을 던지지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's always throwing shade in the group chat.",
+      "chosen": "걘 단톡방에서 맨날 은근슬쩍 남 꼽주더라.",
+      "rejected": "그는 단체 채팅방에서 항상 그늘을 던지고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We went on three great dates and then he just ghosted me out of nowhere.",
+      "chosen": "데이트 세 번 다 분위기 좋았는데, 걔가 갑자기 뜬금없이 잠수를 타버렸어.",
+      "rejected": "우리는 세 번의 훌륭한 데이트를 했는데 그는 아무 데도 없이 나를 유령으로 만들었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I think I'm getting ghosted by the recruiter.",
+      "chosen": "나 면접관한테 읽씹 당한 것 같아(연락 끊긴 것 같아).",
+      "rejected": "채용 담당자에게 유령 취급을 당하고 있는 것 같아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't ghost people, just tell them you're not interested.",
+      "chosen": "잠수 타지 말고 그냥 관심 없다고 말을 해.",
+      "rejected": "사람들을 유령으로 만들지 말고, 그냥 관심 없다고 말해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Everything was fine until he wore those shoes, and suddenly I got the ick.",
+      "chosen": "다 괜찮았는데 그 신발 신은 거 보고 갑자기 확 깨더라(정 떨어지더라).",
+      "rejected": "그가 그 신발을 신을 때까진 다 괜찮았는데, 갑자기 나는 '아픈 것'을 얻었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Listening to him chew loudly gave me the ick.",
+      "chosen": "걔 쩝쩝거리면서 먹는 거 보고 정이 뚝 떨어졌어.",
+      "rejected": "그가 시끄럽게 씹는 소리를 듣는 건 나에게 '아픈 것'을 주었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Once you get the ick, there's no going back.",
+      "chosen": "한번 깨기 시작하면 다시 좋아하기 힘들지.",
+      "rejected": "한번 '아픈 것'을 얻으면, 되돌아갈 수 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Look at that Halloween costume! She truly understood the assignment.",
+      "chosen": "저 핼러윈 코스튬 좀 봐! 뭘 좀 아네, 완벽하게 준비했어(제대로 작정했네).",
+      "rejected": "저 할로윈 의상 좀 봐! 그녀는 정말로 과제를 이해했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The stylist understood the assignment perfectly.",
+      "chosen": "코디가 일 잘하네, 컨셉 제대로 잡았어.",
+      "rejected": "스타일리스트가 과제를 완벽하게 이해했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He did not understand the assignment at all.",
+      "chosen": "쟤는 분위기 파악 전혀 못 했네(혼자 딴세상이네).",
+      "rejected": "그는 과제를 전혀 이해하지 못했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Drinking ice-cold water at 3 AM just hits different.",
+      "chosen": "새벽 3시에 마시는 얼음물은 느낌이(차원이) 다르지.",
+      "rejected": "새벽 3시에 얼음같이 차가운 물을 마시는 건 그냥 다르게 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Music hits different when you're heartbroken.",
+      "chosen": "이별하고 듣는 노래는 가사가 뼈를 때리지(더 와닿지).",
+      "rejected": "네가 상심했을 때 음악은 다르게 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "McDonald's sprite hits different.",
+      "chosen": "맥날 사이다는 뭔가 톡 쏘는 맛이 달라(더 맛있어).",
+      "rejected": "맥도날드 스프라이트는 다르게 때려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You said you were home, but you were caught in 4K at the club.",
+      "chosen": "너 집에 있다며, 클럽에 있는 거 빼도 박도 못하게 딱 걸렸어.",
+      "rejected": "너는 집에 있었다고 말했지만, 클럽에서 4K 해상도로 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He got caught in 4K lying to his boss.",
+      "chosen": "상사한테 거짓말하다가 아주 제대로 걸렸지(증거 잡혔지).",
+      "rejected": "그는 상사에게 거짓말하다가 4K로 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't do stupid things, you'll get caught in 4K.",
+      "chosen": "멍청한 짓 하지 마, 요즘 세상엔 다 박제된다.",
+      "rejected": "멍청한 짓 하지 마, 너는 4K로 잡힐 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop gatekeeping where you got that dress, just send me the link!",
+      "chosen": "그 원피스 어디서 샀는지 혼자만 알려고 하지 말고(정보 독점하지 말고) 링크 좀 보내줘!",
+      "rejected": "그 드레스를 어디서 샀는지 문지기 노릇 그만하고, 그냥 링크 보내줘!"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why are you gatekeeping this song? Share the title.",
+      "chosen": "이 노래 제목 왜 안 알려줘? 나만 들을 거라고 하지 말고 좀 알려줘.",
+      "rejected": "이 노래를 왜 문지기하고 있어? 제목을 공유해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Gatekeeping hobbies is so lame.",
+      "chosen": "취미 가지고 텃세 부리는 거(뉴비 배척하는 거) 진짜 별로야.",
+      "rejected": "취미를 문지기하는 건 정말 구려."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I don't just like this director, I stan him.",
+      "chosen": "나 이 감독 그냥 좋아하는 수준이 아니야, 완전 덕질하잖아(빠돌이/빠순이잖아).",
+      "rejected": "나는 이 감독을 그냥 좋아하는 게 아니라, 그를 스탠해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I stan a hardworking queen.",
+      "chosen": "난 열심히 사는 언니들은 무조건 응원해(추앙해).",
+      "rejected": "나는 열심히 일하는 여왕을 스탠해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We have no choice but to stan.",
+      "chosen": "이건 입덕을 안 할 수가 없네.",
+      "rejected": "우리는 스탠할 수밖에 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I spent the whole night doomscrolling through bad news on Twitter.",
+      "chosen": "밤새 트위터에서 우울한 뉴스만 무한 스크롤 하느라(찾아보느라) 시간 다 보냈어.",
+      "rejected": "나는 트위터에서 나쁜 뉴스들을 통해 파멸의 스크롤을 하며 밤을 보냈어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop doomscrolling and go to sleep.",
+      "chosen": "폰 붙들고 우울해하지 말고 잠이나 자.",
+      "rejected": "파멸 스크롤 그만하고 잠이나 자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Doomscrolling is ruining my mental health.",
+      "chosen": "안 좋은 뉴스만 계속 보니까 멘탈 나갈 것 같아.",
+      "rejected": "파멸 스크롤이 내 정신 건강을 망치고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You want to grab tacos later?, Bet.",
+      "chosen": "이따 타코 먹으러 갈래?, 콜(좋아).",
+      "rejected": "나중에 타코 잡으러 갈래?, 내기."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'll beat you in this game. Bet?",
+      "chosen": "내가 너 이긴다. 내기할래(콜)?",
+      "rejected": "이 게임에서 널 이길 거야. 내기?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "See you at 8? Bet.",
+      "chosen": "8시 만남? 오케이 접수.",
+      "rejected": "8시에 봐? 내기."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Your makeup looks incredible today, you absolutely slayed.",
+      "chosen": "너 오늘 화장 대박이다, 완전 찢었네(죽여주네).",
+      "rejected": "너 오늘 화장 믿을 수 없어, 너는 절대적으로 살해했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She slayed the red carpet.",
+      "chosen": "레드카펫을 완전 뒤집어 놓으셨다.",
+      "rejected": "그녀는 레드 카펫을 살해했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Go out there and slay!",
+      "chosen": "가서 다 박살 내버려(보여줘)!",
+      "rejected": "거기 나가서 살해해!"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Check out his high school photos; talk about a major glow up.",
+      "chosen": "걔 고등학교 때 사진 좀 봐, 진짜 용 됐네(정변했네).",
+      "rejected": "그의 고등학교 사진을 확인해 봐; 주요한 빛남에 대해 이야기해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I need a summer glow up.",
+      "chosen": "나 여름 오기 전에 관리 좀 해서 리즈 갱신해야 해.",
+      "rejected": "나는 여름의 빛남이 필요해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Her glow up after the breakup is real.",
+      "chosen": "헤어지고 나서 걔 진짜 예뻐졌어(독기 품고 관리했네).",
+      "rejected": "이별 후 그녀의 빛남은 진짜야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We're not dating, but we're not friends either; it's a messy situationship.",
+      "chosen": "사귀는 건 아닌데 친구도 아니고... 그냥 복잡하고 애매한 관계야.",
+      "rejected": "우리는 데이트하는 건 아니지만 친구도 아니야; 이건 지저분한 상황 관계야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm tired of being in a situationship.",
+      "chosen": "썸만 타다가 흐지부지되는 거 이제 지겨워.",
+      "rejected": "나는 상황 관계에 있는 게 지겨워."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Situationships never end well.",
+      "chosen": "애매한 관계는 끝이 항상 안 좋더라.",
+      "rejected": "상황 관계들은 결코 좋게 끝나지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I lowkey want to go home, but I highkey love this pizza.",
+      "chosen": "나 은근히 집에 가고 싶긴 한데, 이 피자는 솔직히(대놓고) 너무 맛있다.",
+      "rejected": "나는 낮은 열쇠로 집에 가고 싶지만, 높은 열쇠로 이 피자를 사랑해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I lowkey think he likes you.",
+      "chosen": "내 생각엔 걔 너 은근 좋아하는 것 같아.",
+      "rejected": "나는 낮은 열쇠로 그가 너를 좋아한다고 생각해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I highkey regret coming here.",
+      "chosen": "나 여기 온 거 진짜 대놓고 후회 중이야.",
+      "rejected": "나는 높은 열쇠로 여기 온 것을 후회해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Thinking he's going to text back after 3 years? You are staying delulu.",
+      "chosen": "3년 지났는데 걔가 답장할 거라고? 너 진짜 행복회로 심하게 돌리네.",
+      "rejected": "3년 후에 그가 문자를 보낼 거라고 생각하니? 너는 델루루에 머물고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Being delulu is the only solution sometimes.",
+      "chosen": "가끔은 정신 승리(행복회로)가 답일 때도 있지.",
+      "rejected": "델루루가 되는 것이 때로는 유일한 해결책이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop being delulu, he's married.",
+      "chosen": "꿈 깨(망상 좀 그만해), 걔 유부남이야.",
+      "rejected": "델루루 좀 그만해, 그는 결혼했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Wait, don't interrupt him. Let him cook.",
+      "chosen": "잠깐, 끊지 마. 쟤 지금 뭔가 보여주려 하니까 냅둬 봐.",
+      "rejected": "잠깐, 방해하지 마. 그가 요리하게 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I have a crazy idea, just let me cook.",
+      "chosen": "나한테 개쩌는 아이디어 있으니까, 나 좀 믿고 맡겨봐.",
+      "rejected": "나한테 미친 아이디어가 있어, 그냥 내가 요리하게 해줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He started badly but let him cook.",
+      "chosen": "초반엔 별로였는데, 지금 폼 올라왔으니까 지켜보자.",
+      "rejected": "그는 나쁘게 시작했지만 그가 요리하게 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This outfit is giving rich auntie vibes.",
+      "chosen": "이 옷 완전 부잣집 이모 느낌 낭낭한데.",
+      "rejected": "이 옷은 부자 이모 분위기를 주고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's giving desperation.",
+      "chosen": "약간 좀 없어 보이는데(절박해 보이는데).",
+      "rejected": "그것은 절망을 주고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The decor is giving 1980s.",
+      "chosen": "인테리어가 딱 응팔(1980년대) 재질이네.",
+      "rejected": "그 장식은 1980년대를 주고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He said what everyone was thinking but scared to say. He's actually based.",
+      "chosen": "다들 쫄아서 말 못 한걸 걔가 질렀어. 진짜 상남자네.",
+      "rejected": "그는 모두가 생각했지만 말하기 무서워했던 것을 말했어. 그는 사실 기반이 되어 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That opinion is incredibly based.",
+      "chosen": "와 그 의견 진짜 소신 있다(맞말이다).",
+      "rejected": "그 의견은 믿을 수 없을 정도로 기반이 되어 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Based developer listening to feedback.",
+      "chosen": "피드백 반영해 주는 개발자 진짜 호감이네(근본 있네).",
+      "rejected": "기반이 된 개발자가 피드백을 듣고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He tried to argue but got ratioed so hard in the replies.",
+      "chosen": "걔가 말싸움 걸었는데 답글(인용)에서 완전 영혼까지 털렸어.",
+      "rejected": "그는 논쟁하려 했지만 답글에서 너무 심하게 비율을 당했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Ratio.",
+      "chosen": "반박 불가(내 말이 맞음 좋아요 눌러).",
+      "rejected": "비율."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You're getting ratioed, delete this.",
+      "chosen": "너 지금 욕먹고 있으니까 그냥 글삭해라.",
+      "rejected": "너 비율 당하고 있어, 이거 지워."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop glazing him, he's not going to date you.",
+      "chosen": "그만 좀 빨아줘(억빠 좀 그만해), 걔 너랑 안 사귀어 줘.",
+      "rejected": "그에게 유약 바르는 거 그만해, 그는 너랑 데이트 안 할 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The glazing in the comments is crazy.",
+      "chosen": "댓글창 찬양(용비어천가) 장난 아니네.",
+      "rejected": "댓글들의 유약 바르기는 미쳤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's just glazing the boss for a promotion.",
+      "chosen": "승진하려고 부장님한테 알랑방귀 뀌는 거지.",
+      "rejected": "그는 승진을 위해 상사에게 유약을 바르고 있을 뿐이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Bro is just yapping at this point, nobody is listening.",
+      "chosen": "임마 지금 아무도 안 듣는데 혼자 계속 나불대네.",
+      "rejected": "형제는 이 시점에서 짖고 있을 뿐이야, 아무도 안 듣고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop yapping and start working.",
+      "chosen": "입 그만 털고 일이나 해.",
+      "rejected": "짖는 거 멈추고 일 시작해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's a professional yapper.",
+      "chosen": "쟤 완전 투머치토커야(입만 살았어).",
+      "rejected": "그는 전문적으로 짖는 사람이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If I lose this game one more time, I'm going to crash out.",
+      "chosen": "나 이 게임 한 판만 더 지면 진짜 급발진해서 다 부순다.",
+      "rejected": "이 게임을 한 번 더 지면, 나는 충돌해서 나갈 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't crash out over a small mistake.",
+      "chosen": "별거 아닌 실수에 목숨 걸고 화내지 마.",
+      "rejected": "작은 실수에 대해 충돌해서 나가지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He crashed out and broke his keyboard.",
+      "chosen": "걔 샷건 치고 키보드 박살 냈어.",
+      "rejected": "그는 충돌해서 나갔고 키보드를 부러뜨렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She didn't take him back. She is strictly standing on business.",
+      "chosen": "걔 다시 안 받아주더라. 진짜 칼같이 자기 할 일 하네.",
+      "rejected": "그녀는 그를 다시 받아주지 않았어. 그녀는 엄격하게 사업 위에 서 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm standing on business this year, no distractions.",
+      "chosen": "나 올해는 딴짓 안 하고 진짜 갓생 산다.",
+      "rejected": "나는 올해 사업 위에 서 있어, 방해물은 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Respect to him for standing on business.",
+      "chosen": "소신 지키는 거(할 말 다 하는 거) 보니까 리스펙 하게 되네.",
+      "rejected": "사업 위에 서 있는 그에게 존경을 표해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Watching him make that mistake... it's a canon event, we can't interfere.",
+      "chosen": "쟤 저 실수하는 거... 겪어야만 하는 운명(국룰 이벤트)이라 우리가 끼어들면 안 돼.",
+      "rejected": "그가 저 실수를 하는 걸 보는 건... 캐논(교회법) 사건이야, 우린 간섭할 수 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "First heartbreak is a canon event.",
+      "chosen": "첫사랑 실패는 누구나 겪는 통과의례지.",
+      "rejected": "첫 번째 상심은 캐논 사건이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Failing your first driving test? Canon event.",
+      "chosen": "운전면허 첫 시험 광탈? 그건 국룰이야.",
+      "rejected": "첫 운전 면허 시험에 떨어지는 거? 캐논 사건."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why are you acting like an opp? Just help me out.",
+      "chosen": "너 왜 갑자기 적(빌런)처럼 굴어? 좀 도와달라고.",
+      "rejected": "너 왜 opp(작동)처럼 행동해? 그냥 좀 도와줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I think the cops are opps.",
+      "chosen": "짭새(경찰) 떴다.",
+      "rejected": "경찰들은 opp들이라고 생각해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't let the opps know your next move.",
+      "chosen": "적들한테 네 다음 계획을 들키지 마.",
+      "rejected": "opp들이 너의 다음 움직임을 알게 하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He didn't study for the quiz and got caught lacking.",
+      "chosen": "퀴즈 공부 하나도 안 했다가 아주 제대로 털렸지.",
+      "rejected": "그는 퀴즈 공부를 안 했고 부족함이 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't get caught lacking in the street.",
+      "chosen": "길거리에서 멍 때리다가 당하지 마라.",
+      "rejected": "거리에서 부족함이 잡히지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I was caught lacking without an umbrella.",
+      "chosen": "우산 안 챙겼다가 비 쫄딱 맞았어(봉변당했어).",
+      "rejected": "나는 우산 없이 부족함이 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Did you see her performance? I was completely gagged.",
+      "chosen": "걔 공연 봤어? 나 진짜 입틀막 했잖아.",
+      "rejected": "그녀의 공연 봤어? 나 완전히 재갈 물렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This plot twist had me gagged.",
+      "chosen": "반전 스토리 보고 진짜 말문이 막혔어.",
+      "rejected": "이 줄거리 반전은 나를 재갈 물렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She gagged everyone with that dress.",
+      "chosen": "그 드레스로 좌중을 압도해 버렸지.",
+      "rejected": "그녀는 그 드레스로 모두에게 재갈을 물렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Scrolling through TikTok all day gave me severe brain rot.",
+      "chosen": "하루 종일 틱톡만 봤더니 뇌가 녹아내리는 기분이야.",
+      "rejected": "하루 종일 틱톡을 스크롤하는 건 나에게 심각한 뇌 부패를 줬어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This content is pure brain rot.",
+      "chosen": "이건 진짜 능지 처참해지는 콘텐츠네.",
+      "rejected": "이 콘텐츠는 순수한 뇌 부패야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I have brain rot from studying too much.",
+      "chosen": "공부를 너무 많이 했더니 뇌가 멈춘 것 같아.",
+      "rejected": "나는 공부를 너무 많이 해서 뇌 부패가 왔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She was perfect, and you cheated? You fumbled the bag big time.",
+      "chosen": "그 완벽한 애를 두고 바람을 피웠다고? 너 진짜 굴러들어온 복을 걷어찼구나.",
+      "rejected": "그녀는 완벽했는데 네가 바람폈어? 너는 가방을 크게 더듬었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't fumble this opportunity.",
+      "chosen": "이번 기회 날려 먹지 마.",
+      "rejected": "이 기회를 더듬지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He fumbled the interview.",
+      "chosen": "걔 면접 죽 쒔어.",
+      "rejected": "그는 인터뷰를 더듬었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's a bad idea, but I'm gonna do it for the plot.",
+      "chosen": "망할 것 같긴 한데, 내 인생 썰 하나 만든다 치고 그냥 저질러 볼래.",
+      "rejected": "나쁜 생각이지만, 나는 줄거리를 위해 그걸 할 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I dated him for the plot.",
+      "chosen": "그냥 인생 경험(흑역사 생성) 한다 치고 걔랑 사귀어 본 거야.",
+      "rejected": "나는 줄거리를 위해 그와 데이트했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Taking a random trip? Do it for the plot.",
+      "chosen": "갑자기 여행 간다고? 인생 뭐 있어, 질러봐.",
+      "rejected": "무작위 여행을 가? 줄거리를 위해 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Getting free food is a huge W, but missing the bus is an L.",
+      "chosen": "공짜 밥 얻은 건 개이득(W)인데, 버스 놓친 건 에바(L)네.",
+      "rejected": "공짜 음식을 얻는 건 거대한 W지만, 버스를 놓치는 건 L이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Common W for him.",
+      "chosen": "역시 걔 답네, 오늘도 1승 챙기네.",
+      "rejected": "그에게 흔한 W야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Take the L and move on.",
+      "chosen": "졌으면 그냥 인정하고 갈 길 가라.",
+      "rejected": "L을 가지고 이동해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Honestly, his reason for being angry is valid.",
+      "chosen": "솔직히 걔가 화낼 만한 이유가 있네(인정).",
+      "rejected": "솔직히, 그가 화난 이유는 유효해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That point is actually valid.",
+      "chosen": "그 말은 좀 일리 있네.",
+      "rejected": "그 점은 사실 유효해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Your feelings are valid.",
+      "chosen": "네가 그렇게 느끼는 건 당연한 거야.",
+      "rejected": "너의 감정은 유효해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Her face card never declines, she looks good in every photo.",
+      "chosen": "쟤 얼굴은 절대 배신 안 하네, 어떤 사진이든 다 예뻐.",
+      "rejected": "그녀의 얼굴 카드는 절대 거절되지 않아, 그녀는 모든 사진에서 좋아 보여."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Face card is limitless.",
+      "chosen": "얼굴이 복지다(한도 초과가 없다).",
+      "rejected": "얼굴 카드는 한계가 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She relied on her face card to get in.",
+      "chosen": "얼굴 믿고 프리패스로 들어갔네.",
+      "rejected": "그녀는 들어가기 위해 얼굴 카드에 의존했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why are you so pressed about a joke?",
+      "chosen": "농담 한마디에 왜 그렇게 긁혔어(발끈해)?",
+      "rejected": "농담에 왜 그렇게 눌렸어?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's pressed because he lost.",
+      "chosen": "게임 져서 쟤 지금 개빡쳤어.",
+      "rejected": "그는 져서 눌렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't look so pressed, it's not a big deal.",
+      "chosen": "별것도 아닌데 그렇게 정색하지(억울해하지) 마.",
+      "rejected": "그렇게 눌려 보이지 마, 별일 아니야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't sleep on this artist, their new album is fire.",
+      "chosen": "이 가수 듣보라고 무시하지 마, 새 앨범 진짜 찢었어.",
+      "rejected": "이 예술가 위에서 자지 마, 그들의 새 앨범은 불이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Everyone slept on that stock.",
+      "chosen": "다들 그 주식 거들떠보지도 않았었지.",
+      "rejected": "모두가 그 주식 위에서 잤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop sleeping on your potential.",
+      "chosen": "네 잠재력을 스스로 과소평가하지 마.",
+      "rejected": "너의 잠재력 위에서 자는 걸 멈춰."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That reference was hilarious, iykyk.",
+      "chosen": "그 드립 진짜 웃겼는데, 아는 사람만 알지(알잘딱깔센).",
+      "rejected": "그 언급은 정말 웃겼어, 아이와이케이와이케이(iykyk)."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Last night was crazy, iykyk.",
+      "chosen": "어젯밤 진짜 난리도 아니었지, 알지?",
+      "rejected": "어젯밤은 미쳤어, 아이와이케이와이케이."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The vibe here is... iykyk.",
+      "chosen": "여기 분위기 진짜... 뭔지 알지? (말 안 해도 알 거라고 믿어).",
+      "rejected": "여기 분위기는... 아이와이케이와이케이."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My teammate sold the game by missing that easy shot.",
+      "chosen": "우리 팀원이 그 쉬운 걸 놓쳐서 판을 말아 먹었어.",
+      "rejected": "내 팀 동료가 그 쉬운 슛을 놓쳐서 게임을 팔았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He sold us out for money.",
+      "chosen": "돈 때문에 우릴 배신했어(팔아먹었어).",
+      "rejected": "그는 돈을 위해 우리를 다 팔았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I sold the bag.",
+      "chosen": "내가 다 망쳤어(이길 수 있는 걸 졌어).",
+      "rejected": "나는 가방을 팔았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She looks absolutely stunning tonight. Mother is mothering.",
+      "chosen": "오늘 밤 그녀는 진짜 미쳤어. 여왕님이 세상을 구하시네.",
+      "rejected": "오늘 밤 그녀는 정말 멋져 보여. 엄마는 엄마질을 하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Lady Gaga is Mother.",
+      "chosen": "레이디 가가는 신이야(내 롤모델이야).",
+      "rejected": "레이디 가가는 엄마야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She served mother vibes.",
+      "chosen": "언니 포스 제대로 보여줬네.",
+      "rejected": "그녀는 엄마 분위기를 서빙했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I was shook when I found out the price.",
+      "chosen": "가격 듣고 나 진짜 멘붕 왔잖아(동공지진 일어남).",
+      "rejected": "가격을 알아냈을 때 나는 흔들렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The ending left me shook.",
+      "chosen": "결말 보고 진짜 멍때렸어.",
+      "rejected": "결말은 나를 흔들린 채로 남겼어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She looked shook after the news.",
+      "chosen": "그 소식 듣고 걔 완전 넋이 나갔더라.",
+      "rejected": "그 소식 후에 그녀는 흔들려 보였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She didn't stay silent and decided to clap back at the haters.",
+      "chosen": "그녀는 가만히 있지 않고 악플러들에게 맞대응(참교육)을 시전했다.",
+      "rejected": "그녀는 침묵하지 않고 헤이터들에게 뒤로 박수치기로 결심했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't clap back at your parents like that.",
+      "chosen": "부모님한테 그렇게 꼬박꼬박 말대꾸하지 마.",
+      "rejected": "부모님한테 그렇게 뒤로 박수치지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His clap back was so weak, no one cared.",
+      "chosen": "걔 반격(디스)은 너무 약해서 아무도 신경 안 썼어.",
+      "rejected": "그의 뒤로 박수치기는 너무 약해서, 아무도 신경 안 썼어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If you claim he cheated, show me the receipts.",
+      "chosen": "걔가 바람피웠다고 할 거면 확실한 증거(캡처/물증)를 내놔 봐.",
+      "rejected": "그가 바람폈다고 주장할 거면, 영수증을 보여줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I have all the receipts from our chat history.",
+      "chosen": "나 우리 카톡 대화 내용 캡처한 거(증거) 다 있어.",
+      "rejected": "나는 우리 채팅 기록의 모든 영수증을 가지고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She exposed him with receipts on Twitter.",
+      "chosen": "그녀가 트위터에 증거 짤(박제) 다 올려서 걔 까발렸어.",
+      "rejected": "그녀는 트위터에서 영수증으로 그를 폭로했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That was the best movie of the year, periodt.",
+      "chosen": "올해 최고의 영화였어. 반박 불가(이상 끝).",
+      "rejected": "그건 올해 최고의 영화였어, 마침표."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm not going to the party, periodt.",
+      "chosen": "나 파티 안 가, 더 말 시키지 마(토 달지 마).",
+      "rejected": "나는 파티에 안 갈 거야, 마침표."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She is the queen, periodt.",
+      "chosen": "그녀가 짱이야, 딴 말 필요 없어.",
+      "rejected": "그녀는 여왕이야, 마침표."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He says he's broke but just bought a new car. The math ain't mathing.",
+      "chosen": "돈 없다면서 새 차를 뽑았다고? 앞뒤가 안 맞잖아(계산이 안 서는데).",
+      "rejected": "그는 빈털터리라면서 방금 새 차를 샀어. 수학이 수학을 안 하고 있네."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Your story has too many holes, the math ain't mathing.",
+      "chosen": "네 얘기 구멍이 너무 많아, 뭔가 아귀가 안 맞아.",
+      "rejected": "너의 이야기는 구멍이 너무 많아, 수학이 수학을 안 하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I studied for hours but failed? The math isn't mathing.",
+      "chosen": "몇 시간을 공부했는데 과락이라고? 이건 말이 안 돼(억까야).",
+      "rejected": "몇 시간 동안 공부했는데 실패했어? 수학이 수학을 안 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop gaslighting me into thinking I'm the crazy one.",
+      "chosen": "나를 이상한 사람 취급하면서 가스라이팅 좀 하지 마.",
+      "rejected": "내가 미친 사람이라고 생각하게 가스등을 켜지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is gaslighting you to control your decisions.",
+      "chosen": "걔가 네 결정 쥐락펴락하려고 너 세뇌하는(가스라이팅하는) 거야.",
+      "rejected": "그는 너의 결정을 통제하기 위해 너에게 가스등을 켜고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That wasn't a joke, don't gaslight me.",
+      "chosen": "그거 농담 아니었잖아, 날 예민한 사람 취급하지 마.",
+      "rejected": "그건 농담이 아니었어, 나에게 가스등을 켜지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My posts are getting zero likes; I think I'm shadowbanned.",
+      "chosen": "게시물 좋아요가 0개야. 나 아무래도 쉐도우 밴(노출 차단) 당한 것 같아.",
+      "rejected": "내 게시물 좋아요가 0개야; 나는 그림자 금지를 당한 것 같아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I got shadowbanned for posting too many memes.",
+      "chosen": "밈을 너무 많이 올렸더니 계정이 락 걸린(안 보이는) 것 같아.",
+      "rejected": "밈을 너무 많이 올려서 그림자 금지를 당했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Is my comment visible? Or am I shadowbanned?",
+      "chosen": "내 댓글 보여? 아니면 나 차단당해서 투명 인간 된 거야?",
+      "rejected": "내 댓글이 보여? 아니면 나 그림자 금지 당했어?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She puts down other girls just to get male attention; she's such a pick-me.",
+      "chosen": "남자들한테 인기 얻으려고 다른 여자애들 깎아내리는 거 봐, 완전 '픽미(여미새)'야.",
+      "rejected": "그녀는 남자의 관심을 얻으려고 다른 여자들을 깎아내려; 그녀는 정말 '나를 뽑아'야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't act like a pick-me girl, it's embarrassing.",
+      "chosen": "남자한테 잘 보이려고 유난 좀 떨지 마, 쪽팔려.",
+      "rejected": "'나를 뽑아' 여자처럼 행동하지 마, 당황스러워."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's behaving like a pick-me boy for validation.",
+      "chosen": "쟤 칭찬받으려고 남미새(픽미) 짓 하는 것 좀 봐.",
+      "rejected": "그는 인정을 위해 '나를 뽑아' 소년처럼 행동하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He bought her a car after one date? What a simp.",
+      "chosen": "데이트 한 번 하고 차를 사줬다고? 완전 호구(물소)네.",
+      "rejected": "그는 데이트 한 번 하고 그녀에게 차를 사줬어? 정말 심프(simp)네."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop simping for a girl who doesn't like you.",
+      "chosen": "너 안 좋아한다는 여자한테 그만 좀 갖다 바쳐(매달려).",
+      "rejected": "너를 좋아하지 않는 여자에게 심프 짓 좀 그만해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is simping so hard in her livestream donations.",
+      "chosen": "쟤 여캠방 도네이션 하는 거 보니 완전 푹 빠졌네(호구 잡혔네).",
+      "rejected": "그는 그녀의 라이브스트림 기부에서 너무 열심히 심프 짓을 하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He confessed his love but got put in the friendzone.",
+      "chosen": "고백했는데 그냥 '좋은 친구'로 남자고 선 그어졌어.",
+      "rejected": "그는 사랑을 고백했지만 친구 구역에 넣어졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm stuck in the friendzone with my crush.",
+      "chosen": "짝녀랑 친구 이상으론 절대 못 가는 관계가 됐어.",
+      "rejected": "나는 짝사랑하는 사람과 친구 구역에 갇혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "How do I escape the friendzone?",
+      "chosen": "어떻게 해야 그냥 남사친에서 벗어날 수 있을까?",
+      "rejected": "어떻게 친구 구역을 탈출해?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She posted a picture of just his hand. It's a soft launch.",
+      "chosen": "남자 손만 나온 사진 올린 거 봐. 은근슬쩍 연애 티 내기(스포일러) 시작했네.",
+      "rejected": "그녀는 그의 손 사진만 올렸어. 그건 부드러운 발사야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm doing a soft launch of my new boyfriend on stories.",
+      "chosen": "스토리에 남친 뒷모습만 올려서 살짝 간 보는 중이야.",
+      "rejected": "나는 스토리에서 새 남자친구를 부드럽게 발사하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That blurry photo was definitely a relationship soft launch.",
+      "chosen": "그 흐릿한 사진 딱 봐도 럽스타그램 예고편이네.",
+      "rejected": "그 흐릿한 사진은 분명히 관계의 부드러운 발사였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His beige flag is that he eats pizza with a fork.",
+      "chosen": "걔 좀 특이한 점(베이지 플래그)이 있다면 피자를 포크로 먹는다는 거야.",
+      "rejected": "그의 베이지색 깃발은 그가 포크로 피자를 먹는다는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My beige flag is that I set 10 alarms.",
+      "chosen": "내 좀 유별난 점은 알람을 10개나 맞춘다는 거야.",
+      "rejected": "나의 베이지색 깃발은 내가 10개의 알람을 설정한다는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Is it a beige flag if he never watches movies?",
+      "chosen": "영화를 아예 안 보는 건 좀 특이한 취향(베이지 플래그) 아닐까?",
+      "rejected": "그가 영화를 절대 안 본다면 그건 베이지색 깃발일까?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Thinking about my ex is my Roman Empire.",
+      "chosen": "전 남친 생각은 내 '로마 제국'이야(하루 종일 그 생각뿐이야).",
+      "rejected": "내 전 애인을 생각하는 건 나의 로마 제국이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The 2002 World Cup is every Korean man's Roman Empire.",
+      "chosen": "2002 월드컵은 한국 남자들한테 평생 가는 떡밥(로마 제국)이지.",
+      "rejected": "2002 월드컵은 모든 한국 남자의 로마 제국이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why is the Titanic your Roman Empire?",
+      "chosen": "넌 왜 그렇게 타이타닉에 꽂혀서 매일 그 얘기만 해?",
+      "rejected": "왜 타이타닉이 너의 로마 제국이야?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She asked to speak to the manager instantly. Total Karen move.",
+      "chosen": "다짜고짜 매니저 나오라고 하는 거 봐. 완전 '진상 아줌마(캐런)' 그 자체네.",
+      "rejected": "그녀는 즉시 매니저와 이야기하겠다고 요청했어. 완전 카렌 움직임이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be a Karen, just accept the coupon is expired.",
+      "chosen": "쿠폰 유효기간 지났으면 그냥 가요, 진상 부리지 말고.",
+      "rejected": "카렌이 되지 마, 그냥 쿠폰이 만료된 걸 받아들여."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "A Karen was screaming at the barista for no reason.",
+      "chosen": "어떤 진상 손님이 아무 이유 없이 바리스타한테 소리 지르고 있었어.",
+      "rejected": "한 카렌이 아무 이유 없이 바리스타에게 소리 지르고 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Fans need to realize they have a parasocial relationship with streamers.",
+      "chosen": "팬들은 스트리머와의 관계가 일방적인 유사 연애(과몰입)라는 걸 깨달아야 해.",
+      "rejected": "팬들은 그들이 스트리머와 준사회적 관계를 맺고 있다는 걸 깨달아야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop being parasocial, he doesn't know you exist.",
+      "chosen": "과몰입 좀 그만해, 그 연예인은 너 숨 쉬는지도 몰라.",
+      "rejected": "준사회적이 되는 걸 멈춰, 그는 네가 존재하는지도 몰라."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Parasocial attachments can get unhealthy.",
+      "chosen": "연예인이랑 나랑 찐친이라고 착각하는 건 좀 위험해.",
+      "rejected": "준사회적 애착은 건강하지 않을 수 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's just dating her because he's a clout chaser.",
+      "chosen": "걔가 그 여자 만나는 건 그냥 유명세 좀 얻어보려는 거야(관종이라서 그래).",
+      "rejected": "그는 그저 영향력 추격자이기 때문에 그녀와 데이트하는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop collaborating with clout chasers.",
+      "chosen": "빨대 꽂으려는 애들(관심 종자들)이랑 합방하지 마.",
+      "rejected": "영향력 추격자들과 협력하는 걸 멈춰."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He did that prank just to be a clout chaser.",
+      "chosen": "어그로 끌어서 조회수 빨아먹으려고 그런 장난친 거야.",
+      "rejected": "그는 단지 영향력 추격자가 되기 위해 그 장난을 쳤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's not serious about you, he's just breadcrumbing to keep you around.",
+      "chosen": "걔 너한테 진심 아니야. 그냥 관리하려고 떡밥만 조금씩 던지는(어장관리하는) 거야.",
+      "rejected": "그는 너에게 진심이 아니야, 그는 널 곁에 두려고 빵가루를 뿌리고 있을 뿐이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I hate when guys are breadcrumbing with random texts.",
+      "chosen": "뜬금없이 연락해서 희망 고문하는 거 진짜 싫어.",
+      "rejected": "나는 남자들이 무작위 문자로 빵가루를 뿌릴 때가 싫어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Is he interested or just breadcrumbing me?",
+      "chosen": "나한테 관심 있는 거야, 아니면 그냥 어장 속 물고기 밥 주는 거야?",
+      "rejected": "그가 관심이 있는 거야 아니면 그냥 나에게 빵가루를 뿌리는 거야?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You died on the first level? That sounds like a skill issue.",
+      "chosen": "1탄에서 죽었다고? 그건 그냥 네 실력 문제(피지컬 이슈) 같은데.",
+      "rejected": "첫 번째 레벨에서 죽었어? 그건 기술 문제처럼 들리네."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Blaming lag is just an excuse for a skill issue.",
+      "chosen": "렉 걸렸다고 핑계 대지 마, 그냥 네가 못한(개발린) 거야.",
+      "rejected": "랙을 비난하는 건 단지 기술 문제에 대한 핑계일 뿐이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If you can't aim, that's a skill issue.",
+      "chosen": "에임 안 좋은 건 순전히 네 손 문제지.",
+      "rejected": "조준을 못 하면, 그건 기술 문제야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Look at how he stands there; he acts like an NPC.",
+      "chosen": "저기 서 있는 것 좀 봐. 무슨 게임 배경 캐릭터(NPC) 같아.",
+      "rejected": "그가 저기 서 있는 것 좀 봐; 그는 엔피씨(NPC)처럼 행동해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop repeating the same thing like an NPC.",
+      "chosen": "입력된 대사만 읊는 NPC처럼 똑같은 말 좀 반복하지 마.",
+      "rejected": "엔피씨(NPC)처럼 똑같은 걸 반복하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The crowd moved like NPCs in a glitchy game.",
+      "chosen": "사람들 움직이는 게 무슨 렉 걸린 게임 속 엑스트라들 같았어.",
+      "rejected": "군중은 결함이 있는 게임 속 엔피씨(NPC)들처럼 움직였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's just a casual game, why are you being so sweaty?",
+      "chosen": "그냥 즐겜하자는 건데 왜 혼자 그렇게 목숨 걸고(빡겜) 해?",
+      "rejected": "그냥 가벼운 게임인데, 왜 그렇게 땀에 젖어 있어?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Look at that sweaty player building a fortress instantly.",
+      "chosen": "저 빡겜러(고인물) 봐라, 순식간에 요새를 짓네.",
+      "rejected": "즉시 요새를 짓는 저 땀에 젖은 플레이어를 봐."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I don't want to play with try-hards.",
+      "chosen": "나 목숨 걸고 게임하는 애들이랑은 하기 싫어.",
+      "rejected": "나는 노력하는 사람들과 게임하고 싶지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop inting, you're ruining the match for everyone.",
+      "chosen": "제발 그만 좀 던져(트롤짓 하지 마), 너 때문에 다 망하잖아.",
+      "rejected": "인팅(Inting) 좀 그만해, 네가 모두를 위해 경기를 망치고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is inting on purpose because he's angry.",
+      "chosen": "쟤 화났다고 게임 일부러 던지고(망치고) 있네.",
+      "rejected": "그는 화가 나서 고의로 인팅(Inting)하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Report him for inting.",
+      "chosen": "일부러 죽어주는 쟤(트롤러) 신고해.",
+      "rejected": "그를 인팅(Inting)으로 신고해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is trying to speedrun getting fired.",
+      "chosen": "쟤는 무슨 해고당하기 스피드런(기록 세우기) 하는 것 같아.",
+      "rejected": "그는 해고당하기 스피드런을 하려고 노력 중이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We speedran the project in one night.",
+      "chosen": "우리 그 프로젝트 하룻밤 만에 초스피드로 끝냈어.",
+      "rejected": "우리는 하룻밤 만에 프로젝트를 스피드런했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She is speedrunning a breakup.",
+      "chosen": "쟤 헤어지는 과정이 거의 LTE급인데.",
+      "rejected": "그녀는 이별을 스피드런하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He stood next to me and was absolutely mogging me with his height.",
+      "chosen": "내 옆에 섰는데 키 차이로 나를 아주 짓눌러(압살해) 버리더라.",
+      "rejected": "그는 내 옆에 서서 그의 키로 나를 절대적으로 모깅(mogging)하고 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That model is mogging everyone in the room.",
+      "chosen": "저 모델이 비주얼로 방에 있는 사람들 다 오징어 만드네.",
+      "rejected": "저 모델은 방에 있는 모든 사람을 모깅(mogging)하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I got mogged by a high schooler.",
+      "chosen": "나 고딩한테 피지컬로 발렸어.",
+      "rejected": "나는 고등학생에게 모그(mog) 당했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I took a fry from his plate. Call it the Fanum tax.",
+      "chosen": "네 감튀 하나 집어 먹었다. 통행료(패넘 택스)라고 생각해.",
+      "rejected": "그의 접시에서 튀김을 가져갔어. 그걸 패넘 세금이라고 불러."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He always takes a Fanum tax when he walks by.",
+      "chosen": "걘 지나갈 때마다 내 간식 뺏어 먹어(세금 걷어가).",
+      "rejected": "그는 지나갈 때마다 항상 패넘 세금을 떼어가."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Paying the Fanum tax with a slice of pizza.",
+      "chosen": "피자 한 조각 상납하고 평화를 얻었지.",
+      "rejected": "피자 한 조각으로 패넘 세금을 내고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's been lookmaxxing all summer and looks totally different.",
+      "chosen": "여름 내내 외모 관리(룩맥싱)만 하더니 완전 딴사람 됐네.",
+      "rejected": "그는 여름 내내 룩맥싱(lookmaxxing)을 해왔고 완전히 달라 보여."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm starting my lookmaxxing journey today.",
+      "chosen": "나 오늘부터 미모 봉인 해제 들어간다.",
+      "rejected": "나는 오늘 나의 룩맥싱 여행을 시작해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Lookmaxxing requires dedication to gym and skincare.",
+      "chosen": "외모 렙업 하려면 운동이랑 피부 관리에 목숨 걸어야 해.",
+      "rejected": "룩맥싱은 체육관과 스킨케어에 대한 헌신을 요구해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That level 1 player plays like a pro. Definitely a smurf.",
+      "chosen": "저 레벨 1짜리 하는 거 보니까 완전 프로네. 백퍼 부계정(양학러)이야.",
+      "rejected": "저 레벨 1 플레이어는 프로처럼 해. 분명히 스머프야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I created a smurf account to play with my newbie friends.",
+      "chosen": "나 게임 처음 하는 친구들이랑 하려고 부계(배치고사용 계정) 팠어.",
+      "rejected": "나는 초보 친구들과 놀기 위해 스머프 계정을 만들었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop smurfing in low ranks.",
+      "chosen": "초보 구간(심해) 와서 양민 학살 좀 그만해.",
+      "rejected": "낮은 등급에서 스머핑하는 걸 멈춰."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is rude to waiters, that's a huge red flag.",
+      "chosen": "알바생한테 막 대하는 거, 완전 정 떨어지는 포인트(적신호)야.",
+      "rejected": "그는 웨이터들에게 무례해, 그건 거대한 빨간 깃발이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I ignored the red flags because he was cute.",
+      "chosen": "얼굴이 내 취향이라 쎄한 느낌(레드 플래그) 다 무시했었지.",
+      "rejected": "그가 귀여워서 나는 빨간 깃발들을 무시했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Too many red flags in his bio.",
+      "chosen": "프로필만 봐도 지뢰(걸러야 할 점)가 너무 많아.",
+      "rejected": "그의 바이오에는 빨간 깃발이 너무 많아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He listens to his mom, that's a green flag.",
+      "chosen": "엄마 말 잘 듣는 거 보니 됨됨이가 됐네(그린 플래그야).",
+      "rejected": "그는 엄마 말을 잘 들어, 그건 초록 깃발이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Walking on the outside of the sidewalk is a total green flag.",
+      "chosen": "인도 안쪽으로 걷게 해주는 거, 완전 설레는 포인트(합격)잖아.",
+      "rejected": "보도 바깥쪽으로 걷는 건 완전 초록 깃발이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm looking for green flags on the first date.",
+      "chosen": "첫 데이트에서 이 사람이 괜찮은 사람인지(호감 요소가 있는지) 보고 있어.",
+      "rejected": "나는 첫 데이트에서 초록 깃발을 찾고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She skipped the soft launch and went straight to a hard launch.",
+      "chosen": "그녀는 간 보기 다 건너뛰고 바로 남친 얼굴 대문짝만하게 박제했어(공개했어).",
+      "rejected": "그녀는 부드러운 발사를 건너뛰고 단단한 발사로 직행했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That wedding photo was a hard launch.",
+      "chosen": "결혼 사진 올린 게 진짜 빠꾸 없는 공개(하드 런치)였지.",
+      "rejected": "그 결혼 사진은 단단한 발사였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "No teasing, just a hard launch of the new relationship.",
+      "chosen": "밀당 없이 바로 '내 애인이다' 하고 공개해 버리네.",
+      "rejected": "놀리기 없이, 그냥 새 관계의 단단한 발사야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If I pay with cash, it's free. That's girl math.",
+      "chosen": "현금으로 내면 통장에선 돈 안 나가니까 공짜야. 이게 바로 기적의 논리(걸 매스)지.",
+      "rejected": "현금으로 지불하면 공짜야. 그게 소녀 수학이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Returning a $50 item and buying a $40 one means I made $10. Girl math.",
+      "chosen": "5만 원짜리 환불하고 4만 원짜리 샀으니 만 원 번 거야. 완전 럭키비키(창조 경제)잖아.",
+      "rejected": "50달러 물건을 반품하고 40달러 물건을 사는 건 내가 10달러를 벌었다는 뜻이야. 소녀 수학."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Girl math is justifying the sale price.",
+      "chosen": "세일 가격 보고 안 사면 손해라고 우기는 게 바로 합리화(걸 매스)야.",
+      "rejected": "소녀 수학은 판매 가격을 정당화하는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's just salty because he lost the game.",
+      "chosen": "쟤 게임 져서 지금 잔뜩 삐져있어(심술 났어).",
+      "rejected": "그는 게임을 져서 그냥 짜."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be salty about my success.",
+      "chosen": "나 잘됐다고 배 아파하지(꽁해 있지) 마.",
+      "rejected": "내 성공에 대해 짜게 굴지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why are you so salty today?",
+      "chosen": "너 오늘따라 왜 이렇게 까칠해?",
+      "rejected": "너 오늘 왜 그렇게 짜?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Her reply was absolutely savage.",
+      "chosen": "걔 답장 진짜 자비 없더라(뼈 때리더라).",
+      "rejected": "그녀의 대답은 절대적으로 야만적이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is savage for roasting his friend like that.",
+      "chosen": "친구를 저렇게 극딜하다니 진짜 독하다(상남자다).",
+      "rejected": "친구를 저렇게 볶다니 그는 야만적이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That comeback was savage!",
+      "chosen": "방금 그 받아치기 진짜 쩔었다(매콤하네)!",
+      "rejected": "그 말대꾸는 야만적이었어!"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Messi is the GOAT of football.",
+      "chosen": "메시는 그냥 축구의 신(GOAT)이야.",
+      "rejected": "메시는 축구의 염소야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This album is GOAT status.",
+      "chosen": "이 앨범은 진짜 역대급 명반이야.",
+      "rejected": "이 앨범은 염소 상태야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is the GOAT for fixing this bug.",
+      "chosen": "이 버그 고친 걔는 진짜 빛이고 소금(갓)이야.",
+      "rejected": "이 버그를 고친 그는 염소야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Check out his drip, he looks expensive.",
+      "chosen": "쟤 옷 입은 태(간지) 좀 봐,티가 확 나네.",
+      "rejected": "그의 물방울을 확인해 봐, 그는 비싸 보여."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His outfit has no drip.",
+      "chosen": "걔 패션 센스 진짜 꽝이야(간지 안 나).",
+      "rejected": "그의 의상은 물방울이 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Respect the drip, Karen.",
+      "chosen": "내 패션(스웨그) 무시하지 마요, 아줌마.",
+      "rejected": "물방울을 존중해, 카렌."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She is so extra with her birthday party.",
+      "chosen": "걔 생일 파티하는 거 보면 진짜 유난이야(투머치야).",
+      "rejected": "그녀는 생일 파티에 너무 추가적이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be extra, just wear jeans.",
+      "chosen": "오바하지 말고 그냥 청바지 입고 와.",
+      "rejected": "추가적이 되지 말고 그냥 청바지 입어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His reaction was a bit extra.",
+      "chosen": "걔 리액션 좀 과했어(작위적이었어).",
+      "rejected": "그의 반응은 약간 추가적이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That lazy cat is such a mood.",
+      "chosen": "저 늘어지게 자는 고양이 완전 나 보는 거 같아(내 현재 상태야).",
+      "rejected": "저 게으른 고양이는 정말 기분이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Big mood.",
+      "chosen": "완전 격공(인정).",
+      "rejected": "큰 기분."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This song is a whole mood.",
+      "chosen": "이 노래 분위기 진짜 미쳤다(감성 쩐다).",
+      "rejected": "이 노래는 전체 기분이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He posted a thirst trap on Instagram.",
+      "chosen": "걔 인스타에 몸매 자랑하는 사진(유혹 짤) 올렸더라.",
+      "rejected": "그는 인스타그램에 갈증 함정을 게시했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop falling for her thirst traps.",
+      "chosen": "그녀가 흘리는 끼(어그로)에 넘어가지 좀 마.",
+      "rejected": "그녀의 갈증 함정에 빠지는 걸 멈춰."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That gym selfie was definitely a thirst trap.",
+      "chosen": "헬스장 거울 셀카 그거 딱 봐도 관심받고 싶어서(플러팅하려고) 올린 거야.",
+      "rejected": "그 체육관 셀카는 분명히 갈증 함정이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I can't believe she left me on read for two days.",
+      "chosen": "이틀이나 내 카톡을 읽씹하다니 믿을 수가 없어.",
+      "rejected": "그녀가 이틀 동안 나를 읽음 위에 남겨뒀다는 게 믿기지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Getting left on read is humbling.",
+      "chosen": "읽씹 당하니까 주제 파악 확 되네.",
+      "rejected": "읽음 위에 남겨지는 건 겸손해지는 일이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He left me on read, so I blocked him.",
+      "chosen": "읽고 답장 안 하길래 그냥 차단 박았어.",
+      "rejected": "그가 나를 읽음 위에 남겨둬서, 나는 그를 차단했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Buying a Rolex just to flex.",
+      "chosen": "그냥 자랑질(플렉스) 하려고 롤렉스 산 거야.",
+      "rejected": "단지 구부리기(flex) 위해 롤렉스를 사는 것."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Weird flex but okay.",
+      "chosen": "별걸 다 자랑하네(이상한 부심이네) 싶지만 알겠어.",
+      "rejected": "이상한 구부림이지만 알겠어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is flexing his dad's money.",
+      "chosen": "아빠 돈으로 허세 부리고 있네.",
+      "rejected": "그는 아빠의 돈을 구부리고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That video is so cringe I can't watch it.",
+      "chosen": "그 영상 너무 오글거려서(항마력 딸려서) 못 보겠어.",
+      "rejected": "그 비디오는 너무 움츠러들어서 볼 수가 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop being cringe.",
+      "chosen": "갑분싸 만들지 마(쪽팔린 짓 좀 하지 마).",
+      "rejected": "움츠러들게 하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The ending was pure cringe.",
+      "chosen": "결말 진짜 이불킥 감이었어.",
+      "rejected": "결말은 순수한 움츠러듦이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I decided to yeet my old phone out the window.",
+      "chosen": "그냥 헌 폰 창밖으로 집어 던져버렸어.",
+      "rejected": "나는 창밖으로 내 낡은 전화기를 '이잇(yeet)' 하기로 결심했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He yeeted the ball across the field.",
+      "chosen": "공을 운동장 저편으로 냅다 날려버리더라.",
+      "rejected": "그는 경기장 가로질러 공을 '이잇(yeet)' 했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Just yeet it into the trash.",
+      "chosen": "그냥 쓰레기통에 슛 골인(처박아) 해버려.",
+      "rejected": "그냥 쓰레기통에 그것을 '이잇(yeet)' 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This fried chicken is bussin'.",
+      "chosen": "이 치킨 진짜 폼 미쳤다(존맛탱이다).",
+      "rejected": "이 프라이드치킨은 버스(bus) 타고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Is the food actually bussin' or just okay?",
+      "chosen": "음식 진짜 맛있는 거야 아니면 그냥 먹을 만한 거야?",
+      "rejected": "음식이 실제로 버스 타고 있니 아니면 그냥 괜찮니?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Grandma's soup is always bussin'.",
+      "chosen": "할머니 국은 언제 먹어도 진국이야(끝내줘).",
+      "rejected": "할머니의 수프는 항상 버스 타고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I gave him the bombastic side eye.",
+      "chosen": "내가 걔를 아주 위아래로 훑어줬지(경멸의 눈빛을 보냈지).",
+      "rejected": "나는 그에게 과장된 옆 눈을 주었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She is giving me the side eye.",
+      "chosen": "쟤가 나를 곁눈질로 째려보고 있어.",
+      "rejected": "그녀는 나에게 옆 눈을 주고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Criminal offensive side eye.",
+      "chosen": "진짜 한 대 칠 것 같은 눈빛이야.",
+      "rejected": "범죄적인 공격적인 옆 눈."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't trauma dump on the first date.",
+      "chosen": "첫 데이트부터 우울한 과거사 TMI 남발하지 마.",
+      "rejected": "첫 데이트에 트라우마를 덤프 트럭처럼 버리지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She uses me to trauma dump her problems.",
+      "chosen": "걘 나를 감정 쓰레기통으로만 써.",
+      "rejected": "그녀는 그녀의 문제들을 트라우마 덤프하기 위해 나를 이용해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Sorry for trauma dumping, I just needed to vent.",
+      "chosen": "갑자기 너무 무거운 얘기(신세 한탄) 해서 미안, 그냥 털어놓고 싶었어.",
+      "rejected": "트라우마 덤프해서 미안, 그냥 환기할 필요가 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Vibe check: everyone good?",
+      "chosen": "자 분위기 점검(갑분싸 아니지?), 다들 괜찮아?",
+      "rejected": "분위기 확인: 모두 좋아?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You failed the vibe check.",
+      "chosen": "너 분위기 파악 진짜 못한다(갑분싸 만드네).",
+      "rejected": "너는 분위기 확인에 실패했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His vibe check was positive.",
+      "chosen": "걔 느낌 좋더라(합격).",
+      "rejected": "그의 분위기 확인은 긍정적이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm on the verge of a menty b.",
+      "chosen": "나 지금 멘붕 오기 직전이야.",
+      "rejected": "나는 멘티 비(menty b)의 직전에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Having a menty b over a lost pen.",
+      "chosen": "펜 하나 잃어버렸다고 멘탈 나갔어.",
+      "rejected": "잃어버린 펜 때문에 멘티 비를 겪고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She had a menty b during finals week.",
+      "chosen": "기말고사 기간에 걔 멘탈 완전히 터졌잖아.",
+      "rejected": "그녀는 기말고사 주간 동안 멘티 비를 가졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm in my healing era.",
+      "chosen": "나 요즘 힐링하고 다니는 시기야(갓생 사는 중이야).",
+      "rejected": "나는 나의 치유 시대에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is in his villain era.",
+      "chosen": "걔 요즘 흑화했어(삐뚤어질 거야 모드야).",
+      "rejected": "그는 그의 악당 시대에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Entering my flop era.",
+      "chosen": "나 인생 암흑기 진입했다.",
+      "rejected": "나의 실패 시대로 들어가는 중."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You are actually so unserious.",
+      "chosen": "너 진짜 대책 없다(웃긴 놈이다).",
+      "rejected": "너는 사실 너무 심각하지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This show is so unserious.",
+      "chosen": "이 드라마 개연성 밥 말아 먹었네(어이가 없네).",
+      "rejected": "이 쇼는 너무 심각하지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop being unserious and help me.",
+      "chosen": "장난치지 말고 좀 도와줘.",
+      "rejected": "심각하지 않게 굴지 말고 나를 도와줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We are losing, time to lock in.",
+      "chosen": "지고 있잖아, 이제 빡겜 모드 켜자(집중하자).",
+      "rejected": "우린 지고 있어, 안에 잠글 시간이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I need to lock in for this exam.",
+      "chosen": "이번 시험 진짜 각 잡고(제대로) 공부해야 해.",
+      "rejected": "나는 이 시험을 위해 안에 잠가야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He locked in and won the round.",
+      "chosen": "걔가 갑자기 눈빛 변하더니(각성하더니) 라운드 따냈어.",
+      "rejected": "그는 안에 잠갔고 라운드를 이겼어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He rage quit after dying once.",
+      "chosen": "한 번 죽더니 빡쳐서 게임 꺼버렸어(탈주했어).",
+      "rejected": "그는 한 번 죽은 후에 분노해서 종료했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't rage quit just because it's hard.",
+      "chosen": "어렵다고 승질내면서 포기하지 마.",
+      "rejected": "그냥 어렵다고 분노 종료하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I almost rage quit life today.",
+      "chosen": "오늘 진짜 인생 때려치울 뻔했어.",
+      "rejected": "나는 오늘 인생을 거의 분노 종료할 뻔했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That movie was a total flop.",
+      "chosen": "그 영화 완전히 폭망했어.",
+      "rejected": "그 영화는 완전한 털썩 주저앉음이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't let this post flop.",
+      "chosen": "이 게시물 묻히게 하지 말아 줘(관심 좀 줘).",
+      "rejected": "이 게시물이 털썩 주저앉게 두지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It entered its flop era.",
+      "chosen": "이제 한물갔지(망조가 들었지).",
+      "rejected": "그것은 털썩 주저앉는 시대로 들어갔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "When the cameras had long since departed , I was left to carry the can and answer any angry participants who felt they had been given a poor treatment .",
+      "chosen": "카메라는 떠난 지 오래였고, 남아서 부당한 대우를 받았다고 느끼는 성난 참가자들의 항의를 듣고 책임을 지는 것은 내 몫이었다.",
+      "rejected": "카메라가 오래전에 떠났을 때, 나는 깡통을 나르고 나쁜 대우를 받았다고 느끼는 화난 참가자들에게 대답하기 위해 남겨졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I guess the fans love him because ... the rest of the team were not exactly setting the Premiership on fire ! !",
+      "chosen": "팬들이 그를 사랑하는 이유는... 나머지 팀원들이 프리미어리그에서 딱히 뛰어난 활약을 보여주지 못했기 때문일 것이다!",
+      "rejected": "팬들이 그를 사랑하는 것 같아 왜냐하면... 팀의 나머지는 프리미어십에 정확히 불을 지르고 있지 않았으니까!!"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Times when we all get down in the dumps , but God can always reach deep within us and put us recovered again .",
+      "chosen": "우리 모두 우울해질 때가 있지만, 신은 언제나 우리 내면 깊은 곳을 어루만져 다시 회복시켜 주신다.",
+      "rejected": "우리 모두가 쓰레기장에 내려가는 시간들, 하지만 신은 항상 우리 깊은 곳에 닿아 우리를 다시 회복시킬 수 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "At the moment they are tackling record crime rates with one hand tied BEHIND THEIR BACK .",
+      "chosen": "지금 그들은 손발이 묶인 채 기록적인 범죄율과 싸우고 있는 셈이다.",
+      "rejected": "지금 그들은 한 손을 등 뒤로 묶은 채 기록적인 범죄율을 다루고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I feel like I 'm struggling to keep my head above water — Oh , I knew this particular pool was going to be deep ...",
+      "chosen": "나는 지금 간신히 버티고 있는 것 같다. 아, 이 상황이 쉽지 않을 거란 건 알고 있었지만...",
+      "rejected": "나는 내 머리를 물 위에 유지하려고 고군분투하는 것 같아 — 오, 이 특정 수영장이 깊을 거란 걸 알고 있었어..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I am in a troublesome situation over various things ... I 'm sure my days are numbered .",
+      "chosen": "여러 가지 일로 골치 아픈 상황이다... (해고되거나 끝장날) 날이 얼마 남지 않았다는 확신이 든다.",
+      "rejected": "나는 여러 가지 일로 골치 아픈 상황에 있어... 나는 내 날들이 숫자가 매겨졌다고 확신해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "A suited smart alec , accompanying on rugby union 's suddenly careering shamateur bandwagon ...",
+      "chosen": "럭비 유니온의 급격히 질주하는 사이비 아마추어에 편승한 정장 차림의 잘난 체하는 녀석이...",
+      "rejected": "정장 입은 똑똑한 알렉, 럭비 유니온의 갑자기 질주하는 가짜 아마추어 밴드마차에 동행하며..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Er Eric and I know fully we have been through that , fingers crossed in secret .",
+      "chosen": "나랑 에릭은 우리가 그 일을 겪었다는 걸 잘 알고 있다. 남몰래 행운을 빌면서 말이다.",
+      "rejected": "어 에릭과 나는 우리가 그것을 겪었다는 것을 완전히 알고 있어, 비밀리에 손가락을 꼬았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "In all honesty , the history of commercial rose-growing is a trail of trumpet-blowing and publicity , so often followed by silence as the subjects lost momentum and fell by the wayside .",
+      "chosen": "솔직히 말해, 상업적 장미 재배의 역사는 요란한 자화자찬과 홍보로 가득하지만, 결국 인기가 식어 중도에 잊혀지는 일이 반복되어 왔다.",
+      "rejected": "솔직히 말해서, 상업적 장미 재배의 역사는 나팔 불기와 홍보의 길이야, 그래서 주제들이 탄력을 잃고 길가에 떨어지면서 침묵이 뒤따르곤 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "By providing a daily income ... the Plan can help you meet your overheads while you 're out of circulation .",
+      "chosen": "일일 수입을 보장해 줌으로써, 이 플랜은 당신이 사회 활동을 잠시 쉬는 동안 고정 지출을 감당하도록 도와준다.",
+      "rejected": "일일 수입을 제공함으로써... 그 계획은 네가 유통에서 벗어나 있는 동안 간접비를 충당하는 데 도움을 줄 수 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Mr Blakey will give a severe scolding if ever he shows his face again .",
+      "chosen": "블레이키 씨는 그가 다시 얼굴을 비치기라도 하면 호되게 야단을 칠 것이다.",
+      "rejected": "블레이키 씨는 그가 다시 얼굴을 보이면 심한 꾸지람을 줄 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The sound of a slammed door and the pitter patter sound of a girl running as fast as she can ...",
+      "chosen": "문이 쾅 닫히는 소리와 소녀가 후다닥하고, 전력 질주하며 내는 소리만이 들려왔다.",
+      "rejected": "쾅 닫힌 문 소리와 소녀가 가능한 한 빨리 달리며 내는 피터 패터 소리..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Their aim — to finish before the deadline and each other in a competition to find the fastest draw in the country .",
+      "chosen": "그들의 목표는 마감 시한 전에, 그리고 상대보다 빨리 끝내는 것으로, 전국에서 가장 빠른 총잡이를 가리는 시합이었다.",
+      "rejected": "그들의 목표 — 마감일 전에 끝내고 나라에서 가장 빠른 그리기를 찾는 경쟁에서 서로를 끝내는 것."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "for she had to struggle to think of something to reply to his remarks about the weather ... and so forth",
+      "chosen": "그녀는 날씨 등등에 대한 그의 말에 대꾸할 거리를 찾느라 애를 먹어야 했다.",
+      "rejected": "왜냐하면 그녀는 날씨에 대한 그의 발언에 대답할 무언가를 생각하느라 고군분투해야 했으니까 ... 그리고 기타 등등"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "When it comes to sex talk in the classroom, both girls and boys reckon they get a poor treatment .",
+      "chosen": "교실에서의 성(性) 이야기에 관해서라면, 남학생 여학생 모두 스스로가 제대로 대우받지 못한다고 생각한다.",
+      "rejected": "교실에서 성 이야기가 오면, 소녀들과 소년들 모두 그들이 나쁜 대우를 받는다고 생각해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We are at the bad or dangerous stage with IT , and it is hardly possible to anticipate how the future will work out .",
+      "chosen": "우리는 IT와 관련해 위험한 단계에 있으며, 앞으로 일이 어떻게 풀릴지 예측하기조차 어렵다.",
+      "rejected": "우리는 IT와 함께 나쁘거나 위험한 단계에 있고, 미래가 어떻게 운동할지 예상하는 건 거의 불가능해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She had the feeling she must either give in to that showy and heady beatification or run as fast as she can .",
+      "chosen": "그녀는 그 현란한 분위기에 굴복하든지, 아니면 있는 힘껏 도망쳐야 한다는 느낌을 받았다.",
+      "rejected": "그녀는 그 화려하고 들뜨는 시복식에 주거나 가능한 한 빨리 달려야 한다는 느낌을 가졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It took four of them to lift him ... and then things gradually returned to normal",
+      "chosen": "네 명이 달려들어 그를 들어 옮겼고... 그 후 상황은 점차 정상으로 돌아왔다.",
+      "rejected": "그를 들어 올리는 데 네 명이 필요했어... 그리고 나서 일들은 점차 정상으로 돌아갔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "you must have BEEN unaware of the world , what with working",
+      "chosen": "일하느라 바빠서 세상 돌아가는 걸 모를 수밖에 없었겠네요.",
+      "rejected": "너는 세상에 대해 몰랐음에 틀림없어, 일하는 것과 함께."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That 's not too bad ... well I think its always when it is in writing you know",
+      "chosen": "나쁘지 않네요... 역시 말보다는 글로 적혀 있을 때 더 확실한 법이죠.",
+      "rejected": "그건 너무 나쁘지 않아... 음 나는 그게 항상 쓰기 안에 있을 때라고 생각해 알잖아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Sun Microsystems Inc CEO says he is exasperated with the press Intel Corp 's getting ...",
+      "chosen": "썬 마이크로시스템즈 CEO는 언론이 인텔에 쏟는 관심에 진절머리가 난다고 말했다.",
+      "rejected": "썬 마이크로시스템즈 CEO는 인텔이 받고 있는 언론으로 격분했다고 말해..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I just wanted ... to see when we have had real regard to this policy",
+      "chosen": "나는 우리가 언제 이 정책을 진지하게 고려했었는지 알고 싶었을 뿐입니다.",
+      "rejected": "난 그냥 원했어... 우리가 언제 이 정책에 대해 진짜 존경을 가졌는지 보기를."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Companies have got the directive weakened , but worry that it may be strengthened again .",
+      "chosen": "기업들은 지침을 약화시켰지만, 다시 강화될까 우려하고 있다.",
+      "rejected": "회사들은 지시를 약화시켰지만, 그게 다시 강화될까 봐 걱정해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "All four reach the top ... HAMLET , in the lead , leaps into the left barrel .",
+      "chosen": "네 명 모두 정상에 도달했고... 선두에 있던 햄릿이 왼쪽 통으로 뛰어든다.",
+      "rejected": "네 명 모두 정상에 도달해... 햄릿, 리드 안에서, 왼쪽 통으로 뛰어들어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Clasp fingers BEHIND YOUR BACK and lean forwards ...",
+      "chosen": "등 뒤로 손을 깍지 끼고 앞으로 숙이시오...",
+      "rejected": "네 등 뒤에서 손가락을 쥐고 앞으로 기울여..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I tried to explain the problem, but it just went in one ear and out the other.",
+      "chosen": "문제를 설명하려고 했는데, 걔는 그냥 한 귀로 듣고 한 귀로 흘려버리더라.",
+      "rejected": "문제를 설명하려고 했는데, 그건 그냥 한쪽 귀로 들어가서 다른 쪽 귀로 나왔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He didn't betray us openly, but he threw us under the bus to save himself.",
+      "chosen": "그는 대놓고 배신하진 않았지만, 자기가 살려고 우리를 총알받이로 내세웠어.",
+      "rejected": "그는 우리를 공개적으로 배신하지 않았지만, 자기를 구하려고 우리를 버스 아래로 던졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I was going to ask for a raise, but I got cold feet at the last minute.",
+      "chosen": "월급 올려달라고 하려 했는데, 막판에 겁이 나서 입이 안 떨어지더라.",
+      "rejected": "임금 인상을 요청하려고 했는데, 마지막 순간에 차가운 발을 갖게 됐어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Let's play devil's advocate just to see the other side of the argument.",
+      "chosen": "반대 입장도 한번 들어보게, 일부러 딴지를 좀 걸어볼게(반대편에서 말해볼게).",
+      "rejected": "논쟁의 다른 면을 보기 위해 악마의 변호인을 연기해 보자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Does the name 'John Doe' ring a bell to you?",
+      "chosen": "'존 도'라는 이름, 어디서 들어본 것 같지 않아(감이 안 와)?",
+      "rejected": "'존 도'라는 이름이 너에게 종을 울리니?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Before we start the meeting, I want to make sure we are on the same page.",
+      "chosen": "회의 시작하기 전에, 우리 서로 딴소리 안 하게 의견 통일부터 하자.",
+      "rejected": "회의를 시작하기 전에, 나는 우리가 같은 페이지 위에 있는지 확실히 하고 싶어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Our vacation plans are still up in the air due to the weather.",
+      "chosen": "날씨 때문에 우리 휴가 계획은 아직 붕 뜬 상태야(미정이야).",
+      "rejected": "날씨 때문에 우리 휴가 계획은 여전히 공중에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Please keep me in the loop regarding the project updates.",
+      "chosen": "프로젝트 어떻게 돌아가는지 나한테도 계속 공유해 줘.",
+      "rejected": "프로젝트 업데이트에 관해서 나를 고리 안에 유지해 줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Hiring that expert was a total game changer for our company.",
+      "chosen": "그 전문가를 영입한 건 우리 회사에 있어서 신의 한 수(판도를 뒤집는 일)였어.",
+      "rejected": "그 전문가를 고용한 건 우리 회사에 완전한 게임 교환기였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Accepting that offer is a no-brainer; you should take it.",
+      "chosen": "그 제안을 받아들이는 건 고민할 거리도 안 돼. 무조건 잡아야지.",
+      "rejected": "그 제안을 받아들이는 건 뇌 없음이야; 너는 그걸 가져야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Be careful not to burn bridges when you quit your job.",
+      "chosen": "퇴사할 때 나중에 볼 일 없다고 막 나가지 말고, 좋게 끝내.",
+      "rejected": "직장을 그만둘 때 다리를 태우지 않도록 조심해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I can't go to dinner tonight, can I take a rain check?",
+      "chosen": "오늘 저녁은 못 갈 것 같은데, 우리 다음에 밥 한번 먹자(다음으로 미뤄도 될까)?",
+      "rejected": "오늘 저녁에 못 가는데, 비 올 때 쓰는 수표를 받아도 될까?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "As a rule of thumb, you should save 20% of your income.",
+      "chosen": "보통(국룰로) 소득의 20%는 저축하는 게 좋아.",
+      "rejected": "엄지손가락의 규칙으로서, 너는 수입의 20%를 저축해야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I decided to quit smoking cold turkey.",
+      "chosen": "나 담배 그냥 한방에 딱 끊기로 했어.",
+      "rejected": "나는 차가운 칠면조로 담배를 끊기로 결심했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We don't have much time, so let's cut to the chase.",
+      "chosen": "시간 없으니까, 거두절미하고 본론만 이야기하자.",
+      "rejected": "시간이 별로 없으니까, 추격전을 편집하자(자르자)."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I wanted to buy tickets, but that ship has sailed.",
+      "chosen": "티켓을 사고 싶었지만, 이미 버스는 떠났어.",
+      "rejected": "표를 사고 싶었지만, 그 배는 이미 항해를 떠났어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm caught between a rock and a hard place choosing between them.",
+      "chosen": "둘 중 하나를 골라야 한다니 진짜 진퇴양난이네(이러지도 저러지도 못하겠네).",
+      "rejected": "그들 사이에서 선택하느라 바위와 딱딱한 장소 사이에 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Speak of the devil, here he comes now.",
+      "chosen": "호랑이도 제 말 하면 온다더니, 쟤 지금 오네.",
+      "rejected": "악마를 말하니까, 여기 그가 오네."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Luckily, my boss and I see eye to eye on this issue.",
+      "chosen": "다행히 이 문제에 대해서는 상사하고 내 뜻이 딱 맞았어.",
+      "rejected": "다행히, 내 상사와 나는 이 문제에 대해 눈 대 눈으로 봐."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We've done enough work, let's call it a day.",
+      "chosen": "일할 만큼 했으니, 오늘은 여기서 시마이하자(마무리하자).",
+      "rejected": "일은 충분히 했어, 그것을 '하루'라고 부르자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's a tough time, but we just have to weather the storm.",
+      "chosen": "힘든 시기지만, 이 비바람만 잘 견뎌내면(버티면) 돼.",
+      "rejected": "힘든 시간이지만, 우리는 그냥 폭풍을 날씨해야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's tricky at first, but you'll get the hang of it soon.",
+      "chosen": "처음엔 까다로운데, 하다 보면 금방 감 잡을 거야.",
+      "rejected": "처음엔 까다롭지만, 곧 그것의 매달림을 얻게 될 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I announced my news first so he wouldn't steal my thunder.",
+      "chosen": "걔가 선수 쳐서 관심 다 가져가기 전에 내가 먼저 소식을 터뜨렸어.",
+      "rejected": "그가 내 천둥을 훔치지 못하게 내가 먼저 뉴스를 발표했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The errors we found are just the tip of the iceberg.",
+      "chosen": "우리가 발견한 오류들은 빙산의 일각일 뿐이야(새 발의 피야).",
+      "rejected": "우리가 발견한 오류들은 그저 빙산의 끝일 뿐이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He was born with a silver spoon in his mouth and never worked hard.",
+      "chosen": "걔는 금수저 물고 태어나서 고생이라곤 해본 적이 없어.",
+      "rejected": "그는 입에 은수저를 물고 태어났고 절대 열심히 일하지 않았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The project failed miserably, and as the team leader, I had to carry the can.",
+      "chosen": "프로젝트가 완전히 망했고, 팀장인 내가 총대를 메고 독박을 써야 했다.",
+      "rejected": "프로젝트는 비참하게 실패했고, 팀 리더로서 나는 깡통을 날라야 했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Why should I carry the can for his mistakes?",
+      "chosen": "왜 걔가 저지른 실수 때문에 내가 덤터기를 써야 해?",
+      "rejected": "왜 그의 실수 때문에 내가 깡통을 날라야 해?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His latest album didn't exactly set the charts on fire.",
+      "chosen": "그의 새 앨범은 차트에서 딱히 대박을 터뜨리진 못했다(반응이 미지근했다).",
+      "rejected": "그의 최신 앨범은 정확히 차트에 불을 지르지 못했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The new policy is unlikely to set the world on fire.",
+      "chosen": "새 정책이 세상을 뒤집을 만큼 획기적일 것 같지는 않다.",
+      "rejected": "새 정책은 세상에 불을 지를 것 같지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She's been down in the dumps since she lost her job.",
+      "chosen": "그녀는 실직한 이후로 계속 기분이 바닥을 치고 있다.",
+      "rejected": "그녀는 직장을 잃은 이후로 쓰레기장에 내려가 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be so down in the dumps; things will get better.",
+      "chosen": "너무 그렇게 축 처져 있지 마, 다 잘 될 거야.",
+      "rejected": "너무 쓰레기장에 내려가 있지 마; 상황은 좋아질 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Trying to run a business with these regulations is like fighting with one hand tied behind my back.",
+      "chosen": "이런 규제 속에서 사업하라는 건, 손발 다 묶어놓고 싸우라는 거나 마찬가지야.",
+      "rejected": "이 규제들을 가지고 사업을 운영하려는 건 내 등 뒤로 한 손을 묶고 싸우는 것과 같아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "They expect us to win the competition with one hand tied behind our back due to budget cuts.",
+      "chosen": "예산 삭감 때문에 우리는 차 떼고 포 뗀 불리한 상황에서 경쟁해야 한다.",
+      "rejected": "그들은 예산 삭감 때문에 우리가 등 뒤로 한 손을 묶은 채 경쟁에서 이기길 기대해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "With inflation rising, I'm barely keeping my head above water.",
+      "chosen": "물가가 너무 올라서 입에 풀칠하기도 빠듯해.",
+      "rejected": "인플레이션이 오르면서, 나는 내 머리를 물 위에 간신히 유지하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Small businesses are struggling to keep their heads above water.",
+      "chosen": "소상공인들은 지금 빚더미에 앉지 않으려고 안간힘을 쓰고 있다.",
+      "rejected": "작은 사업들은 그들의 머리를 물 위에 유지하려고 고군분투하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That old laptop's days are numbered; it keeps crashing.",
+      "chosen": "저 오래된 노트북도 이제 수명이 다해 가나 봐, 계속 꺼지네.",
+      "rejected": "저 낡은 노트북의 날들은 숫자가 매겨졌어; 계속 충돌해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The dictator knows his days are numbered.",
+      "chosen": "독재자도 자신의 종말이 머지않았다는 걸 알고 있다.",
+      "rejected": "독재자는 그의 날들이 숫자가 매겨졌다는 걸 알고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be such a smart alec, nobody likes a know-it-all.",
+      "chosen": "혼자 다 아는 척 좀 하지 마, 그런 잘난 체는 아무도 안 좋아해.",
+      "rejected": "그런 똑똑한 알렉이 되지 마, 아무도 다 아는 체하는 사람을 좋아하지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He made a smart alec remark that annoyed everyone.",
+      "chosen": "걔가 건방지게 깐족거리는 바람에 다들 기분이 상했어.",
+      "rejected": "그는 모두를 짜증 나게 한 똑똑한 알렉 발언을 했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I have my fingers crossed for your exam results.",
+      "chosen": "너 시험 잘 보라고 내가 두 손 모아 빌고 있을게.",
+      "rejected": "나는 네 시험 결과를 위해 손가락을 꼬았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Let's keep our fingers crossed that it doesn't rain.",
+      "chosen": "비가 안 오기를 간절히 빌어보자.",
+      "rejected": "비가 안 오기를 손가락 꼬고 있자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Many New Year's resolutions fall by the wayside by February.",
+      "chosen": "새해 다짐들은 2월만 돼도 흐지부지되기 십상이지.",
+      "rejected": "많은 새해 결심들은 2월까지 길가에 떨어져."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Innovative ideas often fall by the wayside due to lack of funding.",
+      "chosen": "혁신적인 아이디어들도 자금 부족으로 빛을 못 보고 사라지는 경우가 많아.",
+      "rejected": "혁신적인 아이디어들은 자금 부족 때문에 종종 길가에 떨어져."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I've been out of circulation for a while due to the flu.",
+      "chosen": "독감 때문에 한동안 바깥출입을 통 못 했어.",
+      "rejected": "독감 때문에 한동안 유통에서 벗어나 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "After the scandal, the actor was out of circulation for years.",
+      "chosen": "스캔들 이후 그 배우는 몇 년간 두문불출하며 지냈다.",
+      "rejected": "스캔들 후에 그 배우는 몇 년 동안 유통에서 벗어나 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My mom gave me a scolding for coming home late.",
+      "chosen": "늦게 들어왔다고 엄마한테 등짝 스매싱 맞으며 혼났어.",
+      "rejected": "우리 엄마는 늦게 집에 왔다고 나에게 꾸지람을 주었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The teacher gave the student a scolding for cheating.",
+      "chosen": "선생님은 커닝한 학생을 호되게 꾸짖으셨다.",
+      "rejected": "선생님은 부정행위로 학생에게 꾸지람을 주었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I heard the pitter patter of rain on the window.",
+      "chosen": "창문에 빗방울이 토닥토닥 부딪히는 소리가 들렸다.",
+      "rejected": "나는 창문에 비의 피터 패터 소리를 들었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The pitter patter of little feet woke me up.",
+      "chosen": "아이들이 아장아장 뛰어다니는 발소리에 잠이 깼어.",
+      "rejected": "작은 발들의 피터 패터 소리가 나를 깨웠어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He thinks he's the fastest draw in the office when answering emails.",
+      "chosen": "걘 이메일 답장하는 속도가 사무실에서 자기가 제일 빠른 줄 알아(LTE급이야).",
+      "rejected": "그는 이메일에 답할 때 자기가 사무실에서 가장 빠른 그리기라고 생각해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You have to be the fastest draw to get concert tickets.",
+      "chosen": "콘서트 티켓 잡으려면 손이 보이지 않을 정도로 빨라야 해.",
+      "rejected": "콘서트 티켓을 얻으려면 가장 빠른 그리기가 되어야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We discussed marketing strategies, budget allocation, and so forth.",
+      "chosen": "우리는 마케팅 전략이랑 예산 배분, 뭐 그런 것들을 논의했어.",
+      "rejected": "우리는 마케팅 전략, 예산 할당, 그리고 등등을 논의했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She packed clothes, shoes, makeup, and so forth.",
+      "chosen": "그녀는 옷이랑 신발, 화장품 등등 이것저것 챙겼다.",
+      "rejected": "그녀는 옷, 신발, 화장품, 그리고 등등을 챙겼어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "When it comes to cooking, nobody beats my grandmother.",
+      "chosen": "요리에 관해서라면 우리 할머니를 따라올 자가 없지.",
+      "rejected": "요리에 오면, 아무도 우리 할머니를 이기지 못해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is very shy, but when it comes to soccer, he's passionate.",
+      "chosen": "평소엔 수줍음이 많은데, 축구 얘기만 나오면 사람이 달라져.",
+      "rejected": "그는 매우 수줍어하지만, 축구에 오면 열정적이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I hope everything works out for you.",
+      "chosen": "모든 일이 다 술술 잘 풀리길 바랄게.",
+      "rejected": "모든 게 너를 위해 운동하길 바라."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If the plan doesn't work out, we need a backup.",
+      "chosen": "계획대로 안 되면(틀어지면), 플랜 B가 필요해.",
+      "rejected": "계획이 운동하지 않으면, 우리는 백업이 필요해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't give in to peer pressure.",
+      "chosen": "친구들이 하란다고 휩쓸려서 하지 마.",
+      "rejected": "동료 압력에 주지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I finally gave in to my craving and ate the cake.",
+      "chosen": "결국 식욕을 못 이기고 케이크를 먹어버렸어.",
+      "rejected": "나는 마침내 내 갈망에 주었고 케이크를 먹었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Life will return to normal eventually.",
+      "chosen": "결국 일상은 다시 제자리를 찾을 거야.",
+      "rejected": "삶은 결국 정상으로 돌아갈 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Once the repairs are done, services will return to normal.",
+      "chosen": "수리가 끝나면 서비스가 정상화될 겁니다.",
+      "rejected": "수리가 완료되면, 서비스는 정상으로 돌아갈 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "What with the traffic and the rain, I was late.",
+      "chosen": "차도 막히고 비도 오고 해서(이래저래 해서) 늦었어.",
+      "rejected": "교통과 비와 함께 무엇으로, 나는 늦었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm exhausted, what with work and the kids.",
+      "chosen": "일하랴 애보랴 정신이 하나도 없어서 녹초가 됐어.",
+      "rejected": "나는 지쳤어, 일과 아이들과 함께 무엇으로."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I want that promise in writing.",
+      "chosen": "그 약속 말로만 하지 말고 각서라도 써 줘(문서로 남겨).",
+      "rejected": "나는 그 약속을 쓰기 안에서 원해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Please submit your resignation in writing.",
+      "chosen": "사직서는 서면으로 제출해 주세요.",
+      "rejected": "사직서를 쓰기 안에서 제출해 주세요."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I am becoming exasperated with his constant complaints.",
+      "chosen": "맨날 불평만 해대는 걔한테 이제 슬슬 진절머리가 나.",
+      "rejected": "나는 그의 끊임없는 불평으로 격분하게 되고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She was exasperated with the delay.",
+      "chosen": "그녀는 지연되는 상황에 속이 터질 지경이었다.",
+      "rejected": "그녀는 지연으로 격분했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You should have regard to the feelings of others.",
+      "chosen": "남의 기분도 좀 생각하면서(눈치 좀 보면서) 행동해.",
+      "rejected": "너는 다른 사람들의 감정에 존경을 가져야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Decisions must have regard to the budget.",
+      "chosen": "예산 사정을 고려해서 결정해야 한다.",
+      "rejected": "결정들은 예산에 존경을 가져야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Security was tightened after the breach, but it needs to be strengthened again.",
+      "chosen": "침해 사고 이후 보안을 강화했지만, 다시 한번 빗장을 걸어 잠가야 해.",
+      "rejected": "보안은 침해 후에 조여졌지만, 다시 강화될 필요가 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His resolve was strengthened again after hearing the news.",
+      "chosen": "소식을 듣고 그의 의지는 다시금 불타올랐다.",
+      "rejected": "뉴스를 들은 후 그의 결의는 다시 강화되었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Our team is currently in the lead.",
+      "chosen": "우리 팀이 지금 선두를 달리고 있어.",
+      "rejected": "우리 팀은 현재 리드 안에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She is in the lead for the promotion.",
+      "chosen": "승진 경쟁에서 그녀가 가장 앞서나가고 있지.",
+      "rejected": "그녀는 승진을 위해 리드 안에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't talk about me behind my back.",
+      "chosen": "내 등 뒤에서 씹지 마(뒷담화하지 마).",
+      "rejected": "내 등 뒤에서 나에 대해 말하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He made the deal behind his partner's back.",
+      "chosen": "그는 파트너 몰래 계약을 체결했어.",
+      "rejected": "그는 그의 파트너의 등 뒤에서 거래를 했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Everything I tell him goes in one ear and out the other.",
+      "chosen": "내가 무슨 말을 해도 걘 한 귀로 듣고 한 귀로 흘려버려.",
+      "rejected": "내가 그에게 말하는 모든 건 한쪽 귀로 들어가서 다른 쪽으로 나와."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Her advice just went in one ear and out the other.",
+      "chosen": "그녀의 조언은 그냥 쇠귀에 경 읽기였어.",
+      "rejected": "그녀의 조언은 그냥 한쪽 귀로 들어가서 다른 쪽으로 나왔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He threw his colleague under the bus to get a promotion.",
+      "chosen": "승진하려고 동료를 제물로 바쳤어(팔아먹었어).",
+      "rejected": "그는 승진하기 위해 그의 동료를 버스 아래로 던졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't throw me under the bus when the boss asks what happened.",
+      "chosen": "사장님이 물어볼 때 나한테 다 뒤집어씌우지 마.",
+      "rejected": "상사가 무슨 일이 있었냐고 물을 때 나를 버스 아래로 던지지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I was going to ask her out, but I got cold feet.",
+      "chosen": "데이트 신청하려고 했는데, 막판에 쫄아서 못 했어.",
+      "rejected": "그녀에게 데이트 신청을 하려고 했지만, 나는 차가운 발을 가졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The investor got cold feet and pulled out.",
+      "chosen": "투자자가 겁을 먹고(발을 빼고) 투자를 철회했어.",
+      "rejected": "투자자가 차가운 발을 가졌고 철수했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm just playing devil's advocate to help us prepare.",
+      "chosen": "우리 대비 잘하라고 내가 일부러 딴지 걸어보는 거야(악역을 자처하는 거야).",
+      "rejected": "우리가 준비하는 걸 돕기 위해 나는 단지 악마의 변호인을 연기하고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He loves to play devil's advocate in debates.",
+      "chosen": "걘 토론할 때 청개구리처럼 반대편 드는 걸 좋아해.",
+      "rejected": "그는 토론에서 악마의 변호인을 연기하는 걸 좋아해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "That song rings a bell, but I can't name it.",
+      "chosen": "그 노래 멜로디가 낯이 익은데 제목이 생각이 안 나.",
+      "rejected": "그 노래는 종을 울리지만, 이름을 댈 수 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Does the address ring a bell?",
+      "chosen": "이 주소 어디서 본 것 같지 않아?",
+      "rejected": "그 주소가 종을 울리니?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We need to make sure we are on the same page before the presentation.",
+      "chosen": "발표 전에 우리 손발부터 좀 맞추자(의견 통일하자).",
+      "rejected": "프레젠테이션 전에 우리가 같은 페이지 위에 있는지 확실히 해야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Luckily, my partner and I are on the same page about finances.",
+      "chosen": "다행히 돈 문제에 있어서는 나랑 파트너랑 쿵짝이 잘 맞아.",
+      "rejected": "다행히, 내 파트너와 나는 재정에 대해 같은 페이지 위에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Our holiday plans are still up in the air.",
+      "chosen": "휴가 계획은 아직 오리무중이야(미정이야).",
+      "rejected": "우리 휴가 계획은 여전히 공중에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The future of the project is up in the air.",
+      "chosen": "프로젝트의 미래가 불투명해졌어.",
+      "rejected": "프로젝트의 미래는 공중에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Keep me in the loop on any developments.",
+      "chosen": "진전 상황 있으면 나한테도 계속 공유해 줘.",
+      "rejected": "어떤 발전 사항에 대해서도 나를 고리 안에 유지해 줘."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I felt left out because nobody kept me in the loop.",
+      "chosen": "아무도 나한테 언질을 안 줘서 왕따 된 기분이었어.",
+      "rejected": "아무도 나를 고리 안에 유지하지 않아서 소외감을 느꼈어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This new battery technology is a game changer.",
+      "chosen": "이 배터리 기술은 업계의 판도를 뒤집어 놓을 거야.",
+      "rejected": "이 새로운 배터리 기술은 게임 교환기야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The substitute player was a game changer for the match.",
+      "chosen": "교체 선수가 경기의 흐름을 완전히 바꿔놓은 신의 한 수였어.",
+      "rejected": "교체 선수는 경기를 위한 게임 교환기였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Taking that job offer was a no-brainer.",
+      "chosen": "그 일자리 수락하는 건 고민할 필요도 없는 일이었지.",
+      "rejected": "그 일자리 제안을 받아들이는 건 뇌 없음이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's a no-brainer that we should save money.",
+      "chosen": "돈 아껴야 하는 건 척하면 삼천리지(당연한 거지).",
+      "rejected": "우리가 돈을 절약해야 한다는 건 뇌 없음이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Never burn bridges with your former employers.",
+      "chosen": "전 직장 상사들이랑 척지고 나오지 마, 세상 좁다.",
+      "rejected": "전 고용주들과 절대 다리를 태우지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I think I burned my bridges with that rude comment.",
+      "chosen": "그 막말 때문에 걔랑은 이제 건널 수 없는 강을 건넌 것 같아.",
+      "rejected": "그 무례한 댓글로 내 다리를 태운 것 같아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm busy now, can I take a rain check?",
+      "chosen": "지금 좀 바쁜데, 우리 약속 다음에 잡으면 안 될까?",
+      "rejected": "지금 바쁜데, 비 올 때 쓰는 수표를 받아도 될까?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He took a rain check on the invitation.",
+      "chosen": "그는 초대를 정중히 다음으로 미뤘어.",
+      "rejected": "그는 초대에 대해 비 올 때 쓰는 수표를 받았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "A good rule of thumb is to drink 8 glasses of water a day.",
+      "chosen": "하루 물 8잔 마시는 게 건강의 정석(국룰)이라잖아.",
+      "rejected": "좋은 엄지손가락의 규칙은 하루에 물 8잔을 마시는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "As a rule of thumb, plant seeds in spring.",
+      "chosen": "보통 봄에 씨를 뿌리는 게 일반적인 상식이지.",
+      "rejected": "엄지손가락의 규칙으로서, 봄에 씨앗을 심어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I stopped drinking coffee cold turkey.",
+      "chosen": "나 커피 그냥 칼같이 끊어버렸어.",
+      "rejected": "나는 차가운 칠면조로 커피 마시는 걸 멈췄어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Trying to quit gambling cold turkey is hard.",
+      "chosen": "도박을 단번에 끊는 건 뼈를 깎는 고통이지.",
+      "rejected": "도박을 차가운 칠면조로 끊으려고 노력하는 건 힘들어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Let's cut to the chase: how much?",
+      "chosen": "거두절미하고, 그래서 얼마예요?",
+      "rejected": "추격전을 편집하자(자르자): 얼마야?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop rambling and cut to the chase.",
+      "chosen": "횡설수설하지 말고 본론만 딱 말해.",
+      "rejected": "횡설수설 멈추고 추격전을 편집해(잘라)."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I wanted to marry her, but that ship has sailed.",
+      "chosen": "그녀랑 결혼하고 싶었지만, 이미 버스는 떠났어.",
+      "rejected": "그녀와 결혼하고 싶었지만, 그 배는 항해를 떠났어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Is it too late to apply? Yes, that ship has sailed.",
+      "chosen": "지원하기엔 너무 늦었나요? 네, 기회는 이미 날아갔어요.",
+      "rejected": "지원하기에 너무 늦었나요? 네, 그 배는 항해를 떠났어요."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm caught between a rock and a hard place regarding the layoffs.",
+      "chosen": "해고 문제 때문에 이러지도 저러지도 못하고 죽을 맛이야.",
+      "rejected": "해고에 관해서 바위와 딱딱한 장소 사이에 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is caught between a rock and a hard place with his parents' divorce.",
+      "chosen": "부모님 이혼 사이에서 걔는 진짜 진퇴양난인 상황이지.",
+      "rejected": "그는 부모님의 이혼과 함께 바위와 딱딱한 장소 사이에 잡혔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Speak of the devil, John just walked in.",
+      "chosen": "호랑이도 제 말 하면 온다더니, 존이 막 들어오네.",
+      "rejected": "악마를 말하니까, 존이 방금 걸어 들어왔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We were just talking about you! Speak of the devil.",
+      "chosen": "너 얘기하고 있었는데! 양반은 못 되네.",
+      "rejected": "우리 방금 네 얘기 하고 있었어! 악마를 말하다."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My father and I don't see eye to eye on politics.",
+      "chosen": "아빠랑 나는 정치 성향이 완전 쥐약이야(안 맞아).",
+      "rejected": "우리 아버지와 나는 정치에 대해 눈 대 눈으로 보지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "They finally saw eye to eye on the contract terms.",
+      "chosen": "그들은 드디어 계약 조건에 합의를 봤어.",
+      "rejected": "그들은 마침내 계약 조건에 대해 눈 대 눈으로 봤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We've been working for 12 hours, let's call it a day.",
+      "chosen": "12시간이나 일했어, 오늘은 이만 시마이하자(접자).",
+      "rejected": "우리는 12시간 동안 일했어, 그것을 '하루'라고 부르자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm tired, I'm going to call it a day.",
+      "chosen": "나 너무 피곤해서 오늘은 이만 퇴근할래.",
+      "rejected": "나는 피곤해, 나는 그것을 '하루'라고 부를 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The company managed to weather the storm during the recession.",
+      "chosen": "회사는 불경기라는 폭풍우를 용케 잘 버텨냈다.",
+      "rejected": "회사는 경기 침체 동안 폭풍을 날씨하는 걸 관리했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We stick together to weather the storm.",
+      "chosen": "우리는 이 난관을 헤쳐 나가기 위해 똘똘 뭉쳐야 해.",
+      "rejected": "우리는 폭풍을 날씨하기 위해 함께 붙어 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Driving is hard at first, but you'll get the hang of it.",
+      "chosen": "운전 처음엔 어렵지만, 하다 보면 감 잡을 거야.",
+      "rejected": "운전은 처음엔 어렵지만, 너는 그것의 매달림을 얻게 될 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It took me a while to get the hang of this game.",
+      "chosen": "이 게임 요령 터득하는 데 시간 좀 걸렸어.",
+      "rejected": "이 게임의 매달림을 얻는 데 시간이 좀 걸렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She stole my thunder by announcing her engagement at my party.",
+      "chosen": "내 파티에서 약혼 발표를 해서 내 관심을 다 뺏어가 버렸어.",
+      "rejected": "그녀는 내 파티에서 그녀의 약혼을 발표함으로써 내 천둥을 훔쳤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't mention your news yet, you'll steal the bride's thunder.",
+      "chosen": "아직 네 소식 말하지 마, 신부 들러리 만들 일 있니?",
+      "rejected": "아직 네 소식을 언급하지 마, 너는 신부의 천둥을 훔칠 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The missing money is just the tip of the iceberg.",
+      "chosen": "없어진 돈은 빙산의 일각일 뿐이야, 더 큰 게 있어.",
+      "rejected": "사라진 돈은 그저 빙산의 끝일 뿐이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "These complaints are only the tip of the iceberg.",
+      "chosen": "이 불만들은 겉으로 드러난 문제일 뿐이야(새 발의 피야).",
+      "rejected": "이 불만들은 오직 빙산의 끝이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He doesn't understand poverty; he was born with a silver spoon.",
+      "chosen": "걘 가난이 뭔지 몰라, 금수저 물고 태어났거든.",
+      "rejected": "그는 가난을 이해 못 해; 그는 은수저를 가지고 태어났어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She works hard even though she was born with a silver spoon.",
+      "chosen": "그녀는 금수저인데도 일을 정말 열심히 해.",
+      "rejected": "그녀는 은수저를 가지고 태어났음에도 불구하고 열심히 일해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "People were whispering about me in my absence — smiling to my face of course — but whispering behind my back.",
+      "chosen": "앞에서는 웃고 뒤에서는 나를 씹고 다니더라. 내 앞에선 당연히 '스마일' 모드였겠지만.",
+      "rejected": "사람들은 내가 없을 때 나에 대해 속삭이고 있었어 — 물론 내 얼굴에는 미소를 지으면서 — 하지만 내 등 뒤에서 속삭였어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop whispering behind my back and say it to my face.",
+      "chosen": "내 뒤에서 호박씨 그만 까고 할 말 있으면 앞에서 해.",
+      "rejected": "내 등 뒤에서 속삭이는 거 멈추고 내 얼굴에 대고 말해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I knew they were whispering behind my back about my outfit.",
+      "chosen": "걔네 내 옷차림 보고 뒤에서 수군대고(뒷말하고) 있는 거 다 알고 있었어.",
+      "rejected": "나는 그들이 내 의상에 대해 내 등 뒤에서 속삭이고 있다는 걸 알았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "In my absence he was singing my praises.",
+      "chosen": "나 없으니까 아주 나를 찬양하고 난리가 났던데?",
+      "rejected": "내가 없을 때 그는 나의 찬송가를 부르고 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My boss is singing my praises to the CEO.",
+      "chosen": "부장님이 대표님한테 내 칭찬을 아주 침이 마르도록 하고 계셔(용비어천가 부르시네).",
+      "rejected": "내 상사는 CEO에게 나의 찬송가를 부르고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't trust him even if he is singing your praises.",
+      "chosen": "그가 널 비행기 태워줘도 절대 믿지 마.",
+      "rejected": "그가 너의 찬송가를 부르고 있어도 그를 믿지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If the government's hands were clean, why did it insist on hiding them BEHIND ITS BACK?",
+      "chosen": "정부가 진짜 찔리는 거 없다면, 왜 굳이 뒤에서 헛짓거리 하려고 했겠냐?",
+      "rejected": "정부의 손이 깨끗했다면, 왜 그것들을 등 뒤에 숨기기를 고집했을까?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is definitely hiding something behind his back.",
+      "chosen": "쟤 분명 뒤에서 뭔가 구린 짓(호박씨) 하고 있어.",
+      "rejected": "그는 분명히 그의 등 뒤에 무언가를 숨기고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't act innocent while hiding the truth behind your back.",
+      "chosen": "뒤로는 딴주머니 차면서 앞에서 깨끗한 척하지 마.",
+      "rejected": "진실을 네 등 뒤에 숨기면서 결백한 척하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "In their absence, the dealer would call his clients \"suckers\", saying: \"There's one born every minute\".",
+      "chosen": "고객들 없을 때 딜러는 걔네를 '흑우' 취급하면서 말했지. \"세상에 널린 게 호구들인데 뭐.\"",
+      "rejected": "그들이 없을 때, 딜러는 그의 고객들을 \"빨판들\"이라고 부르며 말하곤 했어: \"매분마다 하나씩 태어나.\""
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I felt like a total sucker for buying that.",
+      "chosen": "그거 사고 나서 완전 호갱(호구) 된 기분이었어.",
+      "rejected": "그걸 사고 나서 완전 빨판이 된 기분이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't be a sucker, check the price first.",
+      "chosen": "눈탱이 맞지 말고 가격부터 확인해.",
+      "rejected": "빨판이 되지 마, 가격을 먼저 확인해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She had once explained that slaughtering animals secretly... was simply cheating a little and not really stealing at all.",
+      "chosen": "몰래 도축하는 거? 도둑질은 아니고 그냥 살짝 '꼼수' 좀 부린 거라고 쉴드 치더라.",
+      "rejected": "그녀는 동물들을 비밀리에 도축하는 것이... 단순히 조금 속이는 것이고 전혀 훔치는 게 아니라고 설명했었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm not cheating, just cheating a little to win.",
+      "chosen": "사기 치는 거 아냐, 이기려고 살짝 야매(편법) 쓴 거지.",
+      "rejected": "나는 속이는 게 아니야, 이기기 위해 조금 속이는 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Everyone is cheating a little on their taxes.",
+      "chosen": "다들 세금 낼 때 알게 모르게 꼼수 좀 부리잖아.",
+      "rejected": "모두가 세금에 대해 조금 속이고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "STUART COSGROVE... now a key figure in independent TV production and a world expert on drugs.",
+      "chosen": "스튜어트 코스그로브... 이제 독립 TV 판의 '네임드'이자 마약 분야 '1타 강사' 되셨지.",
+      "rejected": "스튜어트 코스그로브... 이제 독립 TV 제작의 열쇠 인물이자 마약에 대한 세계 전문가."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He became a key figure in the gaming industry.",
+      "chosen": "그는 게임 업계의 거물(고인물)이 되었어.",
+      "rejected": "그는 게임 산업의 열쇠 인물이 되었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "As a world expert, his opinion matters.",
+      "chosen": "이 바닥 '본좌'로서 그의 의견은 중요하지.",
+      "rejected": "세계 전문가로서, 그의 의견은 중요해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "So get back to work... work tirelessly, slog on when I'm asleep...",
+      "chosen": "그러니 가서 일해... 나 잘 때도, 몸 갈아서 '풀야근' 뛰라고...",
+      "rejected": "그러니 일하러 돌아가... 지칠 줄 모르고 일해, 내가 잠들었을 때 계속 강타해..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We have to slog on to meet the deadline.",
+      "chosen": "마감 맞추려면 뼈 빠지게 굴러야 해.",
+      "rejected": "우리는 마감일을 맞추기 위해 계속 강타해야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop complaining and slog on.",
+      "chosen": "징징대지 말고 가서 일이나 해(삽질이나 계속해).",
+      "rejected": "불평 그만하고 계속 강타해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Whether it's you or one of your kith and kin who's been too clever for their own good you can be very certain it will end in tears.",
+      "chosen": "너든 네 지인이든 똑똑한 척하면서 뇌절하다가는, 결국 '나락' 가고 즙 짜게 될 거다. 이건 팩트야.",
+      "rejected": "너든 너의 일가친척 중 한 명이든 그들 자신의 이익을 위해 너무 똑똑하게 굴었다면, 그것이 눈물로 끝날 것이라고 매우 확신할 수 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't try to be too clever, it will end in tears.",
+      "chosen": "잔머리 굴리다가는 피눈물 쏟을 줄 알아.",
+      "rejected": "너무 똑똑하려고 하지 마, 그건 눈물로 끝날 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His scheme was too clever and ended in tears.",
+      "chosen": "걔 꼼수가 도를 넘더니(뇌절하더니) 결국 결말이 폭망이었지.",
+      "rejected": "그의 계획은 너무 똑똑했고 눈물로 끝났어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Backstage they were all screaming at Gesner; Stefan — ‘You do that again and I will stop the whole thing’...",
+      "chosen": "백스테이지 난리 남. 스테판이 게스너한테 소리치더라. \"너 한 번만 더 그따위로 하면 내가 이 판 그냥 엎어버린다(파토 낸다).\"",
+      "rejected": "무대 뒤에서 그들은 모두 게스너에게 소리 지르고 있었어; 스테판 — '너 그거 다시 하면 내가 전체를 멈출 거야'..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm going to stop the whole thing if you don't listen.",
+      "chosen": "너 내 말 안 들으면 다 때려치울 거야(셔터 내릴 거야).",
+      "rejected": "네가 듣지 않으면 난 전체를 멈출 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "They decided to stop the whole thing due to lack of funds.",
+      "chosen": "돈 없어서 그냥 프로젝트 접기로(시마이하기로) 했대.",
+      "rejected": "그들은 자금 부족 때문에 전체를 멈추기로 결정했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His audience might soon start to think: ‘Yes, it might not be a bad idea if old BIG HEAD did hang up his boots.’",
+      "chosen": "팬들은 곧 이렇게 생각할걸? '그래, 저 꼰대 형 이제 그만 손 털고 나가는(은퇴하는) 것도 나쁘지 않겠어.'",
+      "rejected": "그의 관객들은 곧 생각하기 시작할지도 몰라: '그래, 늙은 큰 머리가 그의 부츠를 걸어두는 것도 나쁜 생각은 아닐 거야.'"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He got a big head after winning once.",
+      "chosen": "한 번 이기더니 어깨 뽕이 하늘을 찌르네(자뻑이 심하네).",
+      "rejected": "한 번 이긴 후에 그는 큰 머리를 얻었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Time to hang up your boots and relax.",
+      "chosen": "이제 그만 은퇴하고(물러나고) 좀 쉬시지.",
+      "rejected": "너의 부츠를 걸어두고 쉴 시간이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "When Swindon first played Tranmere... a power surge sent the sparks flying, BLEW A FUSE box.",
+      "chosen": "스윈던 경기 때... 상황 개판 되고 다들 급발진해서 극대노함.",
+      "rejected": "스윈던이 처음 트랜미어와 경기했을 때... 전력 급증이 불꽃을 날렸고, 퓨즈 박스를 불었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My dad blew a fuse when he saw the bill.",
+      "chosen": "아빠가 청구서 보더니 뚜껑 제대로 열리셨어.",
+      "rejected": "아빠는 청구서를 봤을 때 퓨즈를 불었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't blow a fuse over a small mistake.",
+      "chosen": "별거 아닌 실수에 급발진 좀 하지 마.",
+      "rejected": "작은 실수에 대해 퓨즈를 불지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "BITING HER LIP, Ruth tightened her arms about his neck and buried her face in his shoulder.",
+      "chosen": "목끝까지 차오르는 거 이 악물고 참으면서(입 꾹 닫고), 루스는 남친 목 끌어안고 어깨에 얼굴을 파묻었어.",
+      "rejected": "그녀의 입술을 물며, 루스는 그의 목 주위에 팔을 조이고 그의 어깨에 얼굴을 묻었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I was biting my lip not to laugh.",
+      "chosen": "나 웃음 참느라 입술 꽉 깨물고 버텼어.",
+      "rejected": "나는 웃지 않으려고 내 입술을 물고 있었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Instead of arguing, she just bit her lip.",
+      "chosen": "싸우는 대신 그녀는 그냥 꾹 참았어(할많하않 했어).",
+      "rejected": "논쟁하는 대신, 그녀는 그냥 입술을 물었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Another past champion graphically described this as the moment when the golfer loses consciousness (BLACKS OUT)...",
+      "chosen": "또 다른 전 챔피언은 이 순간을 골퍼가 '졸도'해서(필름 끊겨서) 퍼터 잡은 줄도 모르는 상태라고 썰을 풀었지.",
+      "rejected": "또 다른 과거 챔피언은 이것을 골퍼가 의식을 잃는(검게 되는) 순간으로 생생하게 묘사했어..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I drank too much and blacked out.",
+      "chosen": "나 너무 많이 마셔서 필름 끊겼어(기억 삭제됐어).",
+      "rejected": "나는 너무 많이 마셔서 검게 되었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He blacked out from the shock.",
+      "chosen": "그는 충격받고 뒷목 잡고 쓰러졌어.",
+      "rejected": "그는 충격으로 검게 되었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Pub landlord John Payne... joined a dozen regulars for the trip to the BLACK SHEEP Brewery.",
+      "chosen": "술집 사장 존 페인은... 단골 팟 꾸려서 '빌런' 양조장으로 원정 떠남.",
+      "rejected": "펍 주인 존 페인은... 검은 양 양조장으로 가는 여행을 위해 12명의 단골과 합류했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'm the black sheep of the family.",
+      "chosen": "내가 우리 집안의 돌연변이(내놓은 자식)야.",
+      "rejected": "나는 가족의 검은 양이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Every team has a black sheep.",
+      "chosen": "어느 팀이나 꼭 트롤(구멍) 하나씩은 있더라.",
+      "rejected": "모든 팀에는 검은 양이 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I watched that for a change last night cos we watch BLIND DATE.",
+      "chosen": "어젯밤엔 기분 전환으로 그거 봤어. 우리 원래 '나는 솔로' 같은 짝짓기 예능 환장하잖아.",
+      "rejected": "어젯밤에는 기분 전환으로 그걸 봤어 왜냐하면 우리는 눈먼 날짜를 보니까."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Going on a blind date is so awkward.",
+      "chosen": "소개팅 나가는 거 진짜 어색해 죽겠어.",
+      "rejected": "눈먼 날짜에 가는 건 너무 어색해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "My friends set me up on a blind date.",
+      "chosen": "친구들이 나 소개팅 시켜줬어(자만추는 글렀어).",
+      "rejected": "내 친구들이 나를 눈먼 날짜에 설정했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He told Pat... ‘I'm not going to put forth a great deal of effort (BREAK MY BACK) eight times a week in the theatre.’",
+      "chosen": "그는 팻한테 못 박았지. '나 극장에서 주 8회나 몸 갈려 나가면서(등골 빠지게) 공연 안 할 거야.'",
+      "rejected": "그는 팻에게 말했어... '나는 극장에서 일주일에 여덟 번 엄청난 노력(내 등을 부러뜨리기)을 하지 않을 거야.'"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I broke my back to finish this project.",
+      "chosen": "이 프로젝트 끝내느라 진짜 뼈를 갈아 넣었어.",
+      "rejected": "이 프로젝트를 끝내기 위해 내 등을 부러뜨렸어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't break your back for a job that doesn't appreciate you.",
+      "chosen": "너 인정도 안 해주는 회사에 목숨 걸지(등골 빼먹히지) 마.",
+      "rejected": "너를 감사하지 않는 직업을 위해 네 등을 부러뜨리지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Mounting an assault that literally BROUGHT HIM TO HIS KNEES, in fear for his balls.",
+      "chosen": "급소 털릴까 봐 벌벌 떨게 만들며, 말 그대로 무릎 꿇고 빌게 만드는 참교육을 시전했다.",
+      "rejected": "그의 공들에 대한 두려움 속에, 말 그대로 그를 그의 무릎으로 데려온 공격을 시작하며."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The sanctions brought the country to its knees.",
+      "chosen": "제재 때문에 그 나라는 완전히 두 손 두 발 다 들었어.",
+      "rejected": "제재는 그 나라를 그것의 무릎으로 데려왔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I will bring him to his knees.",
+      "chosen": "내가 걔 아주 납작 엎드리게 만들어 줄 거야.",
+      "rejected": "나는 그를 그의 무릎으로 데려올 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Highly suspicious of Japan's motives... referring to their militarism and ability to reduce china to a position of submission.",
+      "chosen": "일본 걔네 군국주의 부심 부리면서 중국 참교육하려던(굴복시키려던) 거 언급하면서... 의도가 아주 수상하다고 했지.",
+      "rejected": "일본의 동기를 매우 의심하며... 그들의 군국주의와 중국을 제출의 위치로 줄이는 능력을 언급하며."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He was forced into a position of submission.",
+      "chosen": "그는 어쩔 수 없이 깨갱하고 꼬리를 내렸어.",
+      "rejected": "그는 제출의 위치로 강요당했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "They want to keep us in a position of submission.",
+      "chosen": "그들은 우리가 영원히 설설 기기를 원해.",
+      "rejected": "그들은 우리를 제출의 위치에 유지하고 싶어 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's all right to BUILD BRIDGES with South Africa, but if bridges are falling down in Wales something must be done about it.",
+      "chosen": "남아공이랑 '친목질' 하는 건 좋은데, 웨일스 다리 무너지는 건 어쩔? 대책 좀 세워야지.",
+      "rejected": "남아프리카와 다리를 짓는 건 괜찮지만, 웨일스에서 다리가 무너지고 있다면 무언가 행해져야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He's trying to build bridges with the new team.",
+      "chosen": "그는 새 팀이랑 라인 좀 타보려고(친해지려고) 노력 중이야.",
+      "rejected": "그는 새 팀과 다리를 지으려고 노력 중이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Building bridges is better than burning them.",
+      "chosen": "척지는 것보단 친목질(인맥 관리) 하는 게 낫지.",
+      "rejected": "다리를 짓는 게 태우는 것보다 나아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "God — sniff — he dashed down and BURNT HIS FINGERS yanking the smoking toast from under the grill.",
+      "chosen": "맙소사... 걔 그릴에서 연기 나는 토스트 꺼내려다 손 제대로 피 봤어(데였어). ㅠㅠ",
+      "rejected": "신이시여 — 훌쩍 — 그는 아래로 돌진했고 그릴 아래에서 연기 나는 토스트를 잡아당기다가 그의 손가락을 태웠어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I burnt my fingers investing in that stock.",
+      "chosen": "나 그 주식 샀다가 아주 쓴맛을 제대로 봤어.",
+      "rejected": "나는 그 주식에 투자하다가 내 손가락을 태웠어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If you play with fire, you'll burn your fingers.",
+      "chosen": "위험한 짓 하다가 골로 간다(큰코다친다).",
+      "rejected": "불장난하면, 손가락을 태울 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I mean, he was saying to Caroline, 'she'd BRING SOMETHING TO THE TABLE and I'd have to ask what it was.",
+      "chosen": "내 말은, 걔가 캐롤라인한테 '그녀도 뭔가 캐리하는 게(밥값 하는 게) 있겠지, 그게 뭔진 물어봐야 알겠지만' 이러고 있었다니까.",
+      "rejected": "내 뜻은, 그가 캐롤라인에게 말하고 있었어, '그녀는 테이블에 무언가를 가져올 거고 나는 그게 뭔지 물어봐야 할 거야.'"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "What do you bring to the table?",
+      "chosen": "넌 우리 팀에서 무슨 버스 태워줄 수 있는데? (기여할 수 있는데?)",
+      "rejected": "너는 테이블에 무엇을 가져오니?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He brings experience to the table.",
+      "chosen": "그는 짬바(경력)가 있어서 1인분은 해.",
+      "rejected": "그는 경험을 테이블로 가져와."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "But as you are determined to live it up and have a good time, you must watch your health...",
+      "chosen": "하지만 네가 기어코 '플렉스' 하면서 인생 즐겜 모드로 살 거면, 건강은 좀 챙겨라...",
+      "rejected": "하지만 네가 그것을 위로 살고 좋은 시간을 보내기로 결심했으니, 너는 건강을 지켜봐야 해..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "They went to Vegas to live it up.",
+      "chosen": "걔네 베가스 가서 흥청망청(플렉스) 하러 갔어.",
+      "rejected": "그들은 그것을 위로 살기 위해 베가스로 갔어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Live it up while you can.",
+      "chosen": "즐길 수 있을 때 즐겨(욜로 해).",
+      "rejected": "할 수 있을 때 그것을 위로 살아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "After the race, the two men met and sensibly made peace.",
+      "chosen": "경기 끝나고 두 남자 만나서 센스 있게 쿨하게 풀었음(화해했음).",
+      "rejected": "경주 후, 두 남자는 만났고 현명하게 평화를 만들었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You two need to make peace.",
+      "chosen": "니네 둘 이제 그만 쇼부 보고 화해해.",
+      "rejected": "너희 둘은 평화를 만들어야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I made peace with my past.",
+      "chosen": "난 내 과거랑 쿨하게 작별했어(정리했어).",
+      "rejected": "나는 내 과거와 평화를 만들었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Scotland were not short of pluck... but it was still business as usual Down Under...",
+      "chosen": "스코틀랜드 깡은 좋았는데, 호주 원정 결과는 뭐 늘 그렇듯 '사이언스'이었지(뻔했지).",
+      "rejected": "스코틀랜드는 용기가 부족하지 않았어... 하지만 지구 반대편에서는 여전히 평소와 같은 사업이었어..."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "It's business as usual for the corrupt politician.",
+      "chosen": "그 부패 정치인한테는 그게 국룰(일상)이야.",
+      "rejected": "부패한 정치인에게는 평소와 같은 사업이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Despite the fire, it was business as usual.",
+      "chosen": "불이 났는데도 영업은 '정상 영업'합니다.",
+      "rejected": "화재에도 불구하고, 평소와 같은 사업이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "If you do not toe the line they quickly reduce you to a position of submission with a few sharp, salutary lessons.",
+      "chosen": "눈치 안 챙기고(줄 안 서고) 개기면, 바로 매운맛 보여주면서 납작 엎드리게 만들걸?",
+      "rejected": "만약 네가 그 선에 발가락을 대지 않으면 그들은 몇 가지 날카롭고 유익한 교훈으로 너를 제출의 위치로 빠르게 줄일 거야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You have to toe the line to survive here.",
+      "chosen": "여기서 살아남으려면 까라면 까야 해(줄 잘 서야 해).",
+      "rejected": "여기서 살아남으려면 선에 발가락을 대야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He refused to toe the line.",
+      "chosen": "그는 시키는 대로 하기 싫다고 들이받았어.",
+      "rejected": "그는 선에 발가락을 대기를 거부했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "This exam was a piece of cake.",
+      "chosen": "이번 시험은 누워서 떡 먹기(식은 죽 먹기)였어.",
+      "rejected": "이 시험은 케이크 한 조각이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't worry, fixing this bug is a piece of cake.",
+      "chosen": "걱정 마, 이 버그 고치는 건 일도 아니야(껌이야).",
+      "rejected": "걱정 마, 이 버그 고치는 건 케이크 한 조각이야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Winning the match was a piece of cake for them.",
+      "chosen": "그 경기 이기는 건 그들한테 땅 짚고 헤엄치기였지.",
+      "rejected": "경기를 이기는 건 그들에게 케이크 한 조각이었어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I tried to break the ice with a joke.",
+      "chosen": "난 농담으로 어색한 분위기를 좀 깨보려고(아이스브레이킹 하려고) 했어.",
+      "rejected": "나는 농담으로 얼음을 깨려고 노력했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Playing a game helped break the ice among the new employees.",
+      "chosen": "게임을 하니까 신입 사원들끼리 서먹한 게 좀 풀렸어.",
+      "rejected": "게임을 하는 건 신입 사원들 사이의 얼음을 깨는 데 도움이 됐어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Someone needs to break the ice before the meeting starts.",
+      "chosen": "회의 시작하기 전에 누가 총대 메고 분위기 좀 풀어봐.",
+      "rejected": "회의 시작 전에 누군가 얼음을 깨야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Nobody wants to talk about the elephant in the room.",
+      "chosen": "아무도 이 껄끄러운 문제(눈앞의 뻔한 문제)에 대해선 입을 안 열려 그래.",
+      "rejected": "아무도 방 안에 있는 코끼리에 대해 이야기하고 싶어 하지 않아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We need to address the elephant in the room: the budget cuts.",
+      "chosen": "우리 쉬쉬하지 말고 예산 삭감 문제에 대해 까놓고 얘기하자.",
+      "rejected": "우리는 방 안의 코끼리를 다뤄야 해: 예산 삭감."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "His sudden resignation is the elephant in the room.",
+      "chosen": "그의 갑작스러운 사임은 다들 알면서도 모른 척하는 화두야.",
+      "rejected": "그의 갑작스러운 사임은 방 안의 코끼리야."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I think you bit off more than you can chew with this project.",
+      "chosen": "너 이번 프로젝트 너무 무리하게 벌린 것 같아(감당 못 할 것 같아).",
+      "rejected": "이 프로젝트로 네가 씹을 수 있는 것보다 많이 물어뜯은 것 같아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't bite off more than you can chew by taking two jobs.",
+      "chosen": "투잡 뛴다고 너무 욕심부리다가 제풀에 지치지 마.",
+      "rejected": "두 개의 직업을 가짐으로써 씹을 수 있는 것보다 많이 물어뜯지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He realized he bit off more than he could chew.",
+      "chosen": "그는 자기가 감당 못 할 일을 저질렀다는 걸 깨달았어.",
+      "rejected": "그는 그가 씹을 수 있는 것보다 많이 물어뜯었다는 걸 깨달았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You hit the nail on the head with that analysis.",
+      "chosen": "네 분석은 진짜 정곡을 찔렀어(정확했어).",
+      "rejected": "너는 그 분석으로 머리에 못을 박았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She hit the nail on the head regarding the problem.",
+      "chosen": "그녀가 문제의 핵심을 아주 정확하게 짚어냈어.",
+      "rejected": "그녀는 문제에 관해 머리에 못을 박았어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I think his comment hit the nail on the head.",
+      "chosen": "걔 코멘트가 아주 뼈를 때리던데(딱 맞던데).",
+      "rejected": "나는 그의 논평이 머리에 못을 박았다고 생각해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Who let the cat out of the bag about the surprise party?",
+      "chosen": "누가 깜짝 파티 비밀을 누설한 거야(입 싼 놈 누구야)?",
+      "rejected": "누가 깜짝 파티에 대해 가방에서 고양이를 꺼내준 거야?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I accidentally let the cat out of the bag.",
+      "chosen": "내가 실수로 비밀을 말해버렸어(초를 쳤어).",
+      "rejected": "나는 실수로 가방에서 고양이를 꺼내줬어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't let the cat out of the bag before the announcement.",
+      "chosen": "발표 전까진 절대 입도 뻥긋하지 마.",
+      "rejected": "발표 전에 가방에서 고양이를 꺼내주지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He visits us once in a blue moon.",
+      "chosen": "걘 진짜 어쩌다 한번(가뭄에 콩 나듯) 우리 집에 와.",
+      "rejected": "그는 푸른 달에 한 번 우리를 방문해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I eat fast food only once in a blue moon.",
+      "chosen": "난 패스트푸드는 진짜 연중행사로 먹어.",
+      "rejected": "나는 오직 푸른 달에 한 번 패스트푸드를 먹어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Such an opportunity comes once in a blue moon.",
+      "chosen": "이런 기회는 진짜 평생 한번 올까 말까 해.",
+      "rejected": "그런 기회는 푸른 달에 한 번 와."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop sitting on the fence and choose a side.",
+      "chosen": "간 좀 그만 보고 확실하게 편을 정해.",
+      "rejected": "울타리 위에 앉아 있는 것을 멈추고 한쪽을 선택해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He is sitting on the fence regarding the new policy.",
+      "chosen": "그는 새 정책에 대해 이도 저도 아닌(애매한) 태도를 취하고 있어.",
+      "rejected": "그는 새 정책에 관해 울타리 위에 앉아 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You can't sit on the fence forever.",
+      "chosen": "언제까지고 그렇게 양다리 걸치고(결정 미루고) 있을 순 없어.",
+      "rejected": "너는 영원히 울타리 위에 앉아 있을 수 없어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She works part-time and studies; she has the best of both worlds.",
+      "chosen": "그녀는 일하면서 공부도 하고, 두 마리 토끼를 다 잡았네.",
+      "rejected": "그녀는 아르바이트하고 공부도 해; 그녀는 두 세계의 최고를 가졌어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Living in the country but working in the city offers the best of both worlds.",
+      "chosen": "시골 살면서 도시로 출근하는 건 전원생활과 도시 생활의 꿀을 다 빠는 거지.",
+      "rejected": "시골에 살면서 도시에서 일하는 건 두 세계의 최고를 제공해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I want the best of both worlds.",
+      "chosen": "난 이거저거 다 챙기고(누리고) 싶어.",
+      "rejected": "나는 두 세계의 최고를 원해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He looks scary, but don't judge a book by its cover.",
+      "chosen": "무섭게 생겼지만, 겉만 보고 판단하지 마(알고 보면 진국이야).",
+      "rejected": "그는 무서워 보이지만, 표지로 책을 판단하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "The restaurant looked shabby, but never judge a book by its cover.",
+      "chosen": "식당은 허름해 보였는데, 겉모습만 보고 판단하면 안 되더라(숨은 맛집이더라).",
+      "rejected": "식당은 허름해 보였지만, 결코 표지로 책을 판단하지 마."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I learned not to judge a book by its cover.",
+      "chosen": "사람은 겉만 보고 모른다는 걸 배웠어.",
+      "rejected": "나는 표지로 책을 판단하지 않는 법을 배웠어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I can kill two birds with one stone by shopping on my way home.",
+      "chosen": "집에 가는 길에 장보면 일석이조지(동선 딱이지).",
+      "rejected": "집에 가는 길에 쇼핑함으로써 나는 돌 하나로 새 두 마리를 죽일 수 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Cycling to work kills two birds with one stone: exercise and transport.",
+      "chosen": "자전거 출근은 운동도 하고 교통비도 아끼고 완전 님도 보고 뽕도 따는 거지.",
+      "rejected": "자전거로 출근하는 건 돌 하나로 새 두 마리를 죽여: 운동과 교통."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Let's kill two birds with one stone.",
+      "chosen": "한 번에 두 가지 일을 처리하자(퉁치자).",
+      "rejected": "돌 하나로 새 두 마리를 죽이자."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You missed the boat on the crypto investment.",
+      "chosen": "코인 투자는 이미 물 건너갔어(타이밍 놓쳤어).",
+      "rejected": "너는 암호화폐 투자에 대해 배를 놓쳤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Apply now before you miss the boat.",
+      "chosen": "나중에 후회하지 말고(기회 놓치지 말고) 지금 지원해.",
+      "rejected": "배를 놓치기 전에 지금 지원해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He missed the boat for the promotion.",
+      "chosen": "그는 이번 승진 기회를 날려버렸어.",
+      "rejected": "그는 승진을 위한 배를 놓쳤어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Our new manager is really on the ball.",
+      "chosen": "새로 온 매니저 진짜 일머리 좋아(빠릿빠릿해).",
+      "rejected": "우리 새 매니저는 정말 공 위에 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You need to be on the ball to catch errors.",
+      "chosen": "오류 잡아내려면 정신 바짝 차려야 해.",
+      "rejected": "오류를 잡으려면 공 위에 있어야 해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stay on the ball if you want to succeed.",
+      "chosen": "성공하고 싶으면 항상 깨어 있어야(준비되어 있어야) 해.",
+      "rejected": "성공하고 싶으면 공 위에 머물러."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Are you serious or just pulling my leg?",
+      "chosen": "진담이야 아니면 나 놀리는 거야(뻥카야)?",
+      "rejected": "진심이야 아니면 그냥 내 다리를 당기는 거야?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Stop pulling my leg, I know the truth.",
+      "chosen": "장난 그만 쳐, 나 다 알고 있어.",
+      "rejected": "내 다리를 그만 잡아당겨, 나는 진실을 알고 있어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He loves pulling his sister's leg.",
+      "chosen": "걘 여동생 골려먹는 걸 좋아해.",
+      "rejected": "그는 여동생의 다리를 당기는 걸 좋아해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "How is the project going? So far so good.",
+      "chosen": "프로젝트 어떻게 돼가? 아직까진 순항 중이야(무소식이 희소식이야).",
+      "rejected": "프로젝트 어떻게 돼가? 지금까지는 좋아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "We've had no issues, so far so good.",
+      "chosen": "문제없어, 지금까지는 아주 좋아.",
+      "rejected": "문제없었어, 지금까지는 좋아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "So far so good with the new diet.",
+      "chosen": "다이어트 아직까진 잘 버티고 있어.",
+      "rejected": "새 다이어트는 지금까지 좋아."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "You look lost, a penny for your thoughts?",
+      "chosen": "너 멍 때리고 있네, 무슨 생각 해?",
+      "rejected": "너 길을 잃은 것 같아, 네 생각에 1페니 줄까?"
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "A penny for your thoughts on this matter.",
+      "chosen": "이 문제에 대해 넌 어떻게 생각하는지 말 좀 해봐.",
+      "rejected": "이 문제에 대한 네 생각에 1페니."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "She offered a penny for my thoughts.",
+      "chosen": "그녀가 내 속마음(생각)을 물어봤어.",
+      "rejected": "그녀는 내 생각에 1페니를 제안했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "Don't just promise; actions speak louder than words.",
+      "chosen": "말만 번지르르하게 하지 말고 행동으로 보여줘.",
+      "rejected": "그냥 약속만 하지 마; 행동이 말보다 더 크게 말해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "I'll believe it when I see it. Actions speak louder than words.",
+      "chosen": "직접 봐야 믿겠어. 백문이 불여일견(행동이 증명)이지.",
+      "rejected": "보면 믿을게. 행동이 말보다 더 크게 말해."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He proved that actions speak louder than words.",
+      "chosen": "그는 행동으로 보여주며 자신을 증명했어.",
+      "rejected": "그는 행동이 말보다 더 크게 말한다는 걸 증명했어."
+    },
+    {
+      "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+      "input": "He stole my wallet and, to add insult to injury, mocked me.",
+      "chosen": "지갑을 훔쳐 간 것도 모자라 나를 조롱까지 했어. 완전 엎친 데 덮친 격이지.",
+      "rejected": "그는 내 지갑을 훔쳤고, 부상에 모욕을 더하기 위해, 나를 조롱했어."
+    },
+    {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Don't add insult to injury by laughing at him.",
+        "chosen": "안 그래도 힘든 애 앞에서 웃어서 불난 집에 기름 붓지 마.",
+        "rejected": "그에게 웃음으로써 부상에 모욕을 더하지 마."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "The fine added insult to injury after the crash.",
+        "chosen": "사고 난 것도 서러운데 벌금까지 내라니 진짜 너무하네(설상가상이야).",
+        "rejected": "충돌 후 벌금은 부상에 모욕을 추가했어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "If you think I did it, you're barking up the wrong tree.",
+        "chosen": "내가 그랬다고 생각하면 헛다리 짚은 거야(번지수 잘못 찾았어).",
+        "rejected": "내가 했다고 생각한다면, 넌 잘못된 나무를 보고 짖고 있는 거야."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Police are barking up the wrong tree with this suspect.",
+        "chosen": "경찰이 용의자를 잘못 짚고 헛수고하고 있네.",
+        "rejected": "경찰은 이 용의자와 함께 잘못된 나무를 향해 짖고 있어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Stop barking up the wrong tree and check the logs.",
+        "chosen": "엄한 데서 힘 빼지 말고 로그 파일이나 확인해.",
+        "rejected": "잘못된 나무에 짖는 것을 멈추고 통나무를 확인해."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Stop beating around the bush and say what you mean.",
+        "chosen": "빙빙 돌려 말하지 말고 본론만 딱 말해.",
+        "rejected": "덤불 주변을 두드리는 것을 멈추고 네가 의미하는 것을 말해."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "He kept beating around the bush about the salary.",
+        "chosen": "그는 월급 문제에 대해서 계속 말끝을 흐렸어(딴소리만 했어).",
+        "rejected": "그는 월급에 대해 계속 덤불 주변을 두드렸어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "I won't beat around the bush; you're fired.",
+        "chosen": "단도직입적으로 말할게. 당신 해고야.",
+        "rejected": "나는 덤불 주변을 때리지 않을 거야; 넌 해고야."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Losing that job was a blessing in disguise.",
+        "chosen": "그 직장 잃은 게 알고 보니 전화위복이었어.",
+        "rejected": "그 직업을 잃은 것은 변장한 축복이었어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Missing the flight was a blessing in disguise.",
+        "chosen": "비행기 놓친 게 오히려 천만다행이었지(신의 한 수였지).",
+        "rejected": "비행기를 놓친 것은 변장술을 한 축복이었어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "The rain was a blessing in disguise for the farmers.",
+        "chosen": "비가 온 게 농부들에게는 오히려 잘된 일이었어.",
+        "rejected": "그 비는 농부들에게 변장한 축복이었어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "I have to burn the midnight oil to finish this report.",
+        "chosen": "나 이 보고서 끝내려면 오늘 밤새워야(야근 확정) 해.",
+        "rejected": "이 보고서를 끝내려면 나는 한밤중의 기름을 태워야 해."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Students are burning the midnight oil for exams.",
+        "chosen": "학생들이 시험 때문에 밤새워 벼락치기 하고 있어.",
+        "rejected": "학생들은 시험을 위해 한밤중의 기름을 태우고 있어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "He burned the midnight oil to launch the startup.",
+        "chosen": "그는 스타트업 런칭하려고 밤낮없이 일했어.",
+        "rejected": "그는 스타트업을 시작하기 위해 자정의 오일을 태웠어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "It's ruined, but no use crying over spilled milk.",
+        "chosen": "망하긴 했는데, 이미 엎질러진 물이야(후회해도 소용없어).",
+        "rejected": "망가졌지만, 쏟아진 우유를 두고 울어봐야 소용없어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Stop crying over spilled milk and fix it.",
+        "chosen": "지나간 일 붙잡고 징징대지 말고 수습이나 해.",
+        "rejected": "쏟아진 우유 위에서 우는 것을 멈추고 고쳐."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "She is crying over spilled milk regarding her mistake.",
+        "chosen": "그녀는 이미 끝난 실수 가지고 계속 자책하고 있어.",
+        "rejected": "그녀는 그녀의 실수에 관해 쏟아진 우유를 두고 울고 있어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Don't ask too many questions; curiosity killed the cat.",
+        "chosen": "너무 꼬치꼬치 캐묻지 마, 모르는 게 약이야(다쳐).",
+        "rejected": "질문을 너무 많이 하지 마; 호기심이 고양이를 죽였어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "I opened the box, forgetting curiosity killed the cat.",
+        "chosen": "호기심 때문에 상자를 열었다가 봉변당했어.",
+        "rejected": "나는 호기심이 고양이를 죽였다는 것을 잊고 상자를 열었어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Curiosity killed the cat, so mind your business.",
+        "chosen": "쓸데없는 호기심 갖지 말고 네 일이나 신경 써.",
+        "rejected": "호기심이 고양이를 죽였으니까, 네 사업이나 신경 써."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Don't cut corners when building the house.",
+        "chosen": "집 지을 때 날림으로(대충) 하지 마.",
+        "rejected": "집을 지을 때 모서리를 자르지 마."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "They cut corners to save money.",
+        "chosen": "그들은 돈 아끼려고 꼼수를 썼어.",
+        "rejected": "그들은 돈을 절약하기 위해 코너를 잘랐어."
+      },
+      {
+        "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+        "input": "Cutting corners led to the accident.",
+        "chosen": "대충대충 하다가 결국 사고가 났어.",
+        "rejected": "모서리를 자르는 것은 사고로 이어졌어."
+      }]

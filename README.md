@@ -1,100 +1,117 @@
+# Qwen3 기반 한국어 초월 번역 (Hyper-Translation) 프로젝트
 
-# HyperCLOVAX-Slang-Translator: 영미권 슬랭/밈 초월 번역기 🇺🇸➡️🇰🇷
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![PEFT](https://img.shields.io/badge/PEFT-LoRA-orange)
-![HyperCLOVAX](https://img.shields.io/badge/HyperCLOVAX-0.5B-green)
-
-## 📖 프로젝트 소개 (Project Overview)
-이 프로젝트는 **HyperCLOVAX-SEED-0.5B** 소형 언어 모델(sLLM)을 **LoRA(Low-Rank Adaptation)** 방식으로 파인튜닝하여, 영미권의 슬랭(Slang), 밈(Meme), 관용구를 **한국의 인터넷 정서와 유행어에 맞게 '초월 번역(Cultural Localization)'** 하는 것을 목표로 합니다.
-
-기존 번역기가 "Hot potato"를 "뜨거운 감자"로 직역한다면, 이 모델은 **"논란의 중심(난리남)"**이나 **"어그로 끌리는 주제"**처럼 한국인 '찐친'이 말하는 듯한 자연스러운 구어체로 의역합니다.
+이 프로젝트는 Qwen3-0.6B 모델을 사용하여 영어 문장을 한국어의 인터넷 문화와 신조어를 반영한 **'초월 번역'**체로 변환하는 모델을 학습하고 평가합니다. Unsloth 라이브러리를 활용하여 Colab 환경(T4 GPU 등)에서도 효율적으로 학습할 수 있도록 구성되어 있으며, **SFT(지도 미세 조정)**와 **DPO(선호도 최적화)**의 2단계 학습 과정을 거칩니다.
 
 ---
 
-## 🚀 모델 로드 방법 (How to Load HyperCLOVAX)
+## 📂 디렉토리 및 파일 구조
+이 프로젝트는 Google Colab 환경을 기준으로 작성되었습니다. 실행 전 아래의 데이터 파일들이 준비되어 있어야 합니다.
 
-이 프로젝트는 Hugging Face의 `transformers`와 `peft` 라이브러리를 사용하여 구현되었습니다.
-네이버의 **HyperCLOVAX-SEED-Text-Instruct-0.5B** 모델을 Base로 사용하며, `trust_remote_code=True` 설정이 필수적입니다.
-
-### 1. 필수 라이브러리 설치
-```bash
-pip install torch transformers peft
-````
-
-### 2\. 모델 및 LoRA 어댑터 로드 (Python Code)
-
-학습된 LoRA 어댑터(`adapter_model`)를 Base Model에 결합하여 추론을 수행합니다.
-
-```python
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from peft import PeftModel
-
-# 1. Base Model ID 및 학습된 어댑터 경로 설정
-MODEL_ID = "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-0.5B"
-OUTPUT_DIR = "./path/to/your/adapter_model"  # 학습된 LoRA 가중치 경로
-
-# 2. 장치 설정 (CUDA / MPS / CPU)
-device = "cuda" if torch.cuda.is_available() else "cpu"
-if torch.backends.mps.is_available(): device = "mps"
-
-# 3. 토크나이저 로드
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
-if tokenizer.pad_token is None: tokenizer.pad_token = tokenizer.eos_token
-
-# 4. Base Model 로드 (학습되지 않은 원본)
-# 주의: trust_remote_code=True가 반드시 필요합니다.
-base_model = AutoModelForCausalLM.from_pretrained(
-    MODEL_ID,
-    torch_dtype=torch.float16 if device == "cuda" else torch.float32,
-    trust_remote_code=True,
-    device_map="auto" if device == "cuda" else None
-).to(device).eval()
-
-# 5. Tuned Model 로드 (Base + LoRA 결합)
-model = PeftModel.from_pretrained(base_model, OUTPUT_DIR).to(device).eval()
-
-print("✅ HyperCLOVAX Slang Translator 로드 완료!")
+```text
+project_root/
+├── train_eval_pipeline.ipynb  # 실행할 Colab 노트북 (또는 통합 파이썬 스크립트)
+├── data.json                  # [SFT 학습용] 데이터셋
+├── data_dpo.json              # [DPO 학습용] Chosen/Rejected 데이터셋
+├── test_data.csv              # [평가용] 테스트 데이터셋 (영어 원문, 정답 번역)
+├── lora_sft_output/           # (자동생성) SFT 학습 완료된 모델 어댑터 저장소
+├── dpo_final_model/           # (자동생성) DPO 학습 완료된 모델 저장소
+├── sft_test_results.json      # (자동생성) SFT 모델 추론 결과
+├── dpo_test_results.json      # (자동생성) DPO 모델 추론 결과
+└── final_full_comparison.csv  # (자동생성) 최종 성능 비교 결과 
+(BLEU 포함)
 ```
 
------
+---
 
-## 🛠️ 학습 방법 (Training Details)
 
-### 데이터셋 (Dataset)
+🛠️ 환경 설정 (Dependencies)
+Google Colab에서 실행 시 필요한 라이브러리입니다. 코드 최상단에 포함되어 있습니다.
 
-  * **구성:** 영어 관용구/슬랭 원문 ↔ 한국어 인터넷 의역 (약 500쌍)
-  * **Instruction:** "Don't translate it in Korean, but translate it according to Korean culture"
+Bash
 
-### 하이퍼파라미터 (Hyperparameters)
+pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+pip install --no-deps "xformers<0.0.27" "trl<0.9.0" peft accelerate bitsandbytes sacrebleu pandas
 
-  * **LoRA Config:** `r=32`, `lora_alpha=64`, `target_modules=["q_proj", "v_proj", ...]`
-  * **Training:** `num_train_epochs=15`, `learning_rate=3e-4`
-  * **System Prompt:** 모델에게 '한국인 찐친/네티즌' 페르소나를 강력하게 주입
+---
 
------
 
-## 📊 성능 평가 (Evaluation)
+## 📊 데이터셋 형식
 
-Base Model과 Tuned Model을 4가지 루브릭(의미, 통사, 문화, 문체)으로 비교 평가했습니다.
+### 1. SFT 학습 데이터 (data.json)
 
-| 입력 (Input) | Base Model (Original) | Tuned Model (Ours) | 비고 |
-| :--- | :--- | :--- | :--- |
-| **He’s the golden boy of the company.** | 그는 회사의 왕자님이라서... | **그는 회사 최고의 슛돌이거든?** | 'Golden boy' → **'슛돌이'** (문화적 치환) |
-| **That taco was bomb, amirite?** | 그 타코 진짜 맛있었다, 맞말이야? | **그 타코 진짜 맛있었다, 개꿀템이다.** | 'Bomb' → **'개꿀템'** (10대 슬랭 반영) |
-| **It hits different when...** | 줄 서 있을 때랑 느낌이 다르지. | **줄 서서 베라 사고 나면 느낌이 달라...** | 'Boba' → **'베라(배스킨라빈스)'** (로컬라이징) |
+JSON 포맷의 리스트 형태여야 합니다.
 
-### 결론 (Conclusion)
+JSON
 
-  * **Base Model:** 직역 위주이며, 문맥을 파악하지 못하고 딱딱한 문어체를 사용함.
-  * **Tuned Model:** 한국어 구어체(반말)를 자연스럽게 구사하며, **문화적 공명(Cultural Resonance)** 점수에서 탁월한 성능을 보임. 단, 0.5B 모델의 한계로 인해 복잡한 문장에서는 간헐적 환각 현상이 발생함.
+[
+  {
+    "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+    "input": "That's hilarious!",
+    "output": "아 ㅋㅋㅋ 진짜 개웃기네"
+  },
+  ...
+]
 
------
+### 2. DPO 학습 데이터 (data_dpo.json)
 
-## ⚠️ 한계점 (Limitations)
+선호(Chosen) 답변과 비선호(Rejected) 답변이 포함되어야 합니다.
 
-  * **모델 사이즈 (0.5B):** 파라미터 수가 적어 문학적 표현이나 긴 문맥에서 논리적 오류가 발생할 수 있습니다.
-  * **영어 회귀:** 학습 데이터에 없는 낯선 고유명사가 등장하면 한국어 생성을 멈추고 영어를 출력하는 경향이 있습니다.
+JSON
 
-<!-- end list -->
+[
+  {
+    "instruction": "Don't translate it in Korean, but translate it according to Korean culture",
+    "input": "That's hilarious!",
+    "chosen": "아 ㅋㅋㅋ 진짜 개웃기네",
+    "rejected": "그것은 매우 재미있습니다."
+  },
+  ...
+]
+
+### 3. 평가 데이터 (test_data.csv)
+
+CSV 파일로, 컬럼명은 아래와 같아야 합니다.
+
+영어 원문 (Source Text): 입력 영어 문장
+
+초월 번역: 정답(Reference) 한국어 문장
+
+## 🚀 실행 프로세스
+
+전체 코드는 순차적으로 실행되며, 크게 4단계로 구성됩니다.
+
+### 1. SFT (Supervised Fine-Tuning)
+
+기본 모델(Qwen/Qwen3-0.6B)에 LoRA를 적용하여 data.json으로 1차 학습을 진행합니다.
+
+모델: Qwen3-0.6B (4bit Quantization)
+
+System Prompt: 한국 인터넷/청년 문화에 맞춘 번역 지시
+
+저장 경로: lora_sft_output/
+
+### 2. SFT 모델 평가
+
+학습된 SFT 모델을 로드하여 test_data.csv의 샘플을 번역하고 결과를 저장합니다.
+
+출력: sft_test_results.json
+
+### 3. DPO (Direct Preference Optimization)
+
+SFT가 완료된 모델(lora_sft_output)을 불러와 data_dpo.json을 사용해 선호도 학습을 진행합니다.
+
+목적: 모델이 더 자연스러운 '초월 번역'을 선택하도록 조정 (직역체 거부)
+
+저장 경로: dpo_final_model/
+
+### 4. DPO 모델 평가 및 비교
+
+최종 DPO 모델로 추론을 수행하고, 앞서 수행한 SFT 결과와 비교합니다.
+
+평가 지표: BLEU Score (SacreBLEU 사용)
+
+출력:
+
+dpo_test_results.json: DPO 추론 결과
+
+콘솔 출력: SFT vs DPO 점수 비교
